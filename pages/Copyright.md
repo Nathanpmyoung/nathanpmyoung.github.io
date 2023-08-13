@@ -1,0 +1,7 @@
+- Copyright is, in general bad, since it is far too long. Authors should be incentivised to produce work and so protecting their sales in the first 5 or 10 years seems good. But after this it doesn't seem good to me. [[J. K. Rowling]] should still derive money from the [[Harry Potter]] [[Books]] that are her direct works, but there should be some way for others to gain money from derivative works.
+- The only case that feels different to me is [[Films]] and [[TV]]. Here there is clearly value to the creators in taking an established property. It seems bad that this value should be free to filmmakers, unless the work has been around for a long time.
+- I guess I settle that
+	- Within 5 - 15 years all copyright belongs to the author though they can license that copyright at some price
+		- I'm told that sometimes not aggressively pursuing copyright can lead to bad outcomes for the copyright holder. Seems like some unauthorised works benefit the copyright holder
+	- The original works and new media that are based on them should belong to the author for 15 - 30 years.
+	- It should be possible to edit others work and make some money for doing so. Initially I suggest some fraction of the words changed. The new work would have to clearly be denoted as different.

@@ -1,0 +1,2 @@
+- This is not a real todo list - I don't intend to do any of these things. If I did, they'd be on [[Asana]]
+- Feel free to do any of them. All are exchangeable for a favour from me.

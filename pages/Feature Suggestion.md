@@ -1,0 +1,7 @@
+- [[Logseq]] [[Feature Suggestion]] s - often things I'd like on this site
+	-
+	- {{query (and [[Logseq]] [[Feature Suggestion]])[[Logseq]]}}
+- [[LessWrong]]
+	- How to get the [[LessWrong]] [[Wiki]] used more?
+		- [[not my idea]] Allow changes to be reverted
+		-

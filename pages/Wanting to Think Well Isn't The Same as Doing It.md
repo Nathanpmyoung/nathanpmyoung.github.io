@@ -1,4 +1,4 @@
-- [[blog]]
+- [[Blog]]
 - *It feels good to have my own criticisms of something I love. So that when people criticise it, I can say "well I think there are some good reasons for criticism". There is an enjoyment to not being a rube, not being fully taken in. In that spirit be wary of the following criticism, because it was fun to write.*
 - Wanting to think well isn't the same as doing it. [[Effective Altruist]]s want to think well. Here is some evidence:
 	- They spend a lot of time discussing their thoughts.

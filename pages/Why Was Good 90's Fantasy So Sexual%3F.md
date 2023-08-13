@@ -1,0 +1,5 @@
+- Examples
+	- [[Dragonriders of Pern]] Some of the exploration here is interesting, but it is sooo explicit. In some sense more explicit than if it were just erotica. My memory of these books, which I read when I was 11 - 15 is pretty hazy, but I remember them looking at impotence in detail one time.
+	- [[The Name of The Wind]] I guess not published in the 90s but I don't care. It was a hangover
+	-
+	-

@@ -1,3 +1,3 @@
-- [[blog]]
+- [[Blog]]
 - I desire connection.
 - Many times I think I want other things - novelty, status, desire. And to some extent I do, but ultimately without connection these things fall flat

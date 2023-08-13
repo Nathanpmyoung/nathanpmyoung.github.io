@@ -1,4 +1,4 @@
-- [[blog]]
+- [[Blog]]
 - *"Oh you've got to try wearing an eye mask," John said. "There is nothing like it"*
   
   *Teresa rolled her eyes. Not this again*
