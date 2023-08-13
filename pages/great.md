@@ -1,0 +1,11 @@
+- *Things which are great are great the first time* - paraphrase of [[Saloni Dattani]]
+	- We can grow accustomed to anything. But things which are great should be good to someone the first time without much context.
+- [[film]]
+	- [[The Prestige]]
+- [[Documentary]]
+	- [[Tickled]]
+	- [[The Search for the Sugarman]]
+- [[book]]
+	- [[The Man]]
+	-
+	-

@@ -1,0 +1,20 @@
+- *This page is from a [[Utilitarian]] point of view but as if the current-ish humans in the UK are the only beings that matter*
+- LATER Add £ value
+- Avoid [[Catastrophic Risk]]
+	- Huge disasters are bad
+- Build more houses
+	- [[Street Votes]]
+	- Thoughts
+		- Allow developers to pay local residents for approval
+		- Give councils tax raising powers based on population
+- Stable and higher high skilled immigration
+	- How much do the top skilled add vs those less skilled?
+- Get cheaper energy
+	- Make approvals of green projects easier
+- Pay top decision-makers more
+	- [[MP]]s
+	- Give [[MP]]s more staff
+	- Top [[Civil Servant]]s
+- NGDP futures
+- Experimentation
+-

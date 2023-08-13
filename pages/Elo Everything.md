@@ -1,0 +1,8 @@
+- URL
+- A site that allows users to rank any set of things according to elo
+- Possible uses
+	- EloBooks
+	- EloGrants
+		- Which grants have been best value per $
+		- Give amount achieved, give cost$
+	-

@@ -1,0 +1,3 @@
+- [[blog]]
+- Forecasting is growing in both size and prestige. As this happens there are misconceptions or errors that start to spread. Errors are bad in and of themselves, but they also waste people's time and cause correction. Sometimes people are left feeling forecasting ought to be taken down a peg. I sense it's better to do that oneself before someone does it for you.
+-

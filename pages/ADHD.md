@@ -1,0 +1,5 @@
+- My honest view is that I don't really know what ADHD is. But I do know that if you don't feel like you are making progress on your goals, you're constantly distracted, the are other options. Trying to get a diagnosis and medication is one of them.
+- Medications tried
+	-
+- Tips
+	-

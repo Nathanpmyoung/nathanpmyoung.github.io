@@ -1,0 +1,30 @@
+- Discussion event
+	- Change a View
+	- New discourse technology
+	- Come with one view, leave with another
+	- What do you think is the most important topic
+		- Ask for people to shout out/submit
+		- [[AllOurIdeas]]
+	- Start at the top
+	-
+- Expert sit-down
+	- A debate between two experts on a specific topic (A and B)
+	- A chair introduces both experts with reference to their best track records
+	- Optional: take a vote one where the audience currently is on the topic, giving statements until half say they agree more with one expert and half think they think they agree more with the other expert
+	- Optional: set up a prediction market on whether at the end of the discussion when we find a new equilibrium it will be closer to the first expert. This is shown on a big screen
+	- Each expert gives a 3 minute opening statement of their position
+	- A interviews B. A can ask any question on the topic, is able to interrupt B, but the aim should be for B to mainly be talking. (10 mins)
+	- The reverse. B interviews A. The topic doesn't need to be the same. B can lead wherever they like. (10 minus)
+	- This happens another time (20 minutes for both)
+	- Optional, all the while the crowd can predict the final vote
+	- The experts are allowed a 3 minute wrap up to say anything they have missed/emphasize
+	  Optional, the audience is reminded that it's not about who spoke best, or who gave the most unanswered arguments, but what we think reality is like
+- Changing sides
+- Example topics:
+	- Are the most effective charities more or less than 1000x as good as the median
+	- To what extent do immigrants resemble the community they move to vs those they come from
+	- Should EA be a community for each cause or one big community that prioritises across multiple
+	- Is p(doom) higher than 50% or 5%
+	- EA: has it been net negative or net positive?
+	- Wild animal welfare: is it tractable? (inspired by this)
+	- Is forecasting overrated? (inspired by this and Vasco’s post)

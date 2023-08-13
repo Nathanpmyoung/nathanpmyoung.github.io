@@ -1,0 +1,11 @@
+- Big conservative wins
+	-
+- Big progressive wins
+	- Women suffer bad treatment in much of the world
+- Big conservative losses
+	- They keep electing liars and charlatans
+- Big progressive losses
+- Things that don't really matter
+	- Progressives are a bit annoying
+	- Conservatives are on average more chill
+	-

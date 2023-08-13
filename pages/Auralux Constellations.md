@@ -1,0 +1,17 @@
+- Auralux is a good [[Game]]
+	- I have played it more than many games
+	- It's easy enough to faff about on but hard enough to come back to
+	- It is very simple in terms of UX - there is one type of unit and one upgrade path
+	- It is visually pleasing
+- But it feels pretty flawed
+	- There are no marginal changes. It seems to me at least that at any point it's as good to do any upgrade or landgrab as any other.
+	- Likewise All troops have the same abilities and last an infinite time
+- Some suggestions
+	- Subsequent levels of a star cost more resources than their increase in production rate
+	- Destroying a star is easier than the cost it takes to create
+	- Troops die over time
+	- Troops gain a defensive bonus when around a star/certain types of star
+	- Some stars produce ranged troops
+	-
+-
+-

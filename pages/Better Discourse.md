@@ -1,0 +1,14 @@
+- My ordered thoughts are here: [[Two Processes for Better Decisionmaking]]
+- Discourse is bad. I guess this is a widely held opinion
+- Currently we aren't coming up with workable solutions
+-
+- What would success look like
+	- A conference run with better discourse processes
+	- A party run with better discourse processes
+		- [[Experimental Parties]] Political party - Get a manifesto together by the end of the evening that everyone present agrees with.
+	- Regular usage on the
+		- [[EA Forum]] [[LessWrong]] - anyone else running one would feel like a minor win
+		- [[Manifold]]
+			-
+		- [[Manifund]]
+			- Comments on the grant.

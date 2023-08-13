@@ -1,0 +1,8 @@
+- [[Book]] [[Favourite]] [[The Culture]] [[Iain M. Banks]]
+- Themes
+	- [[Hell]] [[Goodness]]
+- [[spoiler]]
+	- Demeisen lies to Veppers in saying that he won't come to harm from him or Ledegia. I sense minds should use [[Functional Decision Theory]] and so they should want to be able to be trusted to make deals even if they would later want to break them. Hence he should be able to make a deal that would bind him.
+	- Likewise, probably on balance does behaviour that [[The Culture]] finds very beneficial. Probably there should be a benefit to individuals who do this on a galactic scale, even odious ones.
+	-
+	-

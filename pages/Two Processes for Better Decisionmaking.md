@@ -1,0 +1,26 @@
+- tl;dr
+	- Most value is in knowing what's going to happen
+	- We ask experts for this "what will this policy do?" "will the space rocket fly?"
+	- For political predictions (which most predictions that aren't already predicted by the stock market) experts are worse than random
+		- See Tetlock
+	- Well-calibrated forecasters are good at this
+	- This seems to imply a better system would be to get decision-makers to ask groups of forecasters what will happen and for them to ask the experts if they need domain expertise
+		- In this way it resembles Futarchy
+	- This has two kinds of problems
+		- It is elitist. Elites always like to contrive of reasons that they alone should get to make the decisions
+			- decision-makers and forecasters get to provide most of the input to decision-making
+			- And surprise surprise I'm part of one of these groups. We should be suspicious of this
+		- It is opaque. If the forecasters seem to be biased, what is the response?
+	- For these reasons it might have led to atrocities in the past. Elite groups have supported communism, fascism, development of nuclear weapons, etc etc. Elites are frequently poor at making decisions for the whole
+	- Alongside this process therefore I would like another, which is more transparent
+	- People create probabilistic models of their understanding of the situation eg [[Estimaker]]
+	- People input their own probabilities into other people's models
+	- People choose between different models
+		- For the moment, let's say voting, but equally it could be
+		- Trying to build models that are supersets of all other models (too intensive to fill in)
+		- Dictator (me) makes models that get to the cruxes of other models (again, elitist & opaque)
+		- Something more elegant
+	- Where they disagree on either probabilities or models, there can be narrow, focused debate (see [[Better Debates]])
+	- Create models again and see if there is more concensus
+	- Test models for accuracy
+	- If there is both accuracy and consensus and transparency then this seems an alternative that is better than the current systems

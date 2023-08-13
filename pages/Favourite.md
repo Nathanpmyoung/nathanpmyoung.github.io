@@ -1,0 +1,2 @@
+- Things I think are wonderful.
+- Notably different from [[great]] in that if you and I have different tastes you may not like these books

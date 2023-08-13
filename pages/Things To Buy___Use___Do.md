@@ -1,0 +1,10 @@
+- Other people's lists
+	- [[Robert Wiblin]]
+	- [[Sam Bowman]]
+- Eye mask
+- Ear plugs
+- [[Asana]]
+	- I find it hard to know whether [[Asana]] is much better than the alternatives or whether I just like [[Dustin Moskovitz]]. Regardless, having a task management process that I like has been really valuable to me.
+- Give experiences, not advice
+	- These days I rarely tell people what to do, instead I say what my experiences have been. I think it properly contextualises this stuff. I don't know what will be useful to you, but for me - [[I Say I]]
+	-
