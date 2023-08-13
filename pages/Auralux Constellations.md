@@ -12,6 +12,4 @@
 	- Troops die over time
 	- Troops gain a defensive bonus when around a star/certain types of star
 	- Some stars produce ranged troops
-	-
--
--
+- It looks like the [[VR]] game designed by this game's designer might have them
