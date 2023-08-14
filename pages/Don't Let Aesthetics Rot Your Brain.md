@@ -1,0 +1,44 @@
+- [[Blog]]
+- A common thing I feel when discussing with people is that there is some deep argument going on than the one we are having.
+- Often this is a discussion of aesthetics.
+- Examples
+	- "But have a large and unwieldy civil service doesn't take into account the incentives"
+		- [[Libertarians]] love to shuffle huge amounts of discourse behind their aesthetic preference for simplicity and mechanism design.
+		- "Couldn't we come up with a bounty system for this?" "Have you ever run a bounty system? Who is gonna manage this? Who will say who wins and loses. You want a frictionless open system - well who is gonna build it"
+	- "The [[Prime Minister]] shouldn't fly around on a jet, he should get briefings on a train"
+		- Whatever you think the [[Prime Minister]] should get paid we should want his focus on the job. I don't know how much a private jet costs on a yearly basis, but given how annoying trains and public planes are, I want him as chilled out, rested and focused as possible - I'm willing to pay for that.
+		- To me this looks like an aversion to wealthy aesthetics. Even when they are beneficial.
+	- "But ultimately doesn't it seem like there is more to life than this?"
+		- Let's imagine we are discussing if [[God is real]]. After a long discussion where some progress is made, someone may say something like this. We have now shifted from a discussion of some evidence or theory to aesthetics - *Surely it would be preferable if God were real?*
+		- Well maybe, but that's a different argument. An aesthetic preference for meaning/control isn't the same as an argument
+	- "There are far too many people"
+		- Jane Goodall said the following, "What I really, really, really would love to change, without causing pain or suffering: reduce the number of people on the planet,because there’s too many of us. It’s a planet of finite resources and we’re using them up. And that’s going to cause so much suffering in the future.”
+		- Jane is mixing up her aesthetic preference for fewer people with what would actually happen. If we had a vastly smaller population, would we actually be reducing carbon faster? Would we be finding solutions faster? Were the 1500s actually better (especially since they led to the present day)
+- Heuristics
+	- *When the thinking gets done*
+	  *by some neat rule of thumb*
+	  
+	  *That's heuristics*
+	- It's hard for us to understand or think about everything, so we learn [[Rules of Thumb]] to judge whether things are true or false.
+	- But for really important things, using rules of thumb is harmful. I want to figure out the thing from scratch.
+		- It's understandable to think "simple mechanisms are better" or "people shouldn't be
+	- Heuristics are good for
+		- Repeated situations
+			- "When I come to this situation it often helps to use Stack Overflow"
+		- Situations that match your ancestral environment
+			- "If I don't eat soon, I'm gonna collapse"
+		- Things that don't matter
+			- "I can't choose what to eat, eenie meanie minie mo"
+	- They are bad for
+		- Complex situations
+			- "Government should be as simple as possible so I can understand it" Should it? Why?
+		- High stakes situations that resemble low stakes ones
+			- "I often just split the difference in [[Negotiation]]" Fine if we are talking about $5, not fine if we are talking about $5000
+			- "I don't let people walk over me so I, the US President will threaten [[Nuclear Weapon]]s" I'm not saying this was definitely wrong, but I guess [[Trump]] didn't spend a long time consulting with security chiefs. He just typed a threat to a Nuclear adversary
+	- All too often in political discussions, I think I'm in a frame of discussing the real world, but then some aesthetic/heuristic judgement comes in. *Who cares what your gut says here, the question is what's real*
+- Possible getouts
+	- "I understand the intuition but for me the question is, what is really going on. That may or not match our intuitions"
+- [[Mistake]]
+	- I am prone to preferring simplicity over most things. I think this leads me to underrate [[Government]] [[Bureaucracy]] a little
+	-
+-

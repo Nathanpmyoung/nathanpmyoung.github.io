@@ -1,14 +1,18 @@
-- My ordered thoughts are here: [[Two Processes for Better Decisionmaking]]
-- Discourse is bad. I guess this is a widely held opinion
-- Currently we aren't coming up with workable solutions
--
-- What would success look like
+- Many discussions between clever informed people don't seem to get anywhere
+	- eg AI, Housing, LGBT+, trans, nuclear power
+- Positive sum answers are possible
+	- If you don't believe this then you wouldn't expect progress. But I do, so why aren't we moving faster
+- How do we agree more quickly on what we agree on and so make progress on that? My theories:
+	- Discourse has no checkpoints
+		- The same discussions happen week in week out. It's hard to say "no, we've already discussed that, it's not up for debate any more"
+	- Disagreement and ambiguity are more interesting than concesus
+		- Look at the youtube shows which focus on consensus. The episode with Flat Earthers and Scientists asks questions like "the other side are ill informed" and "I am smarter than the other side" rather than "enquiry is important" "planes fly" etc
+	- Understanding the future is really hard for everyone
+		- It's not clear that there are shortcuts to future knowledge. Political experts are worse than random. [[Expertise]] in general is bad at predicting the future. How many Discourse problems are solved mainly by waiting?
+- What I work on
+	- [[Viewpoints]] - a tool to get opinions on complex topics.
+	- Viewpoints allows people to quickly swipe on statements and allows the questioner to find consensus. Likewise people can make comments to say what  they are uncertain of in the statements.
+- What would success might look like.
 	- A conference run with better discourse processes
-	- A party run with better discourse processes
-		- [[Experimental Parties]] Political party - Get a manifesto together by the end of the evening that everyone present agrees with.
-	- Regular usage on the
+	- Websites working more using consensus tools
 		- [[EA Forum]] [[LessWrong]] - anyone else running one would feel like a minor win
-		- [[Manifold]]
-			-
-		- [[Manifund]]
-			- Comments on the grant.

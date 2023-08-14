@@ -1,3 +1,5 @@
+alias:: God is real
+
 - This is a version of the thinking I did during my [[Deconversion]].
 - # Preamble
   collapsed:: true
@@ -19,73 +21,9 @@
 			- Many discussions boiled down to "some of us presume God is real, some don't, that's just the way it is"
 				- Firstly, if [[Eternal Damnation]] depends on whether someone made an arbitrary choice that seems unjust
 				- Secondly more assumptions are worse than fewer - they require more checking. Hence there are more possible errors to make
-- # Main argument
-- ## Where we are up to: We should aim to understand the world still better with fewer assumptions using the scientific method
-  Many things can’t be understood in scientific terms - love beauty etc
-- -
-  We do not need to understand things for them to be valuable - we need not understand or even be able to understand love and beauty for them to matter
-- -
-- What alternate method does one suggest for learning about love and beauty with results in the real world? Ie which teach us to be able to reliable create beautiful things. If religion, what knowledge does this create on love and beauty which you don’t have to presume love and beauty to acknowledge it exists
-- -
-  We have no reason to believe science can’t understand beaty - we surely would have once thought science couldn't’ understand speciation but now that answer’s better. Beauty has real measurable effects both in measuring what is beautiful and measuring people’s response to it. These are both realms in which science has previously provided answers.
-- ## The scientific method relies on falsifiability
-- Things that are scientific are falsifiable ie if they were false, we could know, and since they haven’t been proven to be, they may be true. Things that are not falsifiable are intrinsically untestable and so must be assumed and it should be acknowledged that is the case.
-  Any of the above processes (air travel, medical technology) might just be luck, but why are we so lucky in the last 500 years? If they aren’t luck they are proof of efficacy of some method(s). The fact that these processes work as we expect them to when they could fail means the technology which runs them is falsifiable - air engines could fail, mri scanners might not work. That they do is either so stratospherically unlikely or the functioning of a testable method.
-- ## We should research our worldview using falsifiable methods
-## Doesn’t Cartesianism cause a problem here?
-- says that everything can be doubted but that relies on faith
-- I doubt A because of B. But you believe B by faith
-- Really?
-- I doubt A because you have not proved it. But this assumes that there is something which can be proved. This is by faith.
-- I doubt everything
-- Has there been a collapse in enlightenment values?
-- Am I being unfair to the Christian worldview? How? How could I critique this worldview in the same manner?
-- # The Process
-## What is it?
-- I will take 5 weeks off work exploring the points and counterpoints to if the God of the Bible is real. I will search within each point to see if it stands up to criticism. Points (or counterpoints) which don’t stand up to criticism will be ignored. I will count the number of (surviving) points, and the number of counterpoints and which ever side has more will convince me, either of God’s existence or that I do not know. Note I am not seeking to see if He doesn’t exist, there is no way I could know that. Perhaps if there are similar numbers and lots for each, I will add extra time to the process, I don’t know. Note that if there are none for each, I guess I wouldn’t believe in God, since there is no reason to, whereas if there lots for each it would be much harder. At the end I will either continue as a Christian and work out what I want to do with the rest of my life or I will stop considering myself one, I will stop going to church, praying, considering God’s law the highest duty and doing all that I do and will likewise work out what I want to do with the rest of my life.
-- Genuinely, if you think this is a bad process, how would you improve it and how would the new process be falsifiable
-- ## Frequently Asked Questions
-### Why take 5 weeks
-- This is largely arbitrary though I will be spending perhaps 22.5 hours a week thinking about this consistently. I can’t reasonably take much more time off work than this (even the current period may be stretching it). So in total I’ll have spent at least 110 hours thinkin on this in depth. If I were to spend evenings of normal life I guess this amount of thinking would be fractured and take about (2hours/day, 2 days/week,) over a year during which I would be unsure about whether I believed the core aspect of my life. Compressing this seems wise because it’s really painful.
-- Likewise other than in terms of Christianity’s somewhat final tone on apostasy ([Hebrews 6:4-6](https://www.biblegateway.com/passage/?search=Hebrews+6%3A4-6&version=ESV)) this need not be my final decision. I can change my mind in the future, but I do not want to live this way for years if I do not think it is true.
-- ### Surely you are just choosing what you want?
-- Previously I have come to this crisis (“Is God real?”) and I would say I researched poorly. I remember thinking for a while and writing down the pros and cons. There were a lot more pros so I remember thinking “it need not be a hard decision, many things that are true aren’t” and I felt justified in believing in God. At that time I had read very few serious critiques of my position, nor did I debate with any serious agnostics/athiests. I would say now that I made that choice in a poor way, largely subjectively, by using a process which would only get me what I wanted.
-- Can the same criticism be leveled at the current process?
-- The attempt here is to create a process which is objective and stands aside from what I want to be the case. Notably that it is a process which could actually make me leave Christianity. I didn’t intend to leave, but I though if I was to honestly engage my process would have to be able to make me do so. My world view had to be falsifiable. Perhaps this process is flawed, I’m interested to know your thoughts, but any other process must in my opinion be better. (this may be a [best map fallacy](https://twitter.com/NathanpmYoung/status/1089920106782748672), but I think modern evangelical Christianity is too therefore, by that thought I should become a Catholic)
-- As to what I want, I have moved around. To begin with I wanted to be a Christian. Largely now I don’t. Often towards the end of long conversations with Christians I do want to be one. It is perhaps at some of those points I think, if this weren’t a rigorous process with safeguards that I think I could stop thinking about this and convince myself I had.
-- ### You seem quite down, can you trust yourself to make life-changing decisions?
-- This is the most fundamental thing in my life, I cannot imagine that this process would ever be easy or pain free. This *is* hard, I *am *stressed, it does make me emotional. But that is hardly surprising and I don’t think I would think better about it over a longer period of time, I think I would just be more uncomfortable. In fact, as I contemplate extending the process I wonder whether I would just stay a Christian because it was easier and less painful, rendering the process just as unfalsifiable as I had previously feared. There has to be a chance I can leave so that my staying means anything.
-- ### This all sounds very rational
-- This requires a longer answer.
-- ### This all sounds very emotional
-- What can I say, I’m an emotional guy (#Joke). But seriously, I am emotional and at times insecure and what issue could I be more emotional about than this. There is an emotional side to all this, but I don't want to let that make the decision for me.
-- I am happy to talk about the emotional issues, they are important, but they will not make me stay a Christian. Likewise, I think I have fairly good reasons for much of my anger towards my current situation and Christianity in general, if it isn’t true.
-- ### You’re being an ass
-- Sometimes, however:
-- -
-- I’m sorry for my rudeness and difficulty
-- -
-  This is really hard for me, I’m lonely, scared, hurt and constantly questioning all I have ever believed (please don’t think this makes the process bad unless you can suggest a better one). I realise that for some Christians I talk to, this is hard for them, both on interpersonal grounds but also ideological ones. Though let’s note that as hard as it is, I am having 10 - 20 interactions like this compared to their one.
-- -
-- People often want to talk about “how we got here” as opposed to genuinely dealing with the arguments at hand. That frustrates me. I am much happier to deal witth the emotional arguments once someone has shown a genuine issue in the more important intellectual side to all this.
-- -
-- Sometimes questioning any aspect of faith is considered being an ass, I’m not willing to stop questioning
-- -
-- Some positions are bad or are unlikely (in my opinion) to be genuinely held, I am tired of having to argue that slavery and child mortality are bad. I am tired of bizarre positions that people don't’ actually believe but suggest to argue against my positions. At these times, I might suggest an “arrogant” dismissal is the correct answer. If you think the Nazi’s werent’ bad, what can we honestly discuss?
-- -
-- Having people realise that you don’t believe the same things as them is awful, particularly having to watch them slowly realise. Sometimes it’s easier to be difficult and upset them rather so they dislike you rather than pitying and losing respect for you. This is a bad reason but hopefully it might explains something.
-- -
-- I am scared about my future, of losing all I hold dear. This is NOT a good argument for staying, but it doesn’t make it not scary to lose.
 - # What evidence is there for which the God of Bible is the best explanation? Why need I additionally assume his existence to make X more likely?
 - As a quick example, it’s impossible to prove miracles don’t happen, but they are clearly exceedingly rare. I have never eaten a sandwich which turned into a frog and I guess I have eaten about 10 sandwiches a week since I was about 4 ( roughly 20*50*10=10000). If for the sake of argument one of my sandwiches had, that would still be a 1 in 10000 occurrence. If one of my sandwiches wasn't where I left it, I would still assume I had misplaced it rather than the frog hypothesis. Not because it was impossible, but because it was less probable.
-- The central argument is not about the impossibility of miracles, they are possible, but clearly they are improbable, we have few accounts of them happening, even if we trust those accounts. What is the additional evidence to make us think it was a sandwich turning into a frog, rather than just my forgetfulness or otherwise? You must be able to find a flaw in my logic here to be able to dismiss this argument.
-- How would you quantify which is more or less likely than the other?
-- The Gospels, Acts & the Epistles, the growth of the church
-- ## How do we judge history
-- Explanatory scope
-- Explanatory power
-- Plausibility
-- Few assumptions
+- The central argument is not about the impossibility of miracles or ()of God), they are possible, but clearly they are improbable, we have few accounts of them happening, even if we trust those accounts. What is the additional evidence to make us think it was a sandwich turning into a frog, rather than just my forgetfulness or otherwise? You must be able to find a flaw in my logic here to be able to dismiss this argument.
 - ## The Gospels
 - What is it in the gospels which is hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
 - -
@@ -130,6 +68,131 @@
 - What evidence do we have that even if such a body were displayed and some or even many had turned away from Christianity that we would know about that now?
 - -
 - How well do modern people deal with even incontrovertible proof that their worldview is false? (see flat earthers, mormons etc)
+	- Earliest jewish polemic presupposes stolen body
+	- -
+	- Guard at tomb suggests jews said there was no body
+	- -
+	- Paul envisages a transformation of body (not an exchanges)
+	- -
+	- Paul means intrinsic change
+	- -
+	- Sowing and reaping same thing
+	- -
+	- This perishable puts on imperishable
+	- -
+	- No scholarly consensus
+	- -
+	- No evidence that the body (if it was left) was used for necromancy or healing etc
+	- -
+	- Would they have used it for this if it were still around?
+	- -
+	- The Unfortunate nature of the stories
+	- -
+	- Jesus triumphs
+	- -
+	- The clueless nature of the disciples
+	- -
+	- This is a literary device like the crew in the odyssey
+	- -
+	- Characters in odyssey are fictional, but Peter and disciples were known church leaders
+	- -
+	- Literary devices can apply to both real and fake people. Non-fictional works contain literary devices.
+	- -
+	- A resurrected saviour
+	- -
+	- Philo writes about Jesus
+	- -
+	- Where is the evidence for this?
+	- -
+	- Other similar death and resurrection cults
+	- -
+	- **Osiris physical resurrection on walls of pyramid**
+	- -
+	- Death / resurrection theme was popular but never conceived of as literal (check Wright
+	- -
+	- No expectations of messiah dying and rising
+	- -
+	- Daniel, Isiah, Wisdom of solomon, gabriel inscription all suggest death and resurrection of messiah
+	- -
+	  Pauls says firstfruits - it was the soon apocalypse
+	- Did the authors believe that the gospels were literally true?
+	- John is admittedly biased
+	- -
+	- And many other signs truly did Jesus in the presence of the disciples, which are not written in this book: but these are written that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have through his name.
+	- What genre are the gospels?
+	- ## The Epistles
+	- What is it in the epistles are are hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
+	- -
+	- Significant changes in opinion:
+	- -
+	- Peter hitchens changed from being a socialist to being a conservative
+	- -
+	- My opinion is changing on this
+	- -
+	- Jonathan Edwards used to be a christian, now he’s not
+	- -
+	- People clearly convert and deconvert from significant ideologies all the time
+	- -
+	- Paul claims to have seen a vision
+	- -
+	- There is significant literature on hallucinations, we do not believe them to be miraculous or to point to any specific god
+	- -
+	- How could they? Many of the gods to which they point to disagree
+	- -
+	- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/)
+	- -
+	- Note Paul does not claim to have seen Jesus alive (other than in visions), nor that the gospel he teaches comes from people who have, he specifically claims his Gospel is not from men and that he preached for 3 years before he met anyone who we think (cause he doesn’t say) saw Jesus in the flesh
+	- -
+	- Gal 2: he claims at the same time that his visionary calling is consistent with the proclamation of the 'pillars' / leading figures in the church
+	- -
+	- He probably thinks it is, but that doesn’t mean he has seen Jesus nor that his gospel comes from people who have. If he thinks his visions are from God, who could say they are illegitimate?
+	- -
+	- Our initial stance should be to think visions are false because we know most are
+	- -
+	- He doesn’t suggest anyone saw jesus in a different way
+	- -
+	- Romans 16:25-26 Only revelation and scripture
+	- -
+	- What are the extrabiblical sources?
+	- -
+	- Born of woman
+	- -
+	- 1 Thessalonians 2:14-16
+	- -
+	- This is possibly dubious, given it is far more antisemitic than the rest of Paul’s writing and fits being added after the destruction of the temple
+	- -
+	- Gnostics (like Jehovah’s Witnesses today) believed in a spiritual resurrection, not a physical resurrection. Which theology won out may well have been merely political.
+	- -
+	- How were there group Hallucinations?
+	- -
+	- Schitzotypals
+	- -
+	- Shapers
+	- -
+	- Cargo cults
+	- ## Acts
+	- The empty tomb
+	- Speeches
+	- These are often made up in ancient histories
+	- **	****	****	**Source?
+	- Resurrection
+	- No mention in acts of any search for missing body/investigation
+	- ## The Growth of the Church
+	- Are there examples of religions growings as fast as Christianity?
+	- -
+	- Mormonism, a faith with a frankly ludicrous (as I understand it) grounding is currently growing faster than Christianity did to begin with [http://commonsenseatheism.com/?p=95#identifier_4_95](http://commonsenseatheism.com/?p=95#identifier_4_95)
+	- -
+	- Not entirely comparable given opportunities of the information age
+	- -
+	- The onus is on the Christian to show this growth is surprising
+	- ## The Deaths of the Disciples
+	- Is there any historical evidence for this, and that they didn’t recant and that if they had recanted they expected not to die?
+	- ## The Summary So Far
+	- It is therefore easy to posit a number of explanations which, combined, are more likely than the miraculous one (see above):
+	- -
+	- Jesus was a man who lived and taught and died and whose followers thought he had risen from the dead
+	- -
+	- Jesus was a figure formed of a number of moral teachers composed into one, who became well respected after his death and who people later wrote stories about
 - -
 - [But there isn’t that much evidence from ancient times](https://docs.google.com/document/d/1W8-vpyq-oH3lKeDeeeOxCuBFUAi4q4a_YeXlfi0WhnM/edit#heading=h.pds9gg6qna)
 - -
@@ -141,131 +204,6 @@
 - -
 - Simple and unembellished
 - -
-- Earliest jewish polemic presupposes stolen body
-- -
-- Guard at tomb suggests jews said there was no body
-- -
-- Paul envisages a transformation of body (not an exchanges)
-- -
-- Paul means intrinsic change
-- -
-- Sowing and reaping same thing
-- -
-- This perishable puts on imperishable
-- -
-- No scholarly consensus
-- -
-- No evidence that the body (if it was left) was used for necromancy or healing etc
-- -
-- Would they have used it for this if it were still around?
-- -
-- The Unfortunate nature of the stories
-- -
-- Jesus triumphs
-- -
-- The clueless nature of the disciples
-- -
-- This is a literary device like the crew in the odyssey
-- -
-- Characters in odyssey are fictional, but Peter and disciples were known church leaders
-- -
-- Literary devices can apply to both real and fake people. Non-fictional works contain literary devices.
-- -
-- A resurrected saviour
-- -
-- Philo writes about Jesus
-- -
-- Where is the evidence for this?
-- -
-- Other similar death and resurrection cults
-- -
-- **Osiris physical resurrection on walls of pyramid**
-- -
-- Death / resurrection theme was popular but never conceived of as literal (check Wright
-- -
-- No expectations of messiah dying and rising
-- -
-- Daniel, Isiah, Wisdom of solomon, gabriel inscription all suggest death and resurrection of messiah
-- -
-  Pauls says firstfruits - it was the soon apocalypse
-- Did the authors believe that the gospels were literally true?
-- John is admittedly biased
-- -
-- And many other signs truly did Jesus in the presence of the disciples, which are not written in this book: but these are written that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have through his name.
-- What genre are the gospels?
-- ## The Epistles
-- What is it in the epistles are are hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
-- -
-- Significant changes in opinion:
-- -
-- Peter hitchens changed from being a socialist to being a conservative
-- -
-- My opinion is changing on this
-- -
-- Jonathan Edwards used to be a christian, now he’s not
-- -
-- People clearly convert and deconvert from significant ideologies all the time
-- -
-- Paul claims to have seen a vision
-- -
-- There is significant literature on hallucinations, we do not believe them to be miraculous or to point to any specific god
-- -
-- How could they? Many of the gods to which they point to disagree
-- -
-- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/)
-- -
-- Note Paul does not claim to have seen Jesus alive (other than in visions), nor that the gospel he teaches comes from people who have, he specifically claims his Gospel is not from men and that he preached for 3 years before he met anyone who we think (cause he doesn’t say) saw Jesus in the flesh
-- -
-- Gal 2: he claims at the same time that his visionary calling is consistent with the proclamation of the 'pillars' / leading figures in the church
-- -
-- He probably thinks it is, but that doesn’t mean he has seen Jesus nor that his gospel comes from people who have. If he thinks his visions are from God, who could say they are illegitimate?
-- -
-- Our initial stance should be to think visions are false because we know most are
-- -
-- He doesn’t suggest anyone saw jesus in a different way
-- -
-- Romans 16:25-26 Only revelation and scripture
-- -
-- What are the extrabiblical sources?
-- -
-- Born of woman
-- -
-- 1 Thessalonians 2:14-16
-- -
-- This is possibly dubious, given it is far more antisemitic than the rest of Paul’s writing and fits being added after the destruction of the temple
-- -
-- Gnostics (like Jehovah’s Witnesses today) believed in a spiritual resurrection, not a physical resurrection. Which theology won out may well have been merely political.
-- -
-- How were there group Hallucinations?
-- -
-- Schitzotypals
-- -
-- Shapers
-- -
-- Cargo cults
-- ## Acts
-- The empty tomb
-- Speeches
-- These are often made up in ancient histories
-- **	****	****	**Source?
-- Resurrection
-- No mention in acts of any search for missing body/investigation
-- ## The Growth of the Church
-- Are there examples of religions growings as fast as Christianity?
-- -
-- Mormonism, a faith with a frankly ludicrous (as I understand it) grounding is currently growing faster than Christianity did to begin with [http://commonsenseatheism.com/?p=95#identifier_4_95](http://commonsenseatheism.com/?p=95#identifier_4_95)
-- -
-- Not entirely comparable given opportunities of the information age
-- -
-- The onus is on the Christian to show this growth is surprising
-- ## The Deaths of the Disciples
-- Is there any historical evidence for this, and that they didn’t recant and that if they had recanted they expected not to die?
-- ## The Summary So Far
-- It is therefore easy to posit a number of explanations which, combined, are more likely than the miraculous one (see above):
-- -
-- Jesus was a man who lived and taught and died and whose followers thought he had risen from the dead
-- -
-- Jesus was a figure formed of a number of moral teachers composed into one, who became well respected after his death and who people later wrote stories about
 - # Jesus never lived, but was a mythical story, like many others at the time which got later written down as true
 - -
 - This is not taken seriously by scholars
@@ -423,76 +361,38 @@
 - Surely there needs to be some reason to initially trust God before allowing this defence. I have yet to find one.
 - ## If at this point there is not a convincing point, we already have an issue.
 # Things which make the Bible less likely
-## Internal Factual Inconsistencies/Integrity of Bible
-- In a formal logical system, a *single* contradiction is disastrous. See: the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion). If we can find a single contradiction in the bible it is useless as a system of logic.
-- -
-- The example given on wikipedia seems arbitrary
-- -
-- but I can’t argue round it. IE if God doesn’t repent (see below)
-- -
-- Then the statement (God doesn’t repent OR all people get to heaven) is clearly True
-- -
-- But since God does repent (see below) then by the above statement all people go to heaven.
-- -
-- This isn’t logical nonsense, it works in all logical systems and it only works here because the Bible clearly says God doesn’t repent and God does repent
-- Less formally, we need to consider what one would expect from any document for which it is purported that it is of divine origin. At minimum, it should be free of obvious errors. Does the Bible this most obvious of standards for absolute truth?
-- ### Current top 3
-- What are the movements of Jesus family at his birth?
-- -
-- [MT 2:1-16](http://www.biblegateway.com/bible?&version=KJV&passage=Matthew+2:13-16)
-- -
-- Mary and Joseph live in Bethlehem, there is no reason to believe otherwise.
-- -
-- Following the birth of Jesus, Joseph and Mary flee to Egypt, (where they stay until after Herod's death) in order to avoid the murder of their firstborn by Herod.
-- -
-- Herod slaughters all male infants two years old and under.
-- -
-- In order to avoid the issue that Josephus doesn’t mention Herod having killed loads of children, it is agreed by every Christian I have heard that Herod only kills babies in Bethlehem and surrounding area
-- -
-- The implication, from verse 7 is that this us some time after the birth, since herod asks the exact time the star rose, so mary and Joseph have lived in bethlehem some time, in fact, Herod estimates up to two years (though he might have a margin for error).
-- -
-- So if Mary and Joseph are **from** Nazareth as the other account suggests, why don’t they move back? Why do they flee to Egypt
-- -
-- But maybe this is just what happened. An angel tells them after all. Herod could get his sums wrong
-- -
-- If you are happy to explain away the natural reading of the text with these kinds of workarounds I would ask that you read criticisms of Islam, would not similar workaround apply there too? [https://carm.org/contradictions-quran](https://carm.org/contradictions-quran)
-- -
-- In terms of explaining the evidence, it seems that this lack of consistency over a major event decreases its trustworthiness not increases it.
-- -
-- In this account they live in Bethlehem so Egypt makes sense
-- -
-- [LK 2:22-40](http://www.biblegateway.com/bible?&version=KJV&passage=Luke+2:22-40) Following the birth of Jesus, Joseph and Mary remain in the area of Jerusalem for the Presentation (about forty days) and then return to Nazareth without ever going to Egypt.
-- -
-- No mention of Egypt, no mention of killing babies. In Luke Bethlehem is just for the census after which they return to Nazareth, Joseph’s town
-- -
-- In Matthew, they live in Bethlehem until after the kings depart at which point they flee to egypt until Jesus is 2 (that may be a long or short time and then relocate to Nazareth.
-- How many children does Michal have?
-- -
-- [2SA 6:23](http://www.biblegateway.com/bible?&version=KJV&passage=2+Samuel+6:23) Michal was childless.
-- -
-- [2SA 21:8](http://www.biblegateway.com/bible?&version=KJV&passage=2+Samuel+21:8) (KJV) She had five sons.
-- -
-- The majority of hebrew have this, but not some Hebrew or the Septuagint
-- -
-- No surely we go for the plurality of oldest copies?
-- -
-- Which copies do we normally trust?
-- Loads of Contradictions in Kings/Chronicles
-- -
-- [1KI 4:26](http://www.biblegateway.com/bible?&version=KJV&passage=1+Kings+4:26) Solomon had 40,000 horses (or stalls for horses).
-- -
-- [2CH 9:25](http://www.biblegateway.com/bible?&version=KJV&passage=2+Chronicles+9:25) He had 4,000 horses (or stalls for horses).
-- -
-- [1KI 7:15-22](http://www.biblegateway.com/bible?&version=KJV&passage=1+Kings+7:15-22) The two pillars were 18 cubits high.
-- -
-- [2CH 3:15-17](http://www.biblegateway.com/bible?&version=KJV&passage=2+Chronicles+3:15-17) They were 35 cubits high.
-- -
-- Manuscript variants / scribal error is common, suggesting original text was not always transmitted faithfully
-- -
-- If scribal error is common how can we trust OT/ most of NT? How do we know there aren’t errors in the text at any point
-- -
-- Surely I can arge that the anti homosexuality in the bible is possibly a series of copyist errors or misunderstandings or deliberate changes?
-### Other Contradictions - I suggest go to next point
+- ## Inconsistencies within the Bible
+  id:: 64d934c5-a082-483e-9fbf-85c1fbe79e9d
+	- In a formal logical system, a *single* contradiction is disastrous. See: the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion). If we can find a single contradiction in the bible its is a free for all. Anything can be true.
+		- Lemons are yellow
+		- So the statement (Lemons are yellow OR Unicorns live in Britain) is TRUE
+		- But if we have a contradiction - ie that Lemons are both yellow AND Lemons are NOT yellow
+		- Then using the above TRUE statement one of the parts of the OR statement must be true. If Lemons are NOT yellow, then Unicorns live in Britain
+	- If the Bible didn't claim inerrancy, this wouldn't be a problem. We'd just think "there must be an error elsewhere". But the Bible makes a lot of Big claims that have to be taken on trust. If there are random errors around, where are they? Maybe God isn't actually all powerful. Maybe Hell isn't real?
+	- ### My Current top 3 inconsistencies
+	  collapsed:: true
+		- What are the movements of Jesus family at his birth?
+			- [MT 2:1-16](http://www.biblegateway.com/bible?&version=KJV&passage=Matthew+2:13-16)
+				- Mary and Joseph live in Bethlehem, there is no reason to believe otherwise.
+				- Following the birth of Jesus, Joseph and Mary flee to Egypt, (where they stay until after Herod's death) in order to avoid the murder of their firstborn by Herod.
+				- Herod slaughters all male infants two years old and under.
+				- In order to avoid the issue that Josephus doesn’t mention Herod having killed loads of children, it is agreed by every Christian I have heard that Herod only kills babies in Bethlehem and surrounding area
+				- The implication, from verse 7 is that this us some time after the birth, since herod asks the exact time the star rose, so Mary and Joseph have lived in bethlehem some time, in fact, Herod estimates up to two years (though he might have a margin for error).
+			- [LK 2:22-40](http://www.biblegateway.com/bible?&version=KJV&passage=Luke+2:22-40)
+				- Following the birth of Jesus, Joseph and Mary remain in the area of Jerusalem for the Presentation (about forty days) and then return to Nazareth without ever going to Egypt.
+				- No mention of Egypt, no mention of killing babies. In Luke, Bethlehem is just for the census after which they return to Nazareth, Joseph’s town
+			- How do these two accounts line up? Do the authors just each mysteriously miss out huge chunks of reality? If so, is the Bible doing this in 100s of other places too? Is the straightforward reading of those passages wrong also?
+		- How many children does Michal have?
+			- [2SA 6:23](http://www.biblegateway.com/bible?&version=KJV&passage=2+Samuel+6:23) Michal was childless until the day of her death
+			- [2SA 21:8](http://www.biblegateway.com/bible?&version=KJV&passage=2+Samuel+21:8) (KJV) She had five sons.
+			- The majority of hebrew have this, but not some Hebrew or the Septuagint (presumably because they spotted the error)
+		- Loads of Contradictions in Kings/Chronicles
+			- [1KI 4:26](http://www.biblegateway.com/bible?&version=KJV&passage=1+Kings+4:26) Solomon had 40,000 horses (or stalls for horses).
+			- [2CH 9:25](http://www.biblegateway.com/bible?&version=KJV&passage=2+Chronicles+9:25) He had 4,000 horses (or stalls for horses).
+			- [1KI 7:15-22](http://www.biblegateway.com/bible?&version=KJV&passage=1+Kings+7:15-22) The two pillars were 18 cubits high.
+			- [2CH 3:15-17](http://www.biblegateway.com/bible?&version=KJV&passage=2+Chronicles+3:15-17) They were 35 cubits high.
+	- Surely I can argue that the anti-homosexuality passages in the bible are possibly a series of copyist errors or misunderstandings or deliberate changes? Or what about the teachings on women?
+	- ### Other Contradictions - I suggest go to next point
 - Two different contradictory creation accounts
 - Jehovah not know before moses but actually known
 - -

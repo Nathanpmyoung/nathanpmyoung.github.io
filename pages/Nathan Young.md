@@ -1,10 +1,17 @@
-- I build tools for [[Better Discourse]] and [[Better Decisionmaking]] as well as running a general development agency
+- *Life is a work in progress*
+- I build tools for [[Better Discourse]] and run a software development agency.
+- Generally I do product management and hire others to do development.
 - I work on
 	- Forecasting
-		- ([alpha](https://www.google.com/url?q=https://probability-graph.predictionlab.org/&sa=D&source=editors&ust=1689718329574117&usg=AOvVaw3MVosVz8te-Z6Dxm89loCn)) - [Katja Grace’s AI model](https://www.google.com/url?q=https://probability-graph.predictionlab.org/_/nathanpmyoung/ai-grace&sa=D&source=editors&ust=1689718329574623&usg=AOvVaw3LanuDJYAPoh4-FvegsyIQ), [Joe Carlsmith’s AI model](https://www.google.com/url?q=https://probability-graph.predictionlab.org/_/nathanpmyoung/ai-carlsmith&sa=D&source=editors&ust=1689718329574931&usg=AOvVaw3fA0UQMbZkDXQG9lfRdQEC), [Scott Eastman’s Ukraine Model](https://www.google.com/url?q=https://probability-graph.predictionlab.org/_/nathanpmyoung/ukraine-eastman&sa=D&source=editors&ust=1689718329575217&usg=AOvVaw0iSLqAAhuTSWOfhCJSp6A4)
-	- Preference aggregation ([https://viewpoints.xyz/](https://www.google.com/url?q=https://viewpoints.xyz/&sa=D&source=editors&ust=1689718329575636&usg=AOvVaw30g9Youjbl0OlJRw6yAGEE)) - [AI Policy](https://www.google.com/url?q=https://viewpoints.xyz/polls/ai-policies&sa=D&source=editors&ust=1689718329575895&usg=AOvVaw3fm23Mgqk_BQ0FmbNrVbM1), [Immigration](https://www.google.com/url?q=https://viewpoints.xyz/polls/immigration-lovers-and-haters&sa=D&source=editors&ust=1689718329576154&usg=AOvVaw06aJIc4MVURRDFeZW5xO9q)
+		- [Estimaker.app](https://estimaker.app/) - [Katja Grace’s AI model](https://estimaker.app/_/nathanpmyoung/ai-grace), [Joe Carlsmith’s AI model](https://estimaker.app/_/nathanpmyoung/ai-carlsmith), [Scott Eastman’s Ukraine Model](https://estimaker.app/_/nathanpmyoung/_/nathanpmyoung/ukraine-eastman)
+		- [[Estimaker]] is a tool for building visual models of probabilities. Then it's easier to figure out where experts disagree
+	- Viewpoint aggregation
+		- [https://viewpoints.xyz](https://www.google.com/url?q=https://viewpoints.xyz/&sa=D&source=editors&ust=1689718329575636&usg=AOvVaw30g9Youjbl0OlJRw6yAGEE) - [AI Policy](https://www.google.com/url?q=https://viewpoints.xyz/polls/ai-policies), [Immigration](https://www.google.com/url?q=https://viewpoints.xyz/polls/immigration-lovers-and-haters)
+		- [[Viewpoints]] is a survey tool where the statements change as users use it, aiming to move from uncertain statements to those people can clearly agree or disagree on
+	- Podcasts with experts on important issues
+		- [[Odds and Ends]]
 - You can find me on
-	- [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)
+	- Twitter - [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)
 	- Say hi in this [WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/Lr2cFoiYYnHAO8JR3jNFHL&sa=D&source=editors&ust=1689718329577971&usg=AOvVaw12NVmgFsKP23VUS1vlVUGh) group
 	- Reply to something I’ve [tweeted](https://www.google.com/url?q=https://twitter.com/NathanpmYoung&sa=D&source=editors&ust=1689718329578428&usg=AOvVaw0YCWqOK1UfNqV443zkcmQq), or DM me
 	- [Substack](https://www.google.com/url?q=https://nathanpmyoung.substack.com/&sa=D&source=editors&ust=1689718329578859&usg=AOvVaw1nTUher5aR39DGaFEVyyOs)
@@ -16,7 +23,7 @@
 	- *2016 – Present*
 	- Software development and forecasting
 	- Projects
-		- [Viewpoints.xyz](https://www.google.com/url?q=http://viewpoints.xyz&sa=D&source=editors&ust=1689718329591258&usg=AOvVaw3zCxC4v7ihPsUJGBIwU8i8) - Aggregating community views and helping to understand uncertainty - Product managing for Goodheart Labs, funded by Vitalik Buterin
+		- [Viewpoints.xyz](https://www.google.com/url?q=http://viewpoints.xyz&sa=D&source=editors&ust=1689718329591258&usg=AOvVaw3zCxC4v7ihPsUJGBIwU8i8) - Aggregating community views and helping to understand uncertainty - Product managing for Goodheart Labs, funded by [[Vitalik Buterin]]
 		- Forecasting tools - forecasting question generation ([doubtful.app](https://www.google.com/url?q=https://doubtful.app/&sa=D&source=editors&ust=1689718329591622&usg=AOvVaw2o1Z29d0DEmxtxjrEFFZlb)) and [visualising probabilistic models](https://www.google.com/url?q=https://probability-graph.predictionlab.org/&sa=D&source=editors&ust=1689718329591993&usg=AOvVaw0MSDUI6AstXxfaWzn34c8Q) - Product management, funded by the FTX Future Fund. *$10k of personal gain will go to **[FTX customers](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1625825225131626498&sa=D&source=editors&ust=1689718329592375&usg=AOvVaw12RinvRATH0KwNYpKJm-T9)** if there is a legal way to do this.*
 		- Professional forecaster - [Russian Mutiny](https://www.google.com/url?q=https://www.swiftcentre.org/russia-liveblog/&sa=D&source=editors&ust=1689718329592856&usg=AOvVaw0WFaW7Fzoz9HC-O4wE9iII), [US elections](https://www.google.com/url?q=https://www.swiftcentre.org/can-biden-win-in-2024/&sa=D&source=editors&ust=1689718329593152&usg=AOvVaw1jCchi3h5m0O5MLKcuLNb7) - for the [Swift Centre](https://www.google.com/url?q=https://www.swiftcentre.org/&sa=D&source=editors&ust=1689718329593441&usg=AOvVaw0XrbNU2e3NN4EcscAIarHd)
 - **Head of Forecasting - **[Zeitgeist](https://www.google.com/url?q=https://zeitgeist.pm/&sa=D&source=editors&ust=1689718329593845&usg=AOvVaw3d46nW6pOlTZtkKvMthQi9)
@@ -40,7 +47,7 @@
 	- 600k hits, 4000 projects, 130+ sections.
 	- “Inspiring...and well-organised” - [Dr Ben Goldacre](https://www.google.com/url?q=https://twitter.com/bengoldacre/status/1238517125318422529&sa=D&source=editors&ust=1689718329597717&usg=AOvVaw1cyR1qnMWx1newGu7kdiw9), author of Bad Science.
 	- Media:
-		- [https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026](https://www.google.com/url?q=https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026&sa=D&source=editors&ust=1689718329598323&usg=AOvVaw3WM8WTKwfZwjFZa-yXlKKi)
+		- [https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026](https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026&sa=D&source=editors&ust=1689718329598323&usg=AOvVaw3WM8WTKwfZwjFZa-yXlKKi)
 		- [https://www.forbes.com/sites/bernardmarr/2020/04/15/heres-how-all-of-us-can-use-technology-to-help-tackle-coronavirus/](https://www.google.com/url?q=https://www.forbes.com/sites/bernardmarr/2020/04/15/heres-how-all-of-us-can-use-technology-to-help-tackle-coronavirus&sa=D&source=editors&ust=1689718329598820&usg=AOvVaw1YoNRaRu7dudvv2KBmEqvr)
 		- [https://www.vice.com/en_uk/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand](https://www.google.com/url?q=https://www.vice.com/en_uk/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand&sa=D&source=editors&ust=1689718329599292&usg=AOvVaw18QcFXosWjnb4pYIgFfusn)
 - # Media
@@ -48,14 +55,15 @@
 - [https://sifted.eu/articles/wikipedia-coronavirus/](https://www.google.com/url?q=https://sifted.eu/articles/wikipedia-coronavirus&sa=D&source=editors&ust=1689718329603532&usg=AOvVaw3slXqjTGSSsU0Dy7GBzJvq)
 - [https://www.nesta.org.uk/blog/crowdsourcing-ideas-combat-covid-19/](https://www.google.com/url?q=https://www.nesta.org.uk/blog/crowdsourcing-ideas-combat-covid-19&sa=D&source=editors&ust=1689718329603997&usg=AOvVaw1nAt-845maBWLRrypPbREQ)
 - [https://www.meritalk.com/articles/wiki-style-handbook-provides-governments-with-covid-19-tech-resources/](https://www.google.com/url?q=https://www.meritalk.com/articles/wiki-style-handbook-provides-governments-with-covid-19-tech-resources&sa=D&source=editors&ust=1689718329604560&usg=AOvVaw25XfyUL7lyJIUSXTJlGuEU)
-- # Mistakes
+- # Big Mistakes
   id:: 64b70037-671d-4199-ae7e-f4759d4be8a8
-- Took a long time to realise [[the Bible is incoherent]]
+- Took a long time to realise the bible is incoherent - ((64d934c5-a082-483e-9fbf-85c1fbe79e9d))
 - There are a set of mistakes around not spotting the FTX crisis ahead of time. I did think something was fishy. But I didn’t get there in time ([will there be a firestorm about FTX](https://www.google.com/url?q=https://manifold.markets/NathanpmYoung/media-firestorm-about-sbf-before-20&sa=D&source=editors&ust=1689718329605338&usg=AOvVaw28KzK22RcWJ4xX05Xgy_Bv), set up a week beforehand) ([will FTX go bankrupt](https://www.google.com/url?q=https://manifold.markets/NathanpmYoung/will-ftx-go-bankrupt-before-2024&sa=D&source=editors&ust=1689718329605735&usg=AOvVaw3Ris7DqkQLzKmB41EugPCh), set up a month beforehand)
 - Took too long to get [[ADHD]] diagnosis
   id:: 64b70037-06fc-4624-bdeb-bf79ac526860
-- See [[error]]s
+- See [[Mistakes]]
 - # Impact
 - Got [Dustin Moskovitz to sign](https://www.google.com/url?q=https://twitter.com/moskov/status/1645465885493297152?s%3D20&sa=D&source=editors&ust=1689718329606438&usg=AOvVaw2jnZMPtsGZxTOX2YcR9DSY) the Giving What We Can pledge
 - I think there was a 1-5% chance [Elon would respond to this](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1596559616359415808&sa=D&source=editors&ust=1689718329606921&usg=AOvVaw2Sj4pwYbEUOiMt7NqD82EO)
 - Emilé Torres and I raised [$300k for GiveDirectly](https://www.google.com/url?q=https://www.givingwhatwecan.org/fundraisers/emile-and-nathan-christmas-fundraiser&sa=D&source=editors&ust=1689718329607389&usg=AOvVaw1Grf1ZeQPjzNtAMyBubE9G)
+- I hope one day I will be able to include either [[Estimaker]] or [[Viewpoints]] or some similar tool here.
