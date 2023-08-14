@@ -1,0 +1,801 @@
+- This is a version of the thinking I did during my [[Deconversion]].
+- # Preamble
+  collapsed:: true
+	- Assumptions
+		- The continuance of the universe
+			- My general sense that the universe has existed in parallel with my life. That there is a past
+			- If this is not the case, then any decisions I make, while they feel like they are based on experience, are not, because there is no past on which to base that experience
+			- The universe could be a momentary dream which feels consistent.
+			- I cannot think of a way to test this.
+		- The function of logic
+			- That logic works. That A => B and B => C mean that A =>  C
+			- If this is not the case, then decisions I make, however well argued will be meaningless
+			- Logic could be fundamentally flawed, so the logic we design is irrelevant to the real world - like mathematics with different fundamental assumptions. It would suggest interesting things, but not tell us anything about our universe.
+			- There is no way to argue out of this without using logic, which would not be a suitable proof in said universe
+			- Without logic there is no discussion. Worshipping God is as worshipping the letter q
+		- That suffering my suffering is bad and that my well being is good
+			- Without this, I sort of don't know where to begin
+		- That we can't just presume [[God]] is real
+			- Many discussions boiled down to "some of us presume God is real, some don't, that's just the way it is"
+				- Firstly, if [[Eternal Damnation]] depends on whether someone made an arbitrary choice that seems unjust
+				- Secondly more assumptions are worse than fewer - they require more checking. Hence there are more possible errors to make
+- # Main argument
+- ## Where we are up to: We should aim to understand the world still better with fewer assumptions using the scientific method
+  Many things can’t be understood in scientific terms - love beauty etc
+- -
+  We do not need to understand things for them to be valuable - we need not understand or even be able to understand love and beauty for them to matter
+- -
+- What alternate method does one suggest for learning about love and beauty with results in the real world? Ie which teach us to be able to reliable create beautiful things. If religion, what knowledge does this create on love and beauty which you don’t have to presume love and beauty to acknowledge it exists
+- -
+  We have no reason to believe science can’t understand beaty - we surely would have once thought science couldn't’ understand speciation but now that answer’s better. Beauty has real measurable effects both in measuring what is beautiful and measuring people’s response to it. These are both realms in which science has previously provided answers.
+- ## The scientific method relies on falsifiability
+- Things that are scientific are falsifiable ie if they were false, we could know, and since they haven’t been proven to be, they may be true. Things that are not falsifiable are intrinsically untestable and so must be assumed and it should be acknowledged that is the case.
+  Any of the above processes (air travel, medical technology) might just be luck, but why are we so lucky in the last 500 years? If they aren’t luck they are proof of efficacy of some method(s). The fact that these processes work as we expect them to when they could fail means the technology which runs them is falsifiable - air engines could fail, mri scanners might not work. That they do is either so stratospherically unlikely or the functioning of a testable method.
+- ## We should research our worldview using falsifiable methods
+## Doesn’t Cartesianism cause a problem here?
+- says that everything can be doubted but that relies on faith
+- I doubt A because of B. But you believe B by faith
+- Really?
+- I doubt A because you have not proved it. But this assumes that there is something which can be proved. This is by faith.
+- I doubt everything
+- Has there been a collapse in enlightenment values?
+- Am I being unfair to the Christian worldview? How? How could I critique this worldview in the same manner?
+- # The Process
+## What is it?
+- I will take 5 weeks off work exploring the points and counterpoints to if the God of the Bible is real. I will search within each point to see if it stands up to criticism. Points (or counterpoints) which don’t stand up to criticism will be ignored. I will count the number of (surviving) points, and the number of counterpoints and which ever side has more will convince me, either of God’s existence or that I do not know. Note I am not seeking to see if He doesn’t exist, there is no way I could know that. Perhaps if there are similar numbers and lots for each, I will add extra time to the process, I don’t know. Note that if there are none for each, I guess I wouldn’t believe in God, since there is no reason to, whereas if there lots for each it would be much harder. At the end I will either continue as a Christian and work out what I want to do with the rest of my life or I will stop considering myself one, I will stop going to church, praying, considering God’s law the highest duty and doing all that I do and will likewise work out what I want to do with the rest of my life.
+- Genuinely, if you think this is a bad process, how would you improve it and how would the new process be falsifiable
+- ## Frequently Asked Questions
+### Why take 5 weeks
+- This is largely arbitrary though I will be spending perhaps 22.5 hours a week thinking about this consistently. I can’t reasonably take much more time off work than this (even the current period may be stretching it). So in total I’ll have spent at least 110 hours thinkin on this in depth. If I were to spend evenings of normal life I guess this amount of thinking would be fractured and take about (2hours/day, 2 days/week,) over a year during which I would be unsure about whether I believed the core aspect of my life. Compressing this seems wise because it’s really painful.
+- Likewise other than in terms of Christianity’s somewhat final tone on apostasy ([Hebrews 6:4-6](https://www.biblegateway.com/passage/?search=Hebrews+6%3A4-6&version=ESV)) this need not be my final decision. I can change my mind in the future, but I do not want to live this way for years if I do not think it is true.
+- ### Surely you are just choosing what you want?
+- Previously I have come to this crisis (“Is God real?”) and I would say I researched poorly. I remember thinking for a while and writing down the pros and cons. There were a lot more pros so I remember thinking “it need not be a hard decision, many things that are true aren’t” and I felt justified in believing in God. At that time I had read very few serious critiques of my position, nor did I debate with any serious agnostics/athiests. I would say now that I made that choice in a poor way, largely subjectively, by using a process which would only get me what I wanted.
+- Can the same criticism be leveled at the current process?
+- The attempt here is to create a process which is objective and stands aside from what I want to be the case. Notably that it is a process which could actually make me leave Christianity. I didn’t intend to leave, but I though if I was to honestly engage my process would have to be able to make me do so. My world view had to be falsifiable. Perhaps this process is flawed, I’m interested to know your thoughts, but any other process must in my opinion be better. (this may be a [best map fallacy](https://twitter.com/NathanpmYoung/status/1089920106782748672), but I think modern evangelical Christianity is too therefore, by that thought I should become a Catholic)
+- As to what I want, I have moved around. To begin with I wanted to be a Christian. Largely now I don’t. Often towards the end of long conversations with Christians I do want to be one. It is perhaps at some of those points I think, if this weren’t a rigorous process with safeguards that I think I could stop thinking about this and convince myself I had.
+- ### You seem quite down, can you trust yourself to make life-changing decisions?
+- This is the most fundamental thing in my life, I cannot imagine that this process would ever be easy or pain free. This *is* hard, I *am *stressed, it does make me emotional. But that is hardly surprising and I don’t think I would think better about it over a longer period of time, I think I would just be more uncomfortable. In fact, as I contemplate extending the process I wonder whether I would just stay a Christian because it was easier and less painful, rendering the process just as unfalsifiable as I had previously feared. There has to be a chance I can leave so that my staying means anything.
+- ### This all sounds very rational
+- This requires a longer answer.
+- ### This all sounds very emotional
+- What can I say, I’m an emotional guy (#Joke). But seriously, I am emotional and at times insecure and what issue could I be more emotional about than this. There is an emotional side to all this, but I don't want to let that make the decision for me.
+- I am happy to talk about the emotional issues, they are important, but they will not make me stay a Christian. Likewise, I think I have fairly good reasons for much of my anger towards my current situation and Christianity in general, if it isn’t true.
+- ### You’re being an ass
+- Sometimes, however:
+- -
+- I’m sorry for my rudeness and difficulty
+- -
+  This is really hard for me, I’m lonely, scared, hurt and constantly questioning all I have ever believed (please don’t think this makes the process bad unless you can suggest a better one). I realise that for some Christians I talk to, this is hard for them, both on interpersonal grounds but also ideological ones. Though let’s note that as hard as it is, I am having 10 - 20 interactions like this compared to their one.
+- -
+- People often want to talk about “how we got here” as opposed to genuinely dealing with the arguments at hand. That frustrates me. I am much happier to deal witth the emotional arguments once someone has shown a genuine issue in the more important intellectual side to all this.
+- -
+- Sometimes questioning any aspect of faith is considered being an ass, I’m not willing to stop questioning
+- -
+- Some positions are bad or are unlikely (in my opinion) to be genuinely held, I am tired of having to argue that slavery and child mortality are bad. I am tired of bizarre positions that people don't’ actually believe but suggest to argue against my positions. At these times, I might suggest an “arrogant” dismissal is the correct answer. If you think the Nazi’s werent’ bad, what can we honestly discuss?
+- -
+- Having people realise that you don’t believe the same things as them is awful, particularly having to watch them slowly realise. Sometimes it’s easier to be difficult and upset them rather so they dislike you rather than pitying and losing respect for you. This is a bad reason but hopefully it might explains something.
+- -
+- I am scared about my future, of losing all I hold dear. This is NOT a good argument for staying, but it doesn’t make it not scary to lose.
+- # What evidence is there for which the God of Bible is the best explanation? Why need I additionally assume his existence to make X more likely?
+- As a quick example, it’s impossible to prove miracles don’t happen, but they are clearly exceedingly rare. I have never eaten a sandwich which turned into a frog and I guess I have eaten about 10 sandwiches a week since I was about 4 ( roughly 20*50*10=10000). If for the sake of argument one of my sandwiches had, that would still be a 1 in 10000 occurrence. If one of my sandwiches wasn't where I left it, I would still assume I had misplaced it rather than the frog hypothesis. Not because it was impossible, but because it was less probable.
+- The central argument is not about the impossibility of miracles, they are possible, but clearly they are improbable, we have few accounts of them happening, even if we trust those accounts. What is the additional evidence to make us think it was a sandwich turning into a frog, rather than just my forgetfulness or otherwise? You must be able to find a flaw in my logic here to be able to dismiss this argument.
+- How would you quantify which is more or less likely than the other?
+- The Gospels, Acts & the Epistles, the growth of the church
+- ## How do we judge history
+- Explanatory scope
+- Explanatory power
+- Plausibility
+- Few assumptions
+- ## The Gospels
+- What is it in the gospels which is hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
+- -
+- Good moral advice
+- -
+- **Do unto others as they would do unto you is found in confuscious 500 bc (search 15:24) **[http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf)
+- -
+- Miracles
+- -
+- Herodotus describes some miracles in his histories, note that he doubts them, but records them because he has been told them (37, 38) [https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII](https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII)
+- -
+- His doubting makes an even stronger case, he acknowledges the strangeness of what he records but does it anyway. A true believer would be more likely to record things he wanted to be true.
+- -
+  Likewise herodotus writes 40 - 70 years after the events he describes a very similar time period to our best guess as to the authorship of the gospels. Clearly miraculous events have either happened (I’d guess you don’t think so) or have entered the oral history to the extent that while he doesn’t believe them, he’ll write them down
+- -
+- His burial
+- -
+- After his death he was buried in a tomb by Joseph of arimithea
+- -
+- This is only evidence for his death
+- -
+- Why would they paint a Jewish leaded in such a good light?
+- -
+- Subvert expectations
+- -
+- The empty tomb
+- -
+  From 4 anonymous accounts 40 - 60 years after the events why should we even believe there was an empty tomb from the gospels?
+- -
+- If there weren’t an empty tomb  then Jewish opponents would have been able to quell the Jesus movement by presenting the dead body
+- -
+- What evidence do we have that such Jewish movements existed
+- -
+- What evidence do we have that the gospels are correct in the nature of the tomb such that the Jewish opponents would have known where it was?
+- -
+- Many scholars understand the tomb to be empty
+- -
+- What evidence to they cite?
+- -
+- What evidence do we have that early Christians couldn't have called such a body a fake?
+- -
+- What evidence do we have that even if such a body were displayed and some or even many had turned away from Christianity that we would know about that now?
+- -
+- How well do modern people deal with even incontrovertible proof that their worldview is false? (see flat earthers, mormons etc)
+- -
+- [But there isn’t that much evidence from ancient times](https://docs.google.com/document/d/1W8-vpyq-oH3lKeDeeeOxCuBFUAi4q4a_YeXlfi0WhnM/edit#heading=h.pds9gg6qna)
+- -
+- Women aren’t trusted
+- -
+- Women are widely trusted in court and as historical witnesses
+- -
+- Are they?
+- -
+- Simple and unembellished
+- -
+- Earliest jewish polemic presupposes stolen body
+- -
+- Guard at tomb suggests jews said there was no body
+- -
+- Paul envisages a transformation of body (not an exchanges)
+- -
+- Paul means intrinsic change
+- -
+- Sowing and reaping same thing
+- -
+- This perishable puts on imperishable
+- -
+- No scholarly consensus
+- -
+- No evidence that the body (if it was left) was used for necromancy or healing etc
+- -
+- Would they have used it for this if it were still around?
+- -
+- The Unfortunate nature of the stories
+- -
+- Jesus triumphs
+- -
+- The clueless nature of the disciples
+- -
+- This is a literary device like the crew in the odyssey
+- -
+- Characters in odyssey are fictional, but Peter and disciples were known church leaders
+- -
+- Literary devices can apply to both real and fake people. Non-fictional works contain literary devices.
+- -
+- A resurrected saviour
+- -
+- Philo writes about Jesus
+- -
+- Where is the evidence for this?
+- -
+- Other similar death and resurrection cults
+- -
+- **Osiris physical resurrection on walls of pyramid**
+- -
+- Death / resurrection theme was popular but never conceived of as literal (check Wright
+- -
+- No expectations of messiah dying and rising
+- -
+- Daniel, Isiah, Wisdom of solomon, gabriel inscription all suggest death and resurrection of messiah
+- -
+  Pauls says firstfruits - it was the soon apocalypse
+- Did the authors believe that the gospels were literally true?
+- John is admittedly biased
+- -
+- And many other signs truly did Jesus in the presence of the disciples, which are not written in this book: but these are written that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have through his name.
+- What genre are the gospels?
+- ## The Epistles
+- What is it in the epistles are are hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
+- -
+- Significant changes in opinion:
+- -
+- Peter hitchens changed from being a socialist to being a conservative
+- -
+- My opinion is changing on this
+- -
+- Jonathan Edwards used to be a christian, now he’s not
+- -
+- People clearly convert and deconvert from significant ideologies all the time
+- -
+- Paul claims to have seen a vision
+- -
+- There is significant literature on hallucinations, we do not believe them to be miraculous or to point to any specific god
+- -
+- How could they? Many of the gods to which they point to disagree
+- -
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/)
+- -
+- Note Paul does not claim to have seen Jesus alive (other than in visions), nor that the gospel he teaches comes from people who have, he specifically claims his Gospel is not from men and that he preached for 3 years before he met anyone who we think (cause he doesn’t say) saw Jesus in the flesh
+- -
+- Gal 2: he claims at the same time that his visionary calling is consistent with the proclamation of the 'pillars' / leading figures in the church
+- -
+- He probably thinks it is, but that doesn’t mean he has seen Jesus nor that his gospel comes from people who have. If he thinks his visions are from God, who could say they are illegitimate?
+- -
+- Our initial stance should be to think visions are false because we know most are
+- -
+- He doesn’t suggest anyone saw jesus in a different way
+- -
+- Romans 16:25-26 Only revelation and scripture
+- -
+- What are the extrabiblical sources?
+- -
+- Born of woman
+- -
+- 1 Thessalonians 2:14-16
+- -
+- This is possibly dubious, given it is far more antisemitic than the rest of Paul’s writing and fits being added after the destruction of the temple
+- -
+- Gnostics (like Jehovah’s Witnesses today) believed in a spiritual resurrection, not a physical resurrection. Which theology won out may well have been merely political.
+- -
+- How were there group Hallucinations?
+- -
+- Schitzotypals
+- -
+- Shapers
+- -
+- Cargo cults
+- ## Acts
+- The empty tomb
+- Speeches
+- These are often made up in ancient histories
+- **	****	****	**Source?
+- Resurrection
+- No mention in acts of any search for missing body/investigation
+- ## The Growth of the Church
+- Are there examples of religions growings as fast as Christianity?
+- -
+- Mormonism, a faith with a frankly ludicrous (as I understand it) grounding is currently growing faster than Christianity did to begin with [http://commonsenseatheism.com/?p=95#identifier_4_95](http://commonsenseatheism.com/?p=95#identifier_4_95)
+- -
+- Not entirely comparable given opportunities of the information age
+- -
+- The onus is on the Christian to show this growth is surprising
+- ## The Deaths of the Disciples
+- Is there any historical evidence for this, and that they didn’t recant and that if they had recanted they expected not to die?
+- ## The Summary So Far
+- It is therefore easy to posit a number of explanations which, combined, are more likely than the miraculous one (see above):
+- -
+- Jesus was a man who lived and taught and died and whose followers thought he had risen from the dead
+- -
+- Jesus was a figure formed of a number of moral teachers composed into one, who became well respected after his death and who people later wrote stories about
+- # Jesus never lived, but was a mythical story, like many others at the time which got later written down as true
+- -
+- This is not taken seriously by scholars
+- -
+- On what basis?
+- -
+- And how unlikely does that make it? It doesn’t need to be very likely to be more reasonable than resurrection, which almost never happens
+- -
+- 1 Corinthians 15:7 says he was buried. This burial need not be physical or on earth.
+- -
+- Yes but most are, so you’d need evidence to suggest it isn’t
+- -
+  Aliens - this is a serious suggestion
+- Surely one theory is better than a number of theories which require intersections of unlikely events. No, not probabilistically speaking. You add the probability of different theories and multiply across unlikely events. Theft*hallucination is unlikely but it’s more likely than resurrection (which almost never happens) and thats before you add the probabilities of all the possible but unlikely naturalistic events. If the criticism is that these are unlikely, sure, major religious are very rarely born, particularly compared to all religions.
+  Some kind of comment about how theism being “simple” and therfore more likely - it just seems so obvious right?
+- ## Philosophical
+  Transhumanist - there was a previous race of people who are now super intelligent
+- -
+- I am not interested in argument which do no provide for a deity
+  Cosmological arguments - who created the universe
+- -
+- I do not see this as intrinsically more convincing than infinite regress. Both are entirely untestable
+- -
+- It involves special pleading. A god is only the solution to the problem because it is the solution to the problem
+- -
+- I don’t think that since everything we have seen has a cause, this implies that all things have a cause (Indeed. Causality requires time. It is no longer clear in physics that causality is fundamental.)
+  Teleological - arguments based on structure
+- -
+- Arguments from consciousness
+- -
+- [https://en.wikipedia.org/wiki/Argument_from_consciousness](https://en.wikipedia.org/wiki/Argument_from_consciousness)
+- -
+- These require dualism, that there is something non-physical about the mind
+- -
+- If minds are solely material how can the thoughts they think be true?
+- -
+- Well if they aren’t, tough luck. This doesn’t mean that minds aren’t material
+- -
+- -
+- Counter arguments
+- -
+  From physics - conservation of momentum
+- -
+  Brain damage - when the brain is damaged so is the mind
+- -
+  Neuroscience - decision can be predicted before poeple say they’ve made them
+- -
+  Simplicity - why is this necessary
+- The fine-tuning argument
+- -
+- Our universe requires a very specific set of variables to exist. Were it any other way there would be no universe. This implies something which set those variables the way they are
+- -
+- Does this imply God? No, it implies something. Maybe a multiverse (Many multiverses have been plausibly posited for reasons that have nothing to do with fine-tuning.)
+- -
+- It’s only notable if physics can’t prove, it’s worth waiting
+- -
+- Higher order explanations
+- -
+- String theory
+- -
+- Multiverse
+- -
+- Maximal multiverse
+- -
+- Life permitting
+- -
+- Collapse after x
+- -
+- The current state of the universe is very unlikely
+- -
+- Positivism
+- -
+- A/B theory of time
+- -
+- Past memories
+- -
+- Philosophical Community not impressed by positivism
+- -
+- Arguments against theism
+- -
+- What is the tool which show we are
+- -
+- Brute force
+- -
+- (lots of attempts)
+- -
+- Mechanism
+- -
+- Discernment
+- -
+- Evolution
+- -
+- Teleological towards good
+- -
+- Nominalism and objectivism mathematics
+- The likelihood principle
+- -
+- If something makes something more likely it can be used as evidence for that thing
+- -
+- Surely by above use likelihood principle the existence of any object can make any correctly defined hypothetical object more likely? The existence of a Ford Transit Van (0) is likely with unicorns with the intent to create Transit Vans (A) and less likely assuming the absence of such unicorns (B). Hence Ford Transit Vans are evidence for unicorns. We know unicorns are not real and yet this argument suggests they are made more likely by Transit Vans therefore it is a flawed argument.
+- -
+- Perhaps it is more likely, but that doesn’t make it “likely”. We could have gone from 0.0000001 to 0.0000002. More importantly we don’t know and can’t find out.
+- -
+- Can we talk about probability in relation to god, when there are no existent alternatives and there is only one shot, one opportunity
+- Complexity
+- -
+- Are organisms too complex to have evolved?
+- -
+- What about errors/ vestigial bits
+- -
+- If life is too complex is not a deity significantly more complex and unlikely?
+- Simplicity and trustworthiness
+- -
+- Simple explanations are usually true
+- -
+- Reasons to doubt your experiences:
+- -
+- Something very unlikely is claimed
+- -
+- How do we discuss the unlikelihood of God?
+- -
+- Something more likely is possible
+- -
+- You are unreliable
+- -
+- You are in a situation in which you are unreliable
+- -
+- Basic beliefs
+- -
+- Some beliefs are held without evidence e.g. that other people have minds
+- -
+- I have evidence of this. I interact with people and they seem self conscious. That’s evidence
+- Hunger satisfaction
+- -
+  Hunger proves the existence of food - does it?
+- -
+- Hunger for eternity proves the existence of eternity
+- ## Miracles
+- [https://www.youtube.com/watch?v=PhFX_PgzJZk](https://www.youtube.com/watch?v=PhFX_PgzJZk)
+- -
+- do miracles happen as a result of God?
+- -
+- How unlikely should a miracle be?
+- -
+- Or can there just be a lack of evidence for the non miraculous? Or events so unlikely that they are in turn miraculous?
+- -
+- Can we ever prove miracles or will it always be possible to suggest unlikely but possible getarounds (people went insane, wishful thinking etc)
+- -
+- Does this philosophical groundwork kill the possibility of miracles?
+- ## Evidence of Writing Preceding Events it Describes
+## Personal Experience
+## God’s Ways are Higher than Our Ways
+- So are Allah’s but you don’t dismiss all the inconsistencies within the Qu’ran on this basis. Indeed all criticisms of all gods should be ignorable due to this.
+- It is unfalsifiable.
+- Surely there needs to be some reason to initially trust God before allowing this defence. I have yet to find one.
+- ## If at this point there is not a convincing point, we already have an issue.
+# Things which make the Bible less likely
+## Internal Factual Inconsistencies/Integrity of Bible
+- In a formal logical system, a *single* contradiction is disastrous. See: the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion). If we can find a single contradiction in the bible it is useless as a system of logic.
+- -
+- The example given on wikipedia seems arbitrary
+- -
+- but I can’t argue round it. IE if God doesn’t repent (see below)
+- -
+- Then the statement (God doesn’t repent OR all people get to heaven) is clearly True
+- -
+- But since God does repent (see below) then by the above statement all people go to heaven.
+- -
+- This isn’t logical nonsense, it works in all logical systems and it only works here because the Bible clearly says God doesn’t repent and God does repent
+- Less formally, we need to consider what one would expect from any document for which it is purported that it is of divine origin. At minimum, it should be free of obvious errors. Does the Bible this most obvious of standards for absolute truth?
+- ### Current top 3
+- What are the movements of Jesus family at his birth?
+- -
+- [MT 2:1-16](http://www.biblegateway.com/bible?&version=KJV&passage=Matthew+2:13-16)
+- -
+- Mary and Joseph live in Bethlehem, there is no reason to believe otherwise.
+- -
+- Following the birth of Jesus, Joseph and Mary flee to Egypt, (where they stay until after Herod's death) in order to avoid the murder of their firstborn by Herod.
+- -
+- Herod slaughters all male infants two years old and under.
+- -
+- In order to avoid the issue that Josephus doesn’t mention Herod having killed loads of children, it is agreed by every Christian I have heard that Herod only kills babies in Bethlehem and surrounding area
+- -
+- The implication, from verse 7 is that this us some time after the birth, since herod asks the exact time the star rose, so mary and Joseph have lived in bethlehem some time, in fact, Herod estimates up to two years (though he might have a margin for error).
+- -
+- So if Mary and Joseph are **from** Nazareth as the other account suggests, why don’t they move back? Why do they flee to Egypt
+- -
+- But maybe this is just what happened. An angel tells them after all. Herod could get his sums wrong
+- -
+- If you are happy to explain away the natural reading of the text with these kinds of workarounds I would ask that you read criticisms of Islam, would not similar workaround apply there too? [https://carm.org/contradictions-quran](https://carm.org/contradictions-quran)
+- -
+- In terms of explaining the evidence, it seems that this lack of consistency over a major event decreases its trustworthiness not increases it.
+- -
+- In this account they live in Bethlehem so Egypt makes sense
+- -
+- [LK 2:22-40](http://www.biblegateway.com/bible?&version=KJV&passage=Luke+2:22-40) Following the birth of Jesus, Joseph and Mary remain in the area of Jerusalem for the Presentation (about forty days) and then return to Nazareth without ever going to Egypt.
+- -
+- No mention of Egypt, no mention of killing babies. In Luke Bethlehem is just for the census after which they return to Nazareth, Joseph’s town
+- -
+- In Matthew, they live in Bethlehem until after the kings depart at which point they flee to egypt until Jesus is 2 (that may be a long or short time and then relocate to Nazareth.
+- How many children does Michal have?
+- -
+- [2SA 6:23](http://www.biblegateway.com/bible?&version=KJV&passage=2+Samuel+6:23) Michal was childless.
+- -
+- [2SA 21:8](http://www.biblegateway.com/bible?&version=KJV&passage=2+Samuel+21:8) (KJV) She had five sons.
+- -
+- The majority of hebrew have this, but not some Hebrew or the Septuagint
+- -
+- No surely we go for the plurality of oldest copies?
+- -
+- Which copies do we normally trust?
+- Loads of Contradictions in Kings/Chronicles
+- -
+- [1KI 4:26](http://www.biblegateway.com/bible?&version=KJV&passage=1+Kings+4:26) Solomon had 40,000 horses (or stalls for horses).
+- -
+- [2CH 9:25](http://www.biblegateway.com/bible?&version=KJV&passage=2+Chronicles+9:25) He had 4,000 horses (or stalls for horses).
+- -
+- [1KI 7:15-22](http://www.biblegateway.com/bible?&version=KJV&passage=1+Kings+7:15-22) The two pillars were 18 cubits high.
+- -
+- [2CH 3:15-17](http://www.biblegateway.com/bible?&version=KJV&passage=2+Chronicles+3:15-17) They were 35 cubits high.
+- -
+- Manuscript variants / scribal error is common, suggesting original text was not always transmitted faithfully
+- -
+- If scribal error is common how can we trust OT/ most of NT? How do we know there aren’t errors in the text at any point
+- -
+- Surely I can arge that the anti homosexuality in the bible is possibly a series of copyist errors or misunderstandings or deliberate changes?
+### Other Contradictions - I suggest go to next point
+- Two different contradictory creation accounts
+- Jehovah not know before moses but actually known
+- -
+- Exodus 6:2-3 King James Version (KJV) 2 And God spake unto Moses, and said unto him, I am the Lord:3 And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name Jehovah was I not known to them.
+- -
+- Genesis 22:14-16 King James Version (KJV) 14 And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the Lord it shall be seen.
+- 120 Years
+- -
+- [GE 6:3](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+6:3) The Lord said, "My spirit will not be in man forever, for he is only flesh; so the days of his life will be a hundred and twenty years."
+- -
+- Only a generalising statement?
+- -
+- So we ought not to take God’s words literally? That’s a dangerous precedent.
+- -
+- And is it definitely addressing issue of lifespan?
+- -
+- I am everywhere using respected english translations (often translated for believers so if there is bias it’s probably the other way). If it isn’t lifespan the onus is on the disagreer to saying what it is.
+- -
+- [GE 9:29](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+9:29) Noah lived nine hundred and fifty years.
+- Wedding at Cana
+- -
+- [MT 4:1-11](http://www.biblegateway.com/bible?&version=KJV&passage=Matthew+4:1-11), [MK 1:12-13](http://www.biblegateway.com/bible?&version=KJV&passage=Mark+1:12-13) Immediately following his Baptism, Jesus spent forty days in the wilderness resisting temptation by the Devil.
+- -
+- [JN 2:1-11](http://www.biblegateway.com/bible?&version=KJV&passage=John+2:1-11) Three days after the Baptism, Jesus was at the wedding in Cana.
+- -
+- It makes sense for John to be talking retrospectively
+- -
+- Sure, but it’s not the natural reading
+- -
+- John often alters chronology to make theological points
+- -
+- How do we know he doesn’t alter other things or add in miracles to make theological points? How can we trust links to prophesy if he fiddles other details
+- God repents
+- -
+- Literally the same word [https://biblehub.com/hebrew/strongs_5162.htm](https://biblehub.com/hebrew/strongs_5162.htm)
+- -
+- Numbers 23:19-20 God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?
+- -
+- 1 Samuel 15:29 And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent.
+- -
+- Exodus 32:14 King James Version (KJV) And the Lord repented of the evil which he thought to do unto his people.
+- -
+- Genesis 6:6 King James Version (KJV) And it repented the Lord that he had made man on the earth, and it grieved him at his heart.
+- -
+- 1 Samuel 15:35 King James Version (KJV) And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the Lord repented that he had made Saul king over Israel.
+- When does Noah go into the ark?
+- -
+- [GE 7:7](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+7:7) Noah and his clan enter the Ark.
+- -
+- [GE 7:13](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+7:13) They enter the Ark (again?).
+- How old was abraham when his father died?
+- -
+- [GE 11:26](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+11:26) Terah was 70 years old when his son Abram was born.
+- -
+- [GE 11:32](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+11:32) Terah was 205 years old when he died (making Abram 135 at the time).
+- -
+- [GE 12:4](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+12:4), [AC 7:4](http://www.biblegateway.com/bible?&version=KJV&passage=Acts+7:4) Abram was 75 when he left Haran. This was after Terah died. Thus, Terah could have been no more than 145 when he died; or Abram was only 75 years old after he had lived 135 years.
+- -
+- Perhaps Arram was the third son but this is pretty unclear
+- Jehovah not know before moses but actually known
+- -
+- Exodus 6:2-3 King James Version (KJV): And God spake unto Moses, and said unto him, I am the Lord: 3 And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name Jehovah was I not known to them.
+- -
+- Genesis 22:14-16 King James Version (KJV): 14 And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the Lord it shall be seen.
+- Tyre
+- -
+- [EZ 26:7-21](http://www.biblegateway.com/bible?&version=KJV&passage=Ezekiel+26:15-21) God says that Tyre will be destroyed and will never be found again.
+- -
+- (Nebudchanezzar failed to capture or destroy Tyre. It is still inhabited.)
+- -
+- [https://www.ancient.eu/Tyre/](https://www.ancient.eu/Tyre/)
+- -
+- [http://www.aboutbibleprophecy.com/q31.htm](http://www.aboutbibleprophecy.com/q31.htm)
+- Incest
+- -
+- “And if a man shall take his sister, his father’s daughter, or his mother’s daughter…it is a wicked thing….” — Leviticus 20:17
+- -
+- [But what was god’s reaction to Abraham, who married his sister — his father’s daughter?] See Genesis 20:11-12
+- -
+- “And God said unto Abraham, As for Sara thy wife…I bless her, and give thee a son also of her…” — Genesis 17:15-16
+- -
+- Abraham is not shows as exemplary
+- -
+- There is no condemnation of grave sexual immorality. This is at best very unclear
+- ## Historical/Factual inconsistencies
+### Creation
+- The bible gives the impression that creatures are created in “Kinds” this is not the case
+- God calls the expanse above “heaven” and the water above is above that
+- What evidence is there for the flood.
+- -
+- Babylonian flood
+- -
+  This is not what the story tells though - it requires fudging to turn a worldwide flood (for which is there is no evidence) to al localised one. Which would not have covered all the “high mountains under the entire heavens”” to a depth of 6.8 meters. This is inconsistent
+- Things that die
+- -
+- “Everything that is on the earth shall die” This seems pretty unequivocal.
+- -
+- Local area?
+- -
+- Gen 7 17-24 The flood continued forty days on the earth. The waters increased and bore up the ark, and it rose high above the earth. The waters prevailed and increased greatly on the earth, and the ark floated on the face of the waters. And the waters prevailed so mightily on the earth that **all the high mountains under the whole heaven were covered**. The waters prevailed above the mountains, **covering them fifteen cubits deep**. And **all flesh died that moved on the earth, birds, livestock, beasts, all swarming creatures that swarm on the earth, and all mankind. Everything on the dry land in whose nostrils was the breath of life died. He blotted out every living thing that was on the face of the ground, man and animals and creeping things and birds of the heavens**. They were blotted out from the earth. **Only Noah was left**, and those who were with him in the ark. And the waters prevailed on the earth 150 days.
+- -
+- There isn’t a lot of wiggle room to suggest that only some things died or that it was localised unless living things were localised too which we know isn’t true
+- -
+- [GE 6:4](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+6:4) There were Nephilim (giants) before the Flood.
+- -
+- [GE 7:21](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+7:21) All creatures other than Noah and his clan were annihilated by the Flood. See above
+- -
+- [NU 13:33](http://www.biblegateway.com/bible?&version=KJV&passage=Numbers+13:33) There were Nephilim after the Flood.
+- Evidence of the garden of eden
+- ### Events
+- Does the bible describe any events wrong
+- We can now answer the questions in job
+- Evidence for exodus?
+- Evidence for resurrection of the dead at resurrection of Jesus
+- Darkness
+- Barabbas
+- Implausible character
+- Egypt governer released guy (src?)
+- Not on jewish holiday
+- Not a traitor or a murderer
+- Far to closely matches yom kippur
+- Fake sounding name
+- Not impossible
+- Implausibly convenient story structure
+- Jesus teaches on reversals
+- James and John replaced by convicts at right and left
+- Simon Peter replaced by simon of cirene
+- Jews mock and centurion notes
+- Women report resurrection
+- Mark constructs cross from psalm
+- Why does mark miss piercing of hands and feet
+- What about events for which there is no parallel
+- Perhaps mark references psalm in light of events
+- Do later gospels change events
+- Romulus/ Jesus road story
+- Reification of imaginary people into real people
+- Lazarus fictional character who becomes real
+- Is he disciple who jesus loves?
+- Hugely implausible events no one else mentioned
+- Darkness over the land
+- Mass resurrection
+- ## Moral Inconsistencies and Issues
+- We are punished (by having to sin and hence being punished for that) for Adam’s sin, despite having no part in it.
+- -
+- Outside of a moral system which justifies it, this would not be something we believe
+- -
+- I should not be held responsible for Adam's sin, that’s an unjust system
+- -
+- It links to shame and family honour, systems we have since discarded
+- -
+- I had no ability to affect adam’s actions so why am I being punished for them? I do not deserve the punishment
+- -
+- Note that the Bible agrees on both sides, leading to another inconsistency
+- -
+- “The son shall not bear the iniquity of the father…” — Ezekiel 18:20
+- -
+- “I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation…” — Exodus 20:5
+- -
+- My failure to follow God’s law is my fault, despite the fact that I would never be able to, and I am unable to because of adam’s sin.
+- -
+- All people are created for hell and have no other natural alternative, this is not justice.
+- -
+- All people are created for hell
+- -
+- Hell is created for the devil / demons.. Mt 25:41
+- -
+- This isn't it a counterpoint. Hell can be created for demons and humanity can be created to (without God’s help) go to hell.
+- -
+- “All have sinned and fall short of the glory of God” Romans 3:23
+- -
+- “What if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath prepared for destruction, in order to make known the riches of his glory for vessels of mercy, which he has prepared beforehand for glory— even us whom he has called, not from the Jews only but also from the Gentiles?”
+- -
+- Those to which God has not prepared for mercy may be prepared for destruction. If all have sinned, as above, the natural end for all is hell and destruction
+- -
+- This statement isn’t exhaustive
+- -
+- If this statement were exhaustive, it would still be fudgeable by the same logic which allows many literal things Jesus says to be taken to mean slightly wider things that their most literal interpretation
+- -
+- Like what?
+- -
+- No natural alternative
+- -
+- God’s presence
+- -
+- This is not a natural alternative. No human can attain heaven without being predestined by God.
+- -
+- “For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.” Romans 8
+- -
+- “For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—  not by works, so that no one can boast.” Ephesians 2:8-9
+- -
+- It is not by natural actions (works) but by grace we are saved. There is no natural way a human could avoid hell.
+- -
+- Justice
+- -
+- Justice is (off the top of my head) the appropriate punishment for wrongdoing. Or as the stanford dictionary of philosophy puts it “the constant and perpetual will to render to each his due”.
+- -
+- Wrongdoing requires an element of choice. What is “his due” if he had no choice in the matter?
+- -
+- Wikipidia: Usually, to be classified as a crime, the "act of doing something criminal" (actus reus) must – with certain exceptions – be accompanied by the "intention to do something criminal" (mens rea). Can there be an intention to do wrong if there were not alternatives?
+- -
+  Maybe - if you have a choice between killing one person or another (with no other choices) you could still intend to kill one
+- -
+- If we could not have acted any other way, how can we be punished for our choices?
+- -
+- Would we punish a child who we forced to commit a crime?
+- -
+- And the Bible agrees, it argues that there are choices between good and bad
+- -
+- Deut 30: 15-20 “See, I have set before you today life and good, death and evil… Therefore choose life, that you and your offspring may live, loving the LORD your God, obeying his voice and holding fast to him”
+- -
+- Prov. 1 Wisdom: “Then they will call to me but I will not answer;    they will look for me but will not find me, since they hated knowledge and did not choose to fear the Lord.”
+- -
+- How many sermons have I heard even as a calvinist, which suggest we should choose to do that which is good?
+- -
+- God’s forbearance in Jesus then, is hardly mercy then when the alternative was not justice
+- -
+- To Romans 9, “Shall what is formed say to the one who formed it “why did you make me like this?”” Yes, I shall
+- -
+- If I made a conscious cracked pot and then tortured it for being cracked, that would be on me, (unless there were other reasons to believe my justice)
+- Temptation
+- -
+- “Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man.” — James 1:13
+- -
+- “And it came to pass after these things, that God did tempt Abraham…” — Genesis 22:1
+- The problem of evil
+- -
+- How can God be good, all powerful and all knowing while there is suffering
+- -
+- Unless sin and humanity’s ultimate punishment are good.
+- -
+- If God is all powerful and good **why does evil exist**
+- -
+- Gives space for man’s free will
+- -
+- What Biblical evidence is there for free will as a concept in the Bible
+- -
+- If there was free will, how come all fall short of the Glory of God? That seems more like a failure of design.
+- -
+- God must have created the Devil and made him fall, perhaps by inaction.
+- -
+- God created Adam and Eve knowing they would sin and allowed them to sin
+- -
+- Humanity is therefore unable not to sin and held personally responsible as a result of God’s action/inaction
+- -
+- How is God** good here**?
+- The position of women, 1 Cor 15
+- God is love
+- -
+- **Love does not keep a record of wrongs**
+- -
+- God does. God is vengeful but that is good
+- Fruti of the Spirit
+- -
+- **Many of these actions are unlike God/Israelits in OT**
+  Gods presence - cant’ dwell with poeple. Cain leaves it suggesting adam even in it despite their sin.
+  God isn’t all loving - **he didn’t love Esau** which is used to justify him not loving many others **The OT god is very much like all the other gods humans have invented**
+- Confusion
+- -
+- [GE 11:9](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+11:9) At Babel, the Lord confused the language of the whole world.
+- -
+- [1CO 14:33](http://www.biblegateway.com/bible?&version=KJV&passage=1+Corinthians+14:33) Paul says that God is not the author of confusion.
+- -
+- This is in the context of orderly worship
+- -
+- But it is a piece of evidence, not a conclusion “for God is…” So it is saying God is not the author of confusion
+- So we are called never to sin whatever the circumstances but God can, does that not encourage utilitarianism of the sort that encourages genocide etc. Surely if God were inflexible on right and wrong that would be better.
+- Is God Omnipotent?
+- -
+- [GE 17:1](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+17:1), [35:11](http://www.biblegateway.com/bible?&version=KJV&passage=Genesis+35:11), [1CH 29:11-12](http://www.biblegateway.com/bible?&version=KJV&passage=1+Chronicles+29:11-12), [LK 1:37](http://www.biblegateway.com/bible?&version=KJV&passage=Luke+1:37) God is omnipotent. Nothing is impossible with (or for) God.
+- -
+- [JG 1:19](http://www.biblegateway.com/bible?&version=KJV&passage=Judges+1:19) Although God was with Judah, together they could not defeat the plainsmen because the latter had iron chariots.
+- How do we explain the differing creation narratives, why was death always a part of the garden
+- ## Scientific Errors and False Strong Implications
+## Philosophical
+- The Bible accounts are exactly what you would expect of a human made religion
+- Religion has clear reasons for having been “invented” and for surviving
+- -
+- People like religions. They make them up all the time
+- -
+- Maybe they based on truth
+- -
+- This isn’t falsifiable
+- -
+- It gave diving authority to Kings and controlled people
+- The human mind has a need to create God
+- -
+- Shared rituals of initiation and life help create a sense of **shared society and community**
+- Religious experience can be mapped to physical phenomena
+- The existence of an all powerful being is even less likely than the existence of our universe
+- ## Abusive systems of thought
+- Does Christianity encourage us to be rational?
+- -
+- Does it encourage us to search for the answers
+- Faith is unfalsfiable and exactly the kind of system you would invent to require less evidence
+- ## Other inconsistencies/ issues
+- Many Scholars consider 2 Peter Pseudographical
+- -
+- This book affirms that paul’s writing is scripture
+- # Specific Responses
+## But there couldn’t be that much evidence from Biblical times
+- Also what were their standards
+- ## Here are my reasons for Jesus
+- This is a quote I read from a review. I think breaking down may be instructive:
+- For myself, I believe in the claims of Jesus Christ for two reasons. Firstly, I believe because I find the Bible to be authoritative and historically accurate. I find it to be authoritative in what it says about me, others and this world. Within the full story of the Bible most, if not all, of life is touched upon in a profound way which leads me to believe it is divinely inspired. I find it historically accurate because the life, crucifixion, empty tomb and eye witness testimonies to the resurrection of Jesus are all recognised as historical facts. These core beliefs are defended by historians. Secondly, I believe because of experiences. I have experienced that when I pray, things tend to work out better, and that when I read the Bible, I am filled with joy. I have experienced that when I live my life for God and not for me, extraordinary things are possible. I have experienced God changing me and giving me freedom to become a unique individual. These two pillars, the Bible and my experiences, are enough for me to believe in the claims of Jesus Christ. It’s a shame that Sam Harris doesn’t seem open to really considering the evidence.
+- ## Was Jesus Mad, Bad or God?
+  **

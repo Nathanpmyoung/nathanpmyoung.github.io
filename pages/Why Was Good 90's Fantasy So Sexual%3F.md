@@ -1,5 +1,12 @@
-- Examples
-	- [[Dragonriders of Pern]] Some of the exploration here is interesting, but it is sooo explicit. In some sense more explicit than if it were just erotica. My memory of these books, which I read when I was 11 - 15 is pretty hazy, but I remember them looking at impotence in detail one time.
-	- [[The Name of The Wind]] I guess not published in the 90s but I don't care. It was a hangover
-	-
-	-
+- Let's look through this list - the first on [[Goodreads - Goodreads Delenda Est]] https://www.goodreads.com/list/show/1118.Best_Fantasy_of_the_90s
+	- [[Harry Potter]] - not sexy
+	- [[A Game of Thrones]] - pretty sexy, but pretty chaste by 90s standards
+	- [[The Eye of the World]] - I thought this book was overrated, it is probably sexy
+	- [[Northern Lights]] - not sexy
+	- [[Assassin's Apprentice]] - Absolutely sexy. Also heartbreaking [[Robin Hobb]] what did your main characters do to you?
+- I'm not sure if I've made my point or not, but I'm bored. If I were more thorough we could look at other genres and see if it was the same.
+- Why is this the case? Theories
+	- Fantasy audiences were mainly guys who largely thought this content was beneficial and the authors wanted to explore it.
+	- There often seem to be elements of wish fulfilment
+	- Community norms - if everyone else writes ludicrous sex scenes into their books, I guess you think it's normal and so do too
+	- Some kind of backlash against norms in other areas of writing?
