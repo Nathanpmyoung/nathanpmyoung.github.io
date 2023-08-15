@@ -38,7 +38,8 @@
 	- All too often in political discussions, I think I'm in a frame of discussing the real world, but then some aesthetic/heuristic judgement comes in. *Who cares what your gut says here, the question is what's real*
 - Possible getouts
 	- "I understand the intuition but for me the question is, what is really going on. That may or not match our intuitions"
-- [[Mistake]]
+- [[Mistakes]]
 	- I am prone to preferring simplicity over most things. I think this leads me to underrate [[Government]] [[Bureaucracy]] a little
+	  id:: 64da0ae9-beb9-42a1-bc23-69f7b7f9c466
 	-
 -

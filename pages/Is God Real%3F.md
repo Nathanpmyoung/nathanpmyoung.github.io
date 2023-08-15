@@ -25,102 +25,65 @@ alias:: God is real
 - As a quick example, it’s impossible to prove miracles don’t happen, but they are clearly exceedingly rare. I have never eaten a sandwich which turned into a frog and I guess I have eaten about 10 sandwiches a week since I was about 4 ( roughly 20*50*10=10000). If for the sake of argument one of my sandwiches had, that would still be a 1 in 10000 occurrence. If one of my sandwiches wasn't where I left it, I would still assume I had misplaced it rather than the frog hypothesis. Not because it was impossible, but because it was less probable.
 - The central argument is not about the impossibility of miracles or ()of God), they are possible, but clearly they are improbable, we have few accounts of them happening, even if we trust those accounts. What is the additional evidence to make us think it was a sandwich turning into a frog, rather than just my forgetfulness or otherwise? You must be able to find a flaw in my logic here to be able to dismiss this argument.
 - ## The Gospels
-- What is it in the gospels which is hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
-- -
-- Good moral advice
-- -
-- **Do unto others as they would do unto you is found in confuscious 500 bc (search 15:24) **[http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf)
-- -
-- Miracles
-- -
-- Herodotus describes some miracles in his histories, note that he doubts them, but records them because he has been told them (37, 38) [https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII](https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII)
-- -
-- His doubting makes an even stronger case, he acknowledges the strangeness of what he records but does it anyway. A true believer would be more likely to record things he wanted to be true.
-- -
-  Likewise herodotus writes 40 - 70 years after the events he describes a very similar time period to our best guess as to the authorship of the gospels. Clearly miraculous events have either happened (I’d guess you don’t think so) or have entered the oral history to the extent that while he doesn’t believe them, he’ll write them down
-- -
-- His burial
-- -
-- After his death he was buried in a tomb by Joseph of arimithea
-- -
-- This is only evidence for his death
-- -
-- Why would they paint a Jewish leaded in such a good light?
-- -
-- Subvert expectations
-- -
-- The empty tomb
-- -
-  From 4 anonymous accounts 40 - 60 years after the events why should we even believe there was an empty tomb from the gospels?
-- -
-- If there weren’t an empty tomb  then Jewish opponents would have been able to quell the Jesus movement by presenting the dead body
-- -
-- What evidence do we have that such Jewish movements existed
-- -
-- What evidence do we have that the gospels are correct in the nature of the tomb such that the Jewish opponents would have known where it was?
-- -
-- Many scholars understand the tomb to be empty
-- -
-- What evidence to they cite?
-- -
-- What evidence do we have that early Christians couldn't have called such a body a fake?
-- -
-- What evidence do we have that even if such a body were displayed and some or even many had turned away from Christianity that we would know about that now?
-- -
-- How well do modern people deal with even incontrovertible proof that their worldview is false? (see flat earthers, mormons etc)
-	- Earliest jewish polemic presupposes stolen body
-	- -
-	- Guard at tomb suggests jews said there was no body
-	- -
-	- Paul envisages a transformation of body (not an exchanges)
-	- -
-	- Paul means intrinsic change
-	- -
-	- Sowing and reaping same thing
-	- -
-	- This perishable puts on imperishable
-	- -
-	- No scholarly consensus
-	- -
-	- No evidence that the body (if it was left) was used for necromancy or healing etc
-	- -
-	- Would they have used it for this if it were still around?
-	- -
-	- The Unfortunate nature of the stories
-	- -
-	- Jesus triumphs
-	- -
-	- The clueless nature of the disciples
-	- -
-	- This is a literary device like the crew in the odyssey
-	- -
-	- Characters in odyssey are fictional, but Peter and disciples were known church leaders
-	- -
-	- Literary devices can apply to both real and fake people. Non-fictional works contain literary devices.
-	- -
-	- A resurrected saviour
-	- -
-	- Philo writes about Jesus
-	- -
-	- Where is the evidence for this?
-	- -
-	- Other similar death and resurrection cults
-	- -
-	- **Osiris physical resurrection on walls of pyramid**
-	- -
-	- Death / resurrection theme was popular but never conceived of as literal (check Wright
-	- -
-	- No expectations of messiah dying and rising
-	- -
-	- Daniel, Isiah, Wisdom of solomon, gabriel inscription all suggest death and resurrection of messiah
-	- -
-	  Pauls says firstfruits - it was the soon apocalypse
-	- Did the authors believe that the gospels were literally true?
-	- John is admittedly biased
-	- -
-	- And many other signs truly did Jesus in the presence of the disciples, which are not written in this book: but these are written that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have through his name.
-	- What genre are the gospels?
-	- ## The Epistles
+  collapsed:: true
+	- What is it in the gospels which is hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
+		- Good moral advice
+			- **Do unto others as they would do unto you is found in confuscious 500 bc (search 15:24) **[http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf)
+		- Miracles
+			- There are other sources with miracles, how should we deal with this?
+			- Herodotus describes some miracles in his histories, note that he doubts them, but records them because he has been told them (37, 38) [https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII](https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII)
+			- His doubting makes an even stronger case, he acknowledges the strangeness of what he records but does it anyway. A true believer would be more likely to record things he wanted to be true.
+			- Likewise herodotus writes 40 - 70 years after the events he describes a very similar time period to our best guess as to the authorship of the gospels. Clearly miraculous events have either happened (I’d guess you don’t think so) or have entered the oral history to the extent that while he doesn’t believe them, he’ll write them down
+		- His burial
+			- After his death he was buried in a tomb by Joseph of arimithea
+			- This is only evidence for his death
+			- Why would they paint a Jewish leaded in such a good light?
+	- Subvert expectations
+	- The empty tomb
+	  From 4 anonymous accounts 40 - 60 years after the events why should we even believe there was an empty tomb from the gospels?
+	- If there weren’t an empty tomb  then Jewish opponents would have been able to quell the Jesus movement by presenting the dead body
+	- What evidence do we have that such Jewish movements existed
+	- What evidence do we have that the gospels are correct in the nature of the tomb such that the Jewish opponents would have known where it was?
+	- Many scholars understand the tomb to be empty
+	- What evidence to they cite?
+	- What evidence do we have that early Christians couldn't have called such a body a fake?
+	- What evidence do we have that even if such a body were displayed and some or even many had turned away from Christianity that we would know about that now?
+	- How well do modern people deal with even incontrovertible proof that their worldview is false? (see flat earthers, mormons etc)
+		- Earliest jewish polemic presupposes stolen body
+		- Guard at tomb suggests jews said there was no body
+		- Paul envisages a transformation of body (not an exchanges)
+		- Paul means intrinsic change
+		- Sowing and reaping same thing
+		- This perishable puts on imperishable
+		- No scholarly consensus
+		- No evidence that the body (if it was left) was used for necromancy or healing etc
+		- Would they have used it for this if it were still around?
+		- The Unfortunate nature of the stories
+		- Jesus triumphs
+		- The clueless nature of the disciples
+		- This is a literary device like the crew in the odyssey
+		- Characters in odyssey are fictional, but Peter and disciples were known church leaders
+		- Literary devices can apply to both real and fake people. Non-fictional works contain literary devices.
+		- A resurrected saviour
+		- Philo writes about Jesus
+		- Where is the evidence for this?
+		- Other similar death and resurrection cults
+		- **Osiris physical resurrection on walls of pyramid**
+		- -
+		- Death / resurrection theme was popular but never conceived of as literal (check Wright
+		- -
+		- No expectations of messiah dying and rising
+		- -
+		- Daniel, Isiah, Wisdom of solomon, gabriel inscription all suggest death and resurrection of messiah
+		- -
+		  Pauls says firstfruits - it was the soon apocalypse
+		- Did the authors believe that the gospels were literally true?
+		- John is admittedly biased
+		- -
+		- And many other signs truly did Jesus in the presence of the disciples, which are not written in this book: but these are written that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have through his name.
+		- What genre are the gospels?
+- ## The Epistles
+  collapsed:: true
 	- What is it in the epistles are are hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
 	- -
 	- Significant changes in opinion:
@@ -170,14 +133,16 @@ alias:: God is real
 	- Shapers
 	- -
 	- Cargo cults
-	- ## Acts
+- ## Acts
+  collapsed:: true
 	- The empty tomb
 	- Speeches
 	- These are often made up in ancient histories
 	- **	****	****	**Source?
 	- Resurrection
 	- No mention in acts of any search for missing body/investigation
-	- ## The Growth of the Church
+- ## The Growth of the Church
+  collapsed:: true
 	- Are there examples of religions growings as fast as Christianity?
 	- -
 	- Mormonism, a faith with a frankly ludicrous (as I understand it) grounding is currently growing faster than Christianity did to begin with [http://commonsenseatheism.com/?p=95#identifier_4_95](http://commonsenseatheism.com/?p=95#identifier_4_95)
@@ -185,9 +150,11 @@ alias:: God is real
 	- Not entirely comparable given opportunities of the information age
 	- -
 	- The onus is on the Christian to show this growth is surprising
-	- ## The Deaths of the Disciples
+- ## The Deaths of the Disciples
+  collapsed:: true
 	- Is there any historical evidence for this, and that they didn’t recant and that if they had recanted they expected not to die?
-	- ## The Summary So Far
+- ## The Summary So Far
+  collapsed:: true
 	- It is therefore easy to posit a number of explanations which, combined, are more likely than the miraculous one (see above):
 	- -
 	- Jesus was a man who lived and taught and died and whose followers thought he had risen from the dead
@@ -204,21 +171,6 @@ alias:: God is real
 - -
 - Simple and unembellished
 - -
-- # Jesus never lived, but was a mythical story, like many others at the time which got later written down as true
-- -
-- This is not taken seriously by scholars
-- -
-- On what basis?
-- -
-- And how unlikely does that make it? It doesn’t need to be very likely to be more reasonable than resurrection, which almost never happens
-- -
-- 1 Corinthians 15:7 says he was buried. This burial need not be physical or on earth.
-- -
-- Yes but most are, so you’d need evidence to suggest it isn’t
-- -
-  Aliens - this is a serious suggestion
-- Surely one theory is better than a number of theories which require intersections of unlikely events. No, not probabilistically speaking. You add the probability of different theories and multiply across unlikely events. Theft*hallucination is unlikely but it’s more likely than resurrection (which almost never happens) and thats before you add the probabilities of all the possible but unlikely naturalistic events. If the criticism is that these are unlikely, sure, major religious are very rarely born, particularly compared to all religions.
-  Some kind of comment about how theism being “simple” and therfore more likely - it just seems so obvious right?
 - ## Philosophical
   Transhumanist - there was a previous race of people who are now super intelligent
 - -

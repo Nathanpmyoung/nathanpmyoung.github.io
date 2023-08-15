@@ -1,0 +1,10 @@
+- [[Open AI]]
+	- Build a better AI researcher
+	- Does the AI love humanity?
+	- Requests
+		- How do we take values from society
+	- [[Scalable Oversight]]
+	- [[Leika]] [[AXRP]]
+		- Became more optimistic because language models work
+		- [[RLHF]] works
+- Singular learning theory

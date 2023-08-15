@@ -1,6 +1,7 @@
 - *Life is a work in progress*
 - I build tools for [[Better Discourse]] and run a software development agency.
 - Generally I do product management and hire others to do development.
+- I am currently funded by [[Vitalik Buterin]] as well as private clients (depending on the work)
 - I work on
 	- Forecasting
 		- [Estimaker.app](https://estimaker.app/) - [Katja Grace’s AI model](https://estimaker.app/_/nathanpmyoung/ai-grace), [Joe Carlsmith’s AI model](https://estimaker.app/_/nathanpmyoung/ai-carlsmith), [Scott Eastman’s Ukraine Model](https://estimaker.app/_/nathanpmyoung/_/nathanpmyoung/ukraine-eastman)
@@ -58,12 +59,13 @@
 - # Big Mistakes
   id:: 64b70037-671d-4199-ae7e-f4759d4be8a8
 - Took a long time to realise the bible is incoherent - ((64d934c5-a082-483e-9fbf-85c1fbe79e9d))
+  id:: 64b70037-7ac7-4cb0-af1b-4e885e9e54ab
 - There are a set of mistakes around not spotting the FTX crisis ahead of time. I did think something was fishy. But I didn’t get there in time ([will there be a firestorm about FTX](https://www.google.com/url?q=https://manifold.markets/NathanpmYoung/media-firestorm-about-sbf-before-20&sa=D&source=editors&ust=1689718329605338&usg=AOvVaw28KzK22RcWJ4xX05Xgy_Bv), set up a week beforehand) ([will FTX go bankrupt](https://www.google.com/url?q=https://manifold.markets/NathanpmYoung/will-ftx-go-bankrupt-before-2024&sa=D&source=editors&ust=1689718329605735&usg=AOvVaw3Ris7DqkQLzKmB41EugPCh), set up a month beforehand)
 - Took too long to get [[ADHD]] diagnosis
   id:: 64b70037-06fc-4624-bdeb-bf79ac526860
 - See [[Mistakes]]
 - # Impact
-- Got [Dustin Moskovitz to sign](https://www.google.com/url?q=https://twitter.com/moskov/status/1645465885493297152?s%3D20&sa=D&source=editors&ust=1689718329606438&usg=AOvVaw2jnZMPtsGZxTOX2YcR9DSY) the Giving What We Can pledge
+- Got [Dustin Moskovitz to sign](https://twitter.com/moskov/status/1645465885493297152) the Giving What We Can pledge
 - I think there was a 1-5% chance [Elon would respond to this](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1596559616359415808&sa=D&source=editors&ust=1689718329606921&usg=AOvVaw2Sj4pwYbEUOiMt7NqD82EO)
 - Emilé Torres and I raised [$300k for GiveDirectly](https://www.google.com/url?q=https://www.givingwhatwecan.org/fundraisers/emile-and-nathan-christmas-fundraiser&sa=D&source=editors&ust=1689718329607389&usg=AOvVaw1Grf1ZeQPjzNtAMyBubE9G)
 - I hope one day I will be able to include either [[Estimaker]] or [[Viewpoints]] or some similar tool here.
