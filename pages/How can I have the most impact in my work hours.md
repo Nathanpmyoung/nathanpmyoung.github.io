@@ -1,0 +1,10 @@
+- [[Blog]]
+- I watched one of those "man on stage tells you how to make money" videos
+- Put app in forum
+- Write up 100 models
+	- Build a tool for better discussion
+	- Is this actually improving things
+- Can we get metaculus to become more accurate
+- Poll everyone and show average scores
+	- Selection effects
+	-

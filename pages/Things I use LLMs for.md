@@ -1,0 +1,5 @@
+- [[Coding]]
+- [[Worldplay]]
+- Transcription
+	- The area I use most often is Mac Whisper because it's a really accurate way of recording vocal text.
+	- So if I'm trying to write long documents, which is something I strive to do by typing, I'll just record them all.

@@ -5,4 +5,5 @@
 	- EloGrants
 		- Which grants have been best value per $
 		- Give amount achieved, give cost$
+	- $1k - $10k for a personal installation
 	-

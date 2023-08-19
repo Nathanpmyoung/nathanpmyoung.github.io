@@ -1,0 +1,15 @@
+- Newspeak House is a political tech space in London. It holds events, hosts fellows and I learned a lot. It adds value but in a non-standard way
+- "Should I take a Fellowship?"
+	- I guess if you are very extroverted and want to be stretched around politics and technology, more likely yes. If you strongly dislike discomfort or strangeness, no
+- What did I learn
+	- I got this sense of different meetups - hackathons, digital safety events, fundraisers, community meetups - you might think these all sound very different but as [[Edward Saperia]] says many communities want similar things - people, money, information, governance changes. It's pretty quick work to figure out which of these things this particular group wants
+	- I got motivated to follow my current work. I think my time at Newspeak helped me a lot in realising I could pursue work around [[Knowledge Management]] and [[Better Discourse]] . I helped on projects, I co-founded the [[Coronavirus Tech Handbook]]
+	- It was fantastic for networking. I know people from all across tech and politics as a result
+	- Most events suck. Having been to 15 - 30 different events I learned that many are bad. People assume that because they lead a community, they can run an event. They can't.
+	- Find people who build. There were a lot of people talking about doing things, but in a landscape with as poor feedback as political tech, it was important to follow those who built stuff and learned from it.
+- What were some difficulties
+	- Newspeak is interesting but that doesn't mean it's comfortable.  There are people in the house all the time, I've often come down in the middle of the night and had people chatting in the living room. If you like to know who is in your space this might not be for you. I'm not saying this should be a dealbreaker, but I think you should judge for yourself.
+	- A couple of female friends have expressed discomfort there over the 5 years I've interacted with the place. I think unless you're unusually robust you might want to check with another woman who has stayed there. This isn't to say "don't" but I think it could be a dealbreaker for some.
+	- House relations can be pretty rocky. The house is often full 7 of 25-35 year olds a turning point in their life. There is no mediation and the setup seems almost deliberately antagonistic at times.
+	- The house is in [[Perpetual Beta]]. Ed is changing things all the time and trying to make them match his vision. This means many things don't work.
+	- You have to motivate yourself. If you don't think you are gonna build projects then you may not get good use out of your time their.

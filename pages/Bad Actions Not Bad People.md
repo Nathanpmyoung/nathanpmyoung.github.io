@@ -1,0 +1,3 @@
+- [[Blog]]
+- It's tempting to label people good and bad, but it explains too much.
+- Better to focus on actions.
