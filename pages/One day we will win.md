@@ -1,0 +1,3 @@
+- One day we will win. One day we will end dead. No more will we worry about living to 100. We will live as long as we want to.
+- One day we will win. We will figure out how to make ourselves far more competent than we are now and far more empathetic too. Our current problems will seem like the difficulty of representing deer on cave walls - *how could it ever have been any other way*?
+- One day we will win. We will live 1000 lifetimes and look back fondly on this small hot existence, like teenage years.

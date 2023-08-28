@@ -2,13 +2,20 @@
 - In 2019 I spent 5 weeks researching doubts I had
 - By the end I no longer considered myself a Christian
 - Here are some notes from that.
+- Christians sometimes talk about a 4 step process
+	- Conversion
+	- Stabilty
+	- Deconstruction
+	- Recreation
+- I guess I see this pattern in my own life. I became a Christian, I grew for 10-15 years, the frame I had built didn't make sense and so it tumbled to pieces. I can see the attraction of rebuilding what I had - to some extent I am, but I don't see why I should want [[Jesus]] at the center of it. I don't know what assuming him adds.
+- To see the full argument I now hold, go here - [[Is God Real?]]
 -
 - # The Process
-## What is it?
+- ## What is it?
 - I will take 5 weeks off work exploring the points and counterpoints to if the God of the Bible is real. I will search within each point to see if it stands up to criticism. Points (or counterpoints) which don’t stand up to criticism will be ignored. I will count the number of (surviving) points, and the number of counterpoints and which ever side has more will convince me, either of God’s existence or that I do not know. Note I am not seeking to see if He doesn’t exist, there is no way I could know that. Perhaps if there are similar numbers and lots for each, I will add extra time to the process, I don’t know. Note that if there are none for each, I guess I wouldn’t believe in God, since there is no reason to, whereas if there lots for each it would be much harder. At the end I will either continue as a Christian and work out what I want to do with the rest of my life or I will stop considering myself one, I will stop going to church, praying, considering God’s law the highest duty and doing all that I do and will likewise work out what I want to do with the rest of my life.
 - Genuinely, if you think this is a bad process, how would you improve it and how would the new process be falsifiable
 - ## Frequently Asked Questions
-### Why take 5 weeks
+- ### Why take 5 weeks
 	- This is largely arbitrary though I will be spending perhaps 22.5 hours a week thinking about this consistently. I can’t reasonably take much more time off work than this (even the current period may be stretching it). So in total I’ll have spent at least 110 hours thinkin on this in depth. If I were to spend evenings of normal life I guess this amount of thinking would be fractured and take about (2hours/day, 2 days/week,) over a year during which I would be unsure about whether I believed the core aspect of my life. Compressing this seems wise because it’s really painful.
 	- Likewise other than in terms of Christianity’s somewhat final tone on apostasy ([Hebrews 6:4-6](https://www.biblegateway.com/passage/?search=Hebrews+6%3A4-6&version=ESV)) this need not be my final decision. I can change my mind in the future, but I do not want to live this way for years if I do not think it is true.
 - ### Surely you are just choosing what you want?

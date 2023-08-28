@@ -1,9 +1,10 @@
 alias:: God is real
 
-- This is a version of the thinking I did during my [[Deconversion]].
+- This is a version of the thinking I did during my [[Deconversion]]. I've updated it to be accurate to what I think now
 - # Preamble
-  collapsed:: true
-	- Assumptions
+	- Assumptions. *I think it's good to be honest about the things you're taking for granted*
+		- It's good to hold a position
+			- I feel deep in my bones that we should attempt to have a position on everything important. I don't know if this is very important or entirely unimportant. Some people don't even consider taking a view. I don't really know what to think about that, but it's not me
 		- The continuance of the universe
 			- My general sense that the universe has existed in parallel with my life. That there is a past
 			- If this is not the case, then any decisions I make, while they feel like they are based on experience, are not, because there is no past on which to base that experience
@@ -19,161 +20,75 @@ alias:: God is real
 			- Without this, I sort of don't know where to begin
 		- That we can't just presume [[God]] is real
 			- Many discussions boiled down to "some of us presume God is real, some don't, that's just the way it is"
-				- Firstly, if [[Eternal Damnation]] depends on whether someone made an arbitrary choice that seems unjust
+				- Firstly, if [[Eternal Damnation]] depends on whether someone made an arbitrary choice that seems unjust [[Bad Argument]]
 				- Secondly more assumptions are worse than fewer - they require more checking. Hence there are more possible errors to make
-- # What evidence is there for which the God of Bible is the best explanation? Why need I additionally assume his existence to make X more likely?
-- As a quick example, it’s impossible to prove miracles don’t happen, but they are clearly exceedingly rare. I have never eaten a sandwich which turned into a frog and I guess I have eaten about 10 sandwiches a week since I was about 4 ( roughly 20*50*10=10000). If for the sake of argument one of my sandwiches had, that would still be a 1 in 10000 occurrence. If one of my sandwiches wasn't where I left it, I would still assume I had misplaced it rather than the frog hypothesis. Not because it was impossible, but because it was less probable.
-- The central argument is not about the impossibility of miracles or ()of God), they are possible, but clearly they are improbable, we have few accounts of them happening, even if we trust those accounts. What is the additional evidence to make us think it was a sandwich turning into a frog, rather than just my forgetfulness or otherwise? You must be able to find a flaw in my logic here to be able to dismiss this argument.
+- # What does God add?
+- As a quick example, it’s impossible to prove miracles don’t happen, but they are clearly exceedingly rare. I have never eaten a sandwich which turned into a frog and I guess I have eaten about 10 sandwiches a week since I was about 4 ( roughly 20 * 50 * 10= 10,000). If for the sake of argument one of my sandwiches had, that would still be a 1 in 10,000 occurrence. If one of my sandwiches wasn't where I left it, I would still assume I had misplaced it rather than the frog hypothesis. Not because it was impossible, but because it was less probable.
+- The central argument is not about the impossibility of miracles (or of God), they are possible, but clearly they are improbable, we have few accounts of them happening, even if we trust those accounts. What is the additional evidence to make us think it was a sandwich turning into a frog, rather than just my forgetfulness or otherwise?
+- ## That other people believe
+- I surmise that most people's faith is strongly supported by many other people believing - s*omething can't be trivially wrong if many other people believe it, right?*
+- So if God seems to be working in the lives of many people you like know and respect that in itself needs explaining.
+	- But this is true of Muslims, Hindus, Sikhs. Why does this only mean Christianity is true?
 - ## The Gospels
-  collapsed:: true
-	- What is it in the gospels which is hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
-		- Good moral advice
-			- **Do unto others as they would do unto you is found in confuscious 500 bc (search 15:24) **[http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf)
-		- Miracles
-			- There are other sources with miracles, how should we deal with this?
-			- Herodotus describes some miracles in his histories, note that he doubts them, but records them because he has been told them (37, 38) [https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII](https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII)
-			- His doubting makes an even stronger case, he acknowledges the strangeness of what he records but does it anyway. A true believer would be more likely to record things he wanted to be true.
-			- Likewise herodotus writes 40 - 70 years after the events he describes a very similar time period to our best guess as to the authorship of the gospels. Clearly miraculous events have either happened (I’d guess you don’t think so) or have entered the oral history to the extent that while he doesn’t believe them, he’ll write them down
-		- His burial
-			- After his death he was buried in a tomb by Joseph of arimithea
-			- This is only evidence for his death
-			- Why would they paint a Jewish leaded in such a good light?
-	- Subvert expectations
-	- The empty tomb
-	  From 4 anonymous accounts 40 - 60 years after the events why should we even believe there was an empty tomb from the gospels?
-	- If there weren’t an empty tomb  then Jewish opponents would have been able to quell the Jesus movement by presenting the dead body
-	- What evidence do we have that such Jewish movements existed
-	- What evidence do we have that the gospels are correct in the nature of the tomb such that the Jewish opponents would have known where it was?
-	- Many scholars understand the tomb to be empty
-	- What evidence to they cite?
-	- What evidence do we have that early Christians couldn't have called such a body a fake?
-	- What evidence do we have that even if such a body were displayed and some or even many had turned away from Christianity that we would know about that now?
-	- How well do modern people deal with even incontrovertible proof that their worldview is false? (see flat earthers, mormons etc)
+	- What is it in the gospels which is hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant.
+	- Gospel accounts in an of themselves
+		- They are 4 ~anonymous accounts, 40 - 60 years after some other event
+			- I am almost aghast that I once considered this a proper argument. I would believe almost nothing on this evience
+		- There *are* a lot of copies of the gospels. So we have pretty good evidence that they were what was originally written
+			- Again, I struggle to understand the actual argument here. This doesn't make them more likely to be true
+	- If there were an empty tomb Jewish opponents could have quelled it
+		- No, that assumes the story was even spreading at the time. It's already more likely that the resurrection was a late addition than that it was a literal resurrection. If God wanted us to deduce this it's just very unlikely
+		- Who would Jewish leaders have shown a body to?
 		- Earliest jewish polemic presupposes stolen body
+			- How early is this Jewish polemic. Look at accounts of the last 5 years. Polemic goes backwards and forwards.
+	- Good moral advice
+		- Do unto others as they would do unto you is found in Confuscious 500 bc (search 15:24) [http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf) and I don't see the Bible as far better than other texts
+	- Miracles
+		- There are other sources with miracles, too
+		- Herodotus describes some miracles in his histories, note that he doubts them, but records them because he has been told them (37, 38) [https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII](https://en.wikisource.org/wiki/Herodotus_The_Persian_Wars_(Godley)/Book_VIII)
+		- His doubting makes an even stronger case, he acknowledges the strangeness of what he records but does it anyway. A true believer would be more likely to record things he wanted to be true.
+		- So should we believe these miracles happened? I don't think many Christians do? I imagine they might say "I don't have other reasons to these believe". If anything, it sounds like the miracles are using up credence rather than providing it - they are an anchor, not a lifejacket
+	- His burial
+		- After his death he was buried in a tomb by Joseph of arimithea
+		- This is only evidence for his death
+		- Why would they paint a Jewish leaded in such a good light?
+	- Other
 		- Guard at tomb suggests jews said there was no body
-		- Paul envisages a transformation of body (not an exchanges)
-		- Paul means intrinsic change
-		- Sowing and reaping same thing
-		- This perishable puts on imperishable
-		- No scholarly consensus
 		- No evidence that the body (if it was left) was used for necromancy or healing etc
-		- Would they have used it for this if it were still around?
-		- The Unfortunate nature of the stories
-		- Jesus triumphs
-		- The clueless nature of the disciples
-		- This is a literary device like the crew in the odyssey
+		- The Unfortunate nature of the stories suggests they are true?
+			- But Jesus triumphs
+		- The clueless nature of the disciples feels readl
+			- This is a literary device like the crew in the odyssey
 		- Characters in odyssey are fictional, but Peter and disciples were known church leaders
-		- Literary devices can apply to both real and fake people. Non-fictional works contain literary devices.
-		- A resurrected saviour
-		- Philo writes about Jesus
-		- Where is the evidence for this?
-		- Other similar death and resurrection cults
-		- **Osiris physical resurrection on walls of pyramid**
-		- -
-		- Death / resurrection theme was popular but never conceived of as literal (check Wright
-		- -
-		- No expectations of messiah dying and rising
-		- -
-		- Daniel, Isiah, Wisdom of solomon, gabriel inscription all suggest death and resurrection of messiah
-		- -
-		  Pauls says firstfruits - it was the soon apocalypse
-		- Did the authors believe that the gospels were literally true?
-		- John is admittedly biased
-		- -
-		- And many other signs truly did Jesus in the presence of the disciples, which are not written in this book: but these are written that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have through his name.
-		- What genre are the gospels?
+			- Literary devices can apply to both real and fake people. Non-fictional works contain literary devices.
+		- A resurrected saviour is a very novel idea
+			- Other similar death and resurrection cults
+			- Osiris physical resurrection on walls of pyramid
+			- Daniel, Isiah, Wisdom of solomon, gabriel inscription all suggest death and resurrection of messiah
 - ## The Epistles
-  collapsed:: true
-	- What is it in the epistles are are hard to explain? There are plenty of accounts/ stories which we do not consider to be divine/ inerrant or doubt the sincerity of the authors with:
-	- -
-	- Significant changes in opinion:
-	- -
-	- Peter hitchens changed from being a socialist to being a conservative
-	- -
-	- My opinion is changing on this
-	- -
-	- Jonathan Edwards used to be a christian, now he’s not
-	- -
-	- People clearly convert and deconvert from significant ideologies all the time
-	- -
+	- Paul sharply changes his mind
+		- Many people do
 	- Paul claims to have seen a vision
-	- -
-	- There is significant literature on hallucinations, we do not believe them to be miraculous or to point to any specific god
-	- -
-	- How could they? Many of the gods to which they point to disagree
-	- -
-	- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/)
-	- -
-	- Note Paul does not claim to have seen Jesus alive (other than in visions), nor that the gospel he teaches comes from people who have, he specifically claims his Gospel is not from men and that he preached for 3 years before he met anyone who we think (cause he doesn’t say) saw Jesus in the flesh
-	- -
-	- Gal 2: he claims at the same time that his visionary calling is consistent with the proclamation of the 'pillars' / leading figures in the church
-	- -
-	- He probably thinks it is, but that doesn’t mean he has seen Jesus nor that his gospel comes from people who have. If he thinks his visions are from God, who could say they are illegitimate?
-	- -
-	- Our initial stance should be to think visions are false because we know most are
-	- -
-	- He doesn’t suggest anyone saw jesus in a different way
-	- -
-	- Romans 16:25-26 Only revelation and scripture
-	- -
-	- What are the extrabiblical sources?
-	- -
-	- Born of woman
-	- -
-	- 1 Thessalonians 2:14-16
-	- -
-	- This is possibly dubious, given it is far more antisemitic than the rest of Paul’s writing and fits being added after the destruction of the temple
-	- -
-	- Gnostics (like Jehovah’s Witnesses today) believed in a spiritual resurrection, not a physical resurrection. Which theology won out may well have been merely political.
-	- -
-	- How were there group Hallucinations?
-	- -
-	- Schitzotypals
-	- -
-	- Shapers
-	- -
-	- Cargo cults
+		- There is significant literature on hallucinations, we do not believe them to be miraculous or to point to any specific god
+			- Note Paul does not claim to have seen Jesus alive (other than in visions), nor that the gospel he teaches comes from people who have, he specifically claims his Gospel is not from men and that he preached for 3 years before he met anyone who we think (cause he doesn’t say) saw Jesus in the flesh
+	- Does Paul think Jesus was a real person?
+		- He doesn’t suggest anyone saw jesus in a different way-
+		- Romans 16:25-26 Only revelation and scripture
+		- Born of woman
+		- 1 Thessalonians 2:14-16
+		- This is possibly dubious, given it is far more antisemitic than the rest of Paul’s writing and fits being added after the destruction of the temple
 - ## Acts
-  collapsed:: true
 	- The empty tomb
 	- Speeches
-	- These are often made up in ancient histories
-	- **	****	****	**Source?
+		- These are often made up in ancient histories
 	- Resurrection
 	- No mention in acts of any search for missing body/investigation
 - ## The Growth of the Church
-  collapsed:: true
-	- Are there examples of religions growings as fast as Christianity?
-	- -
 	- Mormonism, a faith with a frankly ludicrous (as I understand it) grounding is currently growing faster than Christianity did to begin with [http://commonsenseatheism.com/?p=95#identifier_4_95](http://commonsenseatheism.com/?p=95#identifier_4_95)
-	- -
 	- Not entirely comparable given opportunities of the information age
-	- -
-	- The onus is on the Christian to show this growth is surprising
 - ## The Deaths of the Disciples
-  collapsed:: true
 	- Is there any historical evidence for this, and that they didn’t recant and that if they had recanted they expected not to die?
-- ## The Summary So Far
-  collapsed:: true
-	- It is therefore easy to posit a number of explanations which, combined, are more likely than the miraculous one (see above):
-	- -
-	- Jesus was a man who lived and taught and died and whose followers thought he had risen from the dead
-	- -
-	- Jesus was a figure formed of a number of moral teachers composed into one, who became well respected after his death and who people later wrote stories about
-- -
-- [But there isn’t that much evidence from ancient times](https://docs.google.com/document/d/1W8-vpyq-oH3lKeDeeeOxCuBFUAi4q4a_YeXlfi0WhnM/edit#heading=h.pds9gg6qna)
-- -
-- Women aren’t trusted
-- -
-- Women are widely trusted in court and as historical witnesses
-- -
-- Are they?
-- -
-- Simple and unembellished
-- -
 - ## Philosophical
-  Transhumanist - there was a previous race of people who are now super intelligent
-- -
 - I am not interested in argument which do no provide for a deity
   Cosmological arguments - who created the universe
 - -
@@ -306,13 +221,13 @@ alias:: God is real
 - -
 - Does this philosophical groundwork kill the possibility of miracles?
 - ## Evidence of Writing Preceding Events it Describes
-## Personal Experience
-## God’s Ways are Higher than Our Ways
+- ## Personal Experience
+- ## God’s Ways are Higher than Our Ways
 - So are Allah’s but you don’t dismiss all the inconsistencies within the Qu’ran on this basis. Indeed all criticisms of all gods should be ignorable due to this.
 - It is unfalsifiable.
 - Surely there needs to be some reason to initially trust God before allowing this defence. I have yet to find one.
 - ## If at this point there is not a convincing point, we already have an issue.
-# Things which make the Bible less likely
+- # Things which make the Bible less likely
 - ## Inconsistencies within the Bible
   id:: 64d934c5-a082-483e-9fbf-85c1fbe79e9d
 	- In a formal logical system, a *single* contradiction is disastrous. See: the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion). If we can find a single contradiction in the bible its is a free for all. Anything can be true.
@@ -430,7 +345,7 @@ alias:: God is real
 - -
 - There is no condemnation of grave sexual immorality. This is at best very unclear
 - ## Historical/Factual inconsistencies
-### Creation
+- ### Creation
 - The bible gives the impression that creatures are created in “Kinds” this is not the case
 - God calls the expanse above “heaven” and the water above is above that
 - What evidence is there for the flood.
@@ -618,7 +533,7 @@ alias:: God is real
 - [JG 1:19](http://www.biblegateway.com/bible?&version=KJV&passage=Judges+1:19) Although God was with Judah, together they could not defeat the plainsmen because the latter had iron chariots.
 - How do we explain the differing creation narratives, why was death always a part of the garden
 - ## Scientific Errors and False Strong Implications
-## Philosophical
+- ## Philosophical
 - The Bible accounts are exactly what you would expect of a human made religion
 - Religion has clear reasons for having been “invented” and for surviving
 - -
@@ -644,7 +559,7 @@ alias:: God is real
 - -
 - This book affirms that paul’s writing is scripture
 - # Specific Responses
-## But there couldn’t be that much evidence from Biblical times
+- ## But there couldn’t be that much evidence from Biblical times
 - Also what were their standards
 - ## Here are my reasons for Jesus
 - This is a quote I read from a review. I think breaking down may be instructive:

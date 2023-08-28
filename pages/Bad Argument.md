@@ -1,0 +1,1 @@
+- A list of things I currently think that are dumb or suspect

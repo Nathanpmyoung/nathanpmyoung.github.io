@@ -1,0 +1,4 @@
+- Big wins
+	- What are EA/Rationalism/Feminism's big wins
+- How can I forecast that I will succeed
+	-

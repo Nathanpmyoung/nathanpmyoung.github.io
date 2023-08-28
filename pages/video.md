@@ -1,0 +1,4 @@
+- [[death]] very interesting video to see a range of people who have ended lives talking about it. Strangely balanced by [[Omission vs ]]
+	- {{video https://www.youtube.com/watch?v=IMZdL1Tawto}}
+- {{video https://www.youtube.com/watch?v=zRDhiN50Vo0}}
+-

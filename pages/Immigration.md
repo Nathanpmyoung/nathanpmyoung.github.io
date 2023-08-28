@@ -1,4 +1,6 @@
 - How beneficial is immigration in terms of [[GDP]]?
-- [[Open Borders]] [[Bryan Caplan]]
-- [[Hive Mind]] [[Garrett Jones]]
+	- [[Open Borders]] [[Bryan Caplan]]
+	- [[Hive Mind]] [[Garrett Jones]]
+	- Are there actually models for this?
+		- How much could we fund the [[UK]] with more immigration?
 -

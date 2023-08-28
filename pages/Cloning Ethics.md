@@ -1,0 +1,13 @@
+- If I clone myself am I still me?
+	- Yes, both are
+- If I use a transporter is that okay
+	- Well the me that exists after will think it is and the other me will be dead
+- Should I save money for myself tomorrow?
+	- Every other person would be confused, but happy to receive the money, why should I give it to [[Nathan Young]] tomorrow?
+- If I have a kid does that mean I can die
+	- Well I like being alive
+- Why is the continuance of this particular consciousness so important to me
+	- If I were a different one then I'd think differently
+	- [[Open Consciousness - or something]]
+	- I also want good things for everyone else too
+-

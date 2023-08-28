@@ -9,12 +9,13 @@ alias:: Blogs
 	- feedback
 	- make it easy to change your mind
 	- Chrisitianity
-		- [[Systemic sin]]
+		- [[Systemic Sin]]
 	- Handbooks
 	- Consent
 	- Odds as 1/n
 	- How valuable networking
 	- Things that save me time
-		-
+	- [[It's so over]]
+	-
 -
 	-

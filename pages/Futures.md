@@ -1,0 +1,5 @@
+- A future ruled by [[AGI]] seems fine but kind of emasculating
+	- I would want to be an AGI, not someone living in [[Gay Luxury Space Communism]]
+- A future with a squillion [[Ems]] living according to market pressures seems like one I'd not mind being a part of, but right now it seems unideal.
+	- I think [[Robin Hanson]] is right that there are going to be significant economic pressures towards such a world - if em technology exists then anyone can defect and copy themselves many many times
+	- I feel a bleakness about the idea that eventually my useful life might be over

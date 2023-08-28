@@ -14,5 +14,19 @@
 	- Viewpoints allows people to quickly swipe on statements and allows the questioner to find consensus. Likewise people can make comments to say what  they are uncertain of in the statements.
 - What would success might look like.
 	- A conference run with better discourse processes
+		- [[Manifest]]
+			- Every time you discuss with someone and disagree put it in the app.
+			- Matchmaking based on some agreement, some disagreement
 	- Websites working more using consensus tools
 		- [[EA Forum]] [[LessWrong]] - anyone else running one would feel like a minor win
+	- Solving real world problems
+		- Helping build a block of [[Housing]]
+	- Running a set of debates
+		- Why do people like debates
+			- The discussion involves lots of contextual information. How two people talk about something tells you a lot more about it.
+			- Find two real people disagreeing on the disagreements in the text
+			- [[Estimaker]] Find run a debate for each node.
+				- Have people vote on each node
+				- Are they recording the values from the [[Pause.AI]] poll
+- A process in search of a theory
+	- I am wary of my work because it involves a process I'm really interested in but doesn't necessarily yield results.

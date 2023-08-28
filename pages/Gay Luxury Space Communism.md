@@ -1,0 +1,7 @@
+- Hedonistic - *You can be whatever you want to be darling*
+- Galaxy-wide - *Jump in, we are going to get negentropy*
+- Functional - *Work*
+- No work - *But not that kind*
+- While this is a useful throwaway concept, denoting hedonism taken to its ultimate extent, there are a couple of key questions
+	- Is this the optimal hedonic setup? *Would more beings perhaps be happier on aggregate?*
+	- Who is allocating all these resources so well? *Is that decision maker really doing as good a job as possible*

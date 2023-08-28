@@ -1,0 +1,8 @@
+- An [[App]] I [[Product Manage]] around interactive probability graphs. You move sliders and it calculates the values.
+- Ideas
+	- Allow people to vote on different graphs
+	- Better method for inputting own values into someone else's graph
+	- How to sum across graphs
+- Questions
+	- [[Is expert discussion really useful]]
+	-
