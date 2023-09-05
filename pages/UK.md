@@ -1,0 +1,3 @@
+- How can we have better [[Attractors]]
+	- [[Aaron Hamlin]] pointed out the kinds of people that different voting systems tend to elect on any spectrum. What would we prefer?
+	-

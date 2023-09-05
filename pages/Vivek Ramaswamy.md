@@ -1,0 +1,5 @@
+- [[Bad Takes]]
+	- https://twitter.com/atrupar/status/1695806928880840995?s=20
+- [[Good Takes]]
+	- {{twitter https://twitter.com/VivekGRamaswamy/status/1696539729125155165}}
+-

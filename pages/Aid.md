@@ -1,0 +1,3 @@
+- https://es.ircwash.org/sites/default/files/Ramalingam-2008-Exploring.pdf
+	- bridging aid and [[Business]] [[Complexity Science]]
+	-

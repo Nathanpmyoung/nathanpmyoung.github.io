@@ -1,0 +1,4 @@
+- Speed running power law
+- "The central prediction of this framework is that there is a linear relationship between the log of training compute for a model (trained compute-optimally), and the number of samples it takes on average for a human to reliably distinguish the model from its training distribution. The framework can be falsified by, for example, showing that it takes 100 tokens on average to reliably distinguish a language model from its training distribution trained with 10^20 FLOP, and 1000 tokens for a model trained with 10^22 FLOP, but only 1200 tokens for a model trained with 10^24 FLOP."
+	- How much training compute is there?
+-
