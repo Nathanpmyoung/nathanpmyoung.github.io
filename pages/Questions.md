@@ -1,4 +1,15 @@
 - Big wins
 	- What are EA/Rationalism/Feminism's big wins
 - How can I forecast that I will succeed
+- How does forecasting add value?
+	- Could isolate confusion
+	- Viewpoints but for relationsips between objects
+		- When people disagree a lot you can start the discussion
+		- This would at least be interesting but would it be useful
+			- Interesting. Peolpe think that X is about 5 times as valuable as Y
+	- What is the most valuable thing I've created?
+	- Talk to 50 forecasters about how they do their forecasting
+		- What tools do they use
+		-
+-
 	-

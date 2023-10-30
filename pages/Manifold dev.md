@@ -1,0 +1,8 @@
+- [[Prediction Wiki]]
+	- Where are the posts in manifold?
+		- https://github.com/manifoldmarkets/manifold/blob/main/web/components/posts/post-card.tsx
+	- Where is the search function
+		- Find
+		- [[]] should search posts
+		- cmd + opt +
+	-

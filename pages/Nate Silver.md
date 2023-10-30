@@ -1,0 +1,3 @@
+- Seemed a bit defeatist in recent article. Just because he's failed to communicate doesn't mean the whole enterprise is a wash.
+	- https://www.natesilver.net/p/the-election-model-is-a-little-too?r=18mntl&utm_campaign=post&utm_medium=web
+-

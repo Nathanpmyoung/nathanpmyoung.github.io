@@ -1,0 +1,3 @@
+- Seems unlikely
+	- Trump into 3rd Trump term
+	- [[Republicans]] need a way to nominate people who aren't gonna ignore the constitution

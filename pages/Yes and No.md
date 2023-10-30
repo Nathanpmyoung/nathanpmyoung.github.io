@@ -1,0 +1,1 @@
+- ![image.png](../assets/image_1695266142571_0.png){:height 596, :width 778}

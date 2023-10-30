@@ -1,0 +1,2 @@
+- Questions people have according to this [poll](https://viewpoints.xyz/polls/israel-palestine)
+	- ![image.png](../assets/image_1697107782638_0.png)

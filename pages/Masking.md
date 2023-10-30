@@ -1,0 +1,5 @@
+- I think
+	- When you're pretending to be something you aren't
+- Examples
+	- Being polite to someone you dislike
+	-

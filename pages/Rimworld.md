@@ -1,0 +1,6 @@
+- [[Game]]
+- I guess I need  different types of crafting areas to create bills for different things
+- People do not seem to like their rooms
+- I guess I should want to grow the colony but I don't really know how
+-
+-

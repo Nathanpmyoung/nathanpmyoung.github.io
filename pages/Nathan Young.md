@@ -1,16 +1,16 @@
 - *Life is a work in progress*
 - I build tools for [[Better Discourse]] and run a software development agency.
-- Generally I do product management and hire others to do development.
 - I am currently funded by [[Vitalik Buterin]] as well as private clients (depending on the work)
 - I work on
 	- Forecasting
 		- [Estimaker.app](https://estimaker.app/) - [Katja Grace’s AI model](https://estimaker.app/_/nathanpmyoung/ai-grace), [Joe Carlsmith’s AI model](https://estimaker.app/_/nathanpmyoung/ai-carlsmith), [Scott Eastman’s Ukraine Model](https://estimaker.app/_/nathanpmyoung/_/nathanpmyoung/ukraine-eastman)
 		- [[Estimaker]] is a tool for building visual models of probabilities. Then it's easier to figure out where experts disagree
 	- Viewpoint aggregation
-		- [https://viewpoints.xyz](https://www.google.com/url?q=https://viewpoints.xyz/&sa=D&source=editors&ust=1689718329575636&usg=AOvVaw30g9Youjbl0OlJRw6yAGEE) - [AI Policy](https://www.google.com/url?q=https://viewpoints.xyz/polls/ai-policies), [Immigration](https://www.google.com/url?q=https://viewpoints.xyz/polls/immigration-lovers-and-haters)
+		- [https://viewpoints.xyz](https://viewpoints.xyz/) -
 		- [[Viewpoints]] is a survey tool where the statements change as users use it, aiming to move from uncertain statements to those people can clearly agree or disagree on
 	- Podcasts with experts on important issues
 		- [[Odds and Ends]]
+		-
 - You can find me on
 	- Twitter - [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)
 	- Say hi in this [WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/Lr2cFoiYYnHAO8JR3jNFHL&sa=D&source=editors&ust=1689718329577971&usg=AOvVaw12NVmgFsKP23VUS1vlVUGh) group
@@ -67,5 +67,7 @@
 - # Impact
 - Got [Dustin Moskovitz to sign](https://twitter.com/moskov/status/1645465885493297152) the Giving What We Can pledge
 - I think there was a 1-5% chance [Elon would respond to this](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1596559616359415808&sa=D&source=editors&ust=1689718329606921&usg=AOvVaw2Sj4pwYbEUOiMt7NqD82EO)
-- Emilé Torres and I raised [$300k for GiveDirectly](https://www.google.com/url?q=https://www.givingwhatwecan.org/fundraisers/emile-and-nathan-christmas-fundraiser&sa=D&source=editors&ust=1689718329607389&usg=AOvVaw1Grf1ZeQPjzNtAMyBubE9G)
+- Emilé Torres and I raised [$300k for GiveDirectly](https://www.google.com/url?q=https://www.givingwhatwecan.org/fundraisers/emile-and-nathan-christmas-fundraiser&sa=D&source=editors&ust=1689718329607389&usg=AOvVaw1Grf1ZeQPjzNtAMyBubE9G) - hard to say what the counterfactual for this money was, but I don't *think* it was mostly EA money
+- I sense I made the Elon Musk slow AI post happen a bit earlier on expectation, perhaps by hours or a day
+- I sense I improved the UK AI Safety conference a bit
 - I hope one day I will be able to include either [[Estimaker]] or [[Viewpoints]] or some similar tool here.
