@@ -3,7 +3,7 @@
 	- A way to show frustration on any block
 	- A more attractive theme
 	- User suggestions
-	- DM me on [[Twitter/X]] if you know any way I can have this happen
+	- DM me on [[X - Twitter]] if you know any way I can have this happen
 - How to deploy [[Logseq]] pages
 	- Put a git repository in the folder with your [[Logseq]] repository
 	- Follow this guide https://github.com/logseq/publish-spa (unless something better has come along)

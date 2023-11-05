@@ -23,4 +23,6 @@
 - [[Seamus Heaney]] Some Greek play
 	- Hope for a sea change on the far side of revenge
 - [[Moby Dick]]
-	-
+	- median Christians cannibals
+- [[Edgar Allen Poe]]
+	- "Secretly I am rooting for the organgutan"

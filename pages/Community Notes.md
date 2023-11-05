@@ -1,0 +1,7 @@
+- [[Forecasting]]
+	- Community Notes have the same problem as [[Wikipedia]] - it's about which sources you trust.
+		- [[Wikipedia]] has a list of sources
+		- [[Community Notes]] is a little more flexible since it's about consensus
+		- [[TODO]] Write a [[Tweet]] about why [[Forecasts]] are good sources
+		-
+-
