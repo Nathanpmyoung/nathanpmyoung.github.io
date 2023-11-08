@@ -12,7 +12,9 @@
 		- [[Odds and Ends]]
 		-
 - You can find me on
-	- Twitter - [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)
+  id:: 64b8134e-4368-458f-86c3-556d791edc99
+	- nathan[@]frostwork.io
+	- [[Twitter]] - [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)
 	- Say hi in this [WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/Lr2cFoiYYnHAO8JR3jNFHL&sa=D&source=editors&ust=1689718329577971&usg=AOvVaw12NVmgFsKP23VUS1vlVUGh) group
 	- Reply to something I’ve [tweeted](https://www.google.com/url?q=https://twitter.com/NathanpmYoung&sa=D&source=editors&ust=1689718329578428&usg=AOvVaw0YCWqOK1UfNqV443zkcmQq), or DM me
 	- [Substack](https://www.google.com/url?q=https://nathanpmyoung.substack.com/&sa=D&source=editors&ust=1689718329578859&usg=AOvVaw1nTUher5aR39DGaFEVyyOs)
