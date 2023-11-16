@@ -1,0 +1,5 @@
+- [[Energy]]
+- Perhaps damages the pricing of the rest of the grid?
+	- Why can't one just buy batteries?
+- They are much worse than they are made out to be [[Blog]]
+-
