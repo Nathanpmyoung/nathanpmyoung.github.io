@@ -1,0 +1,3 @@
+- Still seems likely he'll be the nominee (90%)
+- How does information spread across the Democratic party?
+-
