@@ -1,0 +1,5 @@
+- [[Blog]]
+- Doing the best thing let's me feel like a superhero. Because my impact might be so outsised, my decisions really matter - how I spend my time, what I give my resources to. And so it's easy, as a result to justify anything else.
+- But what do I spend time doing? I work for a gambling company and build forecasting software, something I've always been interested in. It's not that these things are necessarily bad, but on priors we should be surprised if they are the *_best_* thing I can do.
+- In exchange for this, I get to feel good about myself and process everyone else's reality through my ideas. There is a certain arrogance to this. How unambiguous is it that I have really improved things? Do I really express that uncertainty?
+- I am slightly doing myself the dirty here. [[Émile Torres]] and I raised $300k for [[GiveDirectly]] (hopefully this wasn't destined for GiveWell) and that is some actual real world results.
