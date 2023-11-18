@@ -1,0 +1,5 @@
+- The Alexander Cube - *Inspired by [[Scott Alexander]] created by [[Gustavo Lacerda]] *
+	- ![image.png](../assets/image_1700234286250_0.png)
+	- https://www.astralcodexten.com/p/the-passage-of-polymarket
+	-
+-

@@ -1,4 +1,4 @@
-- [[The Bible]] [[Job]]
+- [[The Bible]] [[Job]] - *I have changed the translation for poetic license*
 	- Then the Lord answered Job out of the whirlwind:
 	- “Who is this that darkens my counsel
 	    with words without knowledge?
@@ -14,7 +14,7 @@
 	  while the morning stars sang together
 	    and all the angels shouted for joy?
 - [[Eleizer Yudkowsky]] - https://www.lesswrong.com/posts/uXn3LyA8eNqpvdoZw/preface
-	- Despite my mistake, I am happy to say that my readership has so far been amazingly good about *not* using my rhetoric as an excuse to bully or belittle others. (I want to single out Scott Alexander in particular here, who is a nicer person than I am and an increasingly amazing writer on these topics, and may deserve part of the credit for making the culture of *Less Wrong* a healthy one.)
+	- Despite my mistake, I am happy to say that my readership has so far been amazingly good about *not* using my rhetoric as an excuse to bully or belittle others. (I want to single ou[[t Scott Alexander]] in particular here, who is a nicer person than I am and an increasingly amazing writer on these topics, and may deserve part of the credit for making the culture of *Less Wrong* a healthy one.)
 - [[Doom Twitter account]] - {{twitter https://twitter.com/DOOM/status/1187480003635744768}}
 	- you control the buttons you press
 - [[Thomas Moore]] [[Martin Luther]]
@@ -26,3 +26,7 @@
 	- median Christians cannibals
 - [[Edgar Allen Poe]]
 	- "Secretly I am rooting for the organgutan"
+- [[Worth The Candle]]
+	- ![IMG_7659.jpeg](../assets/IMG_7659_1700233577177_0.jpeg){:height 267, :width 504}
+-
+-
