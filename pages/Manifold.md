@@ -1,1 +1,1 @@
-- In terms of incentives, manifold pay a lot of
+- In terms of incentives, manifold pay almost their entire "willingness to pay" for new signups in the signup bonus ($2.50). It's in their fake currency, but they hope that one day it will be real money. I guess that's a double incentive to their users.

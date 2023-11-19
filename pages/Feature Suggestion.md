@@ -1,4 +1,6 @@
 - [[Logseq]] [[Feature Suggestion]] s - often things I'd like on this site
+	- AI Autocomplete
+	- Speech to text where I get two cursors, a speech one and an editing one, so that new worse always go at the end, and typing goes wherever I'm typing.
 	-
 	- {{query (and [[Logseq]] [[Feature Suggestion]])[[Logseq]]}}
 - [[LessWrong]]
