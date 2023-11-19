@@ -1,0 +1,10 @@
+- Good examples
+	-
+- Possible examples
+	- [[Eleizer Yudkowsky]]'s letter
+	- When [[Labour]] betrayed the [[Lib Dem]]s by not implementing [[Proportional Representation]]
+- Counter examples
+	- Things where this turned out fine
+	-
+	-
+	-
