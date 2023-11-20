@@ -1,0 +1,2 @@
+- [[Blog]]
+- People having actual agency, acting in the world is strange and at times upsetting
