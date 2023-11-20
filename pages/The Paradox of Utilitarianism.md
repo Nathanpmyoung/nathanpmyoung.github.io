@@ -1,5 +1,6 @@
 - [[Blog]]
+- Utilitarians seem more scrupulous in some ways than one would expect.
 - Cases
-	- [[Elon Musk]]
-	- [[Veganism]]
+	- [[Elon Musk]] - one might expect utilitarians to be unusually forgiving of Musk, given his large benefits
+	- [[Veganism]] - one might expect offsetting from utilitarians rather than the veganism we often see
 -
