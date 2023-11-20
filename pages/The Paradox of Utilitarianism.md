@@ -1,0 +1,4 @@
+- [[Blog]]
+- Cases
+	- [[Elon Musk]]
+	- [[Veganism]]
