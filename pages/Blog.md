@@ -16,6 +16,6 @@ alias:: Blogs
 	- How valuable networking
 	- Things that save me time
 	- [[It's so over]]
-	-
+	- [[The Plan]]
 -
 	-

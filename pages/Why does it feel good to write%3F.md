@@ -1,4 +1,3 @@
 - [[blog]]
 - Affirmation if people agree
 - Feedback if they disagree
--

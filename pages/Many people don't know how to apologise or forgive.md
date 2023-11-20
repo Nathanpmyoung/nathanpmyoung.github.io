@@ -1,4 +1,4 @@
-- [[Forgiveness]]
+- [[Forgiveness]] [[Blog]]
 - I end up saying sorry a lot. And some of this is because I make a lot of errors. But also I think it's because I see a fundamental importance in acknowledging I am wrong, regardless if anyone else does.
 - Likewise I don't think a lot of people know how to forgive. They don't know how to wipe the slate clean and don't understand why they would want to. Over time, I find these people tiresome and I think they cost organisations they are part of a lot.
 - First, let's talk about what sorry is not

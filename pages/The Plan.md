@@ -1,0 +1,5 @@
+- Build models of the world
+- Attach them to data sources
+- Make accurate predictions
+- Understand mechanisms
+- Improve things
