@@ -1,2 +1,3 @@
-- [[Blog]]
-- People having actual agency, acting in the world is strange and at times upsetting
+- [[Blog]] [[OpenAI]]
+- People having actual agency, acting in the world is strange and at times upsetting. It doesn't proceed like you would expect. People make strange choices, perhaps ones that look evil or self motivated. It's not so easy to weave a narrative around them.
+- I don't know if this is what people want when they ask for agency or truth. Because people also sometimes want drama they want heels they want keyfabe. But they want that drama to ultimately be explicable within narrative within clearly predefined archetypal people. An agency is always like that.

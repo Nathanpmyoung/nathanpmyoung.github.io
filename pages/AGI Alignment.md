@@ -1,4 +1,4 @@
-- [[Open AI]]
+- [[OpenAI]]
 	- Build a better AI researcher
 	- Does the AI love humanity?
 	- Requests
