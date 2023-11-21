@@ -17,5 +17,6 @@ alias:: Blogs
 	- Things that save me time
 	- [[It's so over]]
 	- [[The Plan]]
--
-	-
+	- Voxel air rights
+	- Some alternate OpenAI governance models
+		-
