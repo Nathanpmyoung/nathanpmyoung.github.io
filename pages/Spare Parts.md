@@ -1,0 +1,2 @@
+- *A thought I come back to time and again is this*
+- *In the AI/Em world, why will people need*
