@@ -19,7 +19,5 @@ alias:: Blogs
 	- [[The Plan]]
 	- Voxel air rights
 	- Some alternate OpenAI governance models
-		-
-		-
-		-
-		-
+	- Affordancees
+	- SAAS
