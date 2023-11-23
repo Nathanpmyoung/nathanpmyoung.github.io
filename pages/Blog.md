@@ -20,3 +20,4 @@ alias:: Blogs
 	- Voxel air rights
 	- Some alternate OpenAI governance models
 		-
+		-
