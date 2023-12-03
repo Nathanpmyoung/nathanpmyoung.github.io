@@ -1,0 +1,2 @@
+- [[Blog]]
+- I think about [[Heaven]] a lot.
