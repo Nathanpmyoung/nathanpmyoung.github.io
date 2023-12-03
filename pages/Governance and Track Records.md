@@ -1,0 +1,3 @@
+- [[Blog]]
+- Democracy is mediocre at rewarding good governance and pretty good at stopping bad governance. People who govern well don't seem to be promoted or elected in the first place.
+- Governenace requres picking good

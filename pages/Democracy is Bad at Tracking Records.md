@@ -1,2 +1,0 @@
-- [[Blog]]
-- Democracy is bad at rewarding good governance. Didn't
