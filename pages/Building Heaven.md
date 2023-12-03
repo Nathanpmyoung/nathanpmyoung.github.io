@@ -1,2 +1,6 @@
 - [[Blog]]
-- I think about [[Heaven]] a lot. I like to think about what I'm aiming for. On a personal level, that's a certain vision of the future, certain projects, a life alongside certain people
+- I think about [[Heaven]] a lot. I like to think about what I'm aiming for. On a personal level, that's a certain vision of the future, certain projects, a life alongside certain people. And on societal level for me, that's heaven.
+- Heaven is definitionally an eternal best possible place. And for me, it has to be realist too. So what is heaven like?
+- Stable growth
+- Dealing with poverty
+-
