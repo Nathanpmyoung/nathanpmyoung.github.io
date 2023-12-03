@@ -1,3 +1,5 @@
 - [[Raiders of the Lost Ark]]
-	- ![image.png](../assets/image_1700926190637_0.png)
+	- ![image.png](../assets/image_1700926190637_0.png){:height 386, :width 748}
 -
+- Tolkien Shrugged
+	- https://x.com/DylanoA4/status/1728911383113383964?s=20

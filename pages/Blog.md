@@ -21,3 +21,4 @@ alias:: Blogs
 	- Some alternate OpenAI governance models
 	- Affordancees
 	- SAAS
+	- Prediction Markets Tell Us What We Already Know (and That's Enough)
