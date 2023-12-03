@@ -3,4 +3,4 @@
 - Heaven is definitionally an eternal best possible place. And for me, it has to be realist too. So what is heaven like?
 - Stable growth
 - Dealing with poverty
--
+- Dealing with
