@@ -1,0 +1,3 @@
+- [[blog]]
+- How do we make communties that can coordinate
+-
