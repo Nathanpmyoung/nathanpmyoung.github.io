@@ -21,6 +21,7 @@
 - Growing vs Good. If change is unpredictable, it might be bad. [[When I left Christianity]], how could I know that my life after was going to be good. Likewise how can we know we are getting better futures without some chance that we get worse ones. I guess it's about equilibria - changes that are pretty stable unless everyone is very confident, but still.
 - Finally then some critiques of common *pretty good* heavens and some discussions of some *disconcertingly plausible* midtopias
 - The Culture. The culture is a universe where AI minds run the pan-human milieu. It is transhuman Communism with a edgey.. edge. But there is a clear issue. Why wouldn't you become a mind? This essay covers it in more detail, but yeah, why as a human wouldn't you become a ship-mind (AI) capable of actually engaging with the big problems of the universe. And ships also goof around and have bodies sometimes too. I mean, why be human when minor-godhood is on offer.
-- CS Lewis. Frankly I think CS Lewis's heavens, which I generally enjoy (eg )
+- CS Lewis. Frankly I think CS Lewis's heavens, which I generally enjoy (eg [[The Great Divorce]]) suffer a pretty similar problem. I don't believe God is real and I am not sure I would trust a being a random arbitrarily powerful being. If God existed, I'd want to be him, or perhaps be so utterly outmatched that I had no choice (which is kind of an interesting theology now that I think about it). Suffice it to say I don't think that's the world we are in, so while I want an every increasing mountain of joy and discovery for all beings, I don't know who is going to create and maintain it.
+- UNSONG. Scott Alexander's masterpiece has a pretty good ending for all conscious beings, but I don't t
 -
 -
