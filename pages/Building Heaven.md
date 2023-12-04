@@ -20,6 +20,7 @@
 - Growing vs Stable. How do you have stable growth? If the future can change then can't their be winners and losers? Can't there be those who want to see the future be more Randian and less luxury space communism? I hope that we end up good enough at coordinating that those who create lots of value are often passing it back to mega-foundations with the good of beings at their centre. But this doesn't seem axiomatic.
 - Growing vs Good. If change is unpredictable, it might be bad. [[When I left Christianity]], how could I know that my life after was going to be good. Likewise how can we know we are getting better futures without some chance that we get worse ones. I guess it's about equilibria - changes that are pretty stable unless everyone is very confident, but still.
 - Finally then some critiques of common *pretty good* heavens and some discussions of some *disconcertingly plausible* midtopias
-- The Culture. The culture is a universe w
+- The Culture. The culture is a universe where AI minds run the pan-human milieu. It is transhuman Communism with a edgey.. edge. But there is a clear issue. Why wouldn't you become a mind? This essay covers it in more detail, but yeah, why as a human wouldn't you become a ship-mind (AI) capable of actually engaging with the big problems of the universe. And ships also goof around and have bodies sometimes too. I mean, why be human when minor-godhood is on offer.
+- CS Lewis. Frankly I think CS Lewis's heavens, which I generally enjoy (eg )
 -
 -
