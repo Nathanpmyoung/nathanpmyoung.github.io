@@ -2,4 +2,4 @@
 - I guess this is because they are owned by their employees.
 - To what extent does this suggest more room for [[Berkshire Hathaway]]-esque megacorps whose aim is to make companies run really well, rather than squeeze profit?
 	- Does [[Berkshire Hathaway]] do this well?
-	- Is
+	- Is [[Valve]] run well?

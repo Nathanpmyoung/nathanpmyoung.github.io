@@ -1,11 +1,14 @@
 - [[Blog]]
 - I often think about who I want to be. I want to make the world better. I want to live with someone I love. I want a community of friends around me. Dreaming about this helps me figure out the steps to get there.
-- On a larger scale, I think about heaven.
-- But often I then find flaws with heaven.
-- Where does society seek to end up? I don't mean literal heaven, but
-- Heaven is definitionally an eternal best possible place. And for me, it has to be realist too. So what is heaven like?
+- On a larger scale, I think about heaven. Where should society end up? What is the picture we are aiming towards? Is it white clouds and eternal joy? Is it a near infinite amount of happy shrimp? What do we want?
+- The good future should be:
 - Universal
+	- I think it's not the good future unless it's for everyone. I'm not saying it's equally good. But there is some baseline notion good that everyone has. If they don't, I'm not sure I want to be in this future, and if I'm alive and don't want to be in it (or have struggled and died to stop it) it doesn't sound like the good future
+	- I can imagine that the good future is bad on expectation for some, but I hope it is in a way I'd endorse if I were them and I'm pretty wary regardless.
 - Stable
-- How many
+	- The good future has to not involve conflict over the future's future. If it does, then at the back of many minds will be the fear that actually heaven is about to come to an end. At that point you want to turn off your heavenly hot tub and start some zero sum games. This, also, does not sound like heaven.
+- Good
+	- I sort of haven't included this as part of the other two, so lets be clear. The good future is *really good*. Whether you are a bug or a human or a AI running on the energy output of an entire sun, it's good for you. You sense it's going pretty well. You are glad to be alive. There isn't confusing badness.
+	- I note that I am avoiding exactly how good and how this trades against universality. We'll sort of get to that.
 -
 -
