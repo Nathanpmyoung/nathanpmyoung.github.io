@@ -1,3 +1,4 @@
 - [[blog]]
-- How do we make communties that can coordinate
-- served
+- How do we make communties that can coordinate across time
+- Coordinating well allows trust.
+-
