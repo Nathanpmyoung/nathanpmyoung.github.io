@@ -16,6 +16,10 @@
 - Conflicts
 - There are, I think some issues with the things I've laid out.
 - Good vs Universal. What if it's really good for a few but bad for many? What about beings who might exist? This is well trodden ground, I lean slightly in favour of more beings, even if average happiness is lower (as anyone who has come to one of my parties knows), but I could be persuaded. I am pretty wary of thinking I know better than others, especially others who are less powerful (as the non-yet-alive often are).
-- I am also pretty in favour of consent and property rights. The [[Repugnant Conclusion]] can be a great end state whilst also not being a path we can get to - maybe those who are currently alive don't want to give up their resources for new beings. And maybe the governance process doesn't force them to
+- I am also pretty in favour of consent and property rights. The [[Repugnant Conclusion]] can be a great end state whilst also not being a path we can get to - maybe those who are currently alive don't want to give up their resources for new beings. And maybe the governance process doesn't force them to. Who am I to disagree? Sometimes forcing good outcomes can be worse than merely mediocre ones.
+- Growing vs Stable. How do you have stable growth? If the future can change then can't their be winners and losers? Can't there be those who want to see the future be more Randian and less luxury space communism? I hope that we end up good enough at coordinating that those who create lots of value are often passing it back to mega-foundations with the good of beings at their centre. But this doesn't seem axiomatic.
+- Growing vs Good. If change is unpredictable, it might be bad. [[When I left Christianity]], how could I know that my life after was going to be good. Likewise how can we know we are getting better futures without some chance that we get worse ones. I guess it's about equilibria - changes that are pretty stable unless everyone is very confident, but still.
+- Finally then some critiques of common *pretty good* heavens and some discussions of some *disconcertingly plausible* midtopias
+- The Culture. The culture is a universe w
 -
 -
