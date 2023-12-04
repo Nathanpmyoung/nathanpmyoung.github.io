@@ -3,4 +3,5 @@
 - The median world.
 - At the end of 2024 we will primarily feel either relaxation or shock, largely based on the 2024 Presidential Election. Probably either Biden or Trump will have won. Perhaps by the end of 2025 these futures will look more similar, but, since it was very close fought at the end of 2024, there is going to be a grieving on one side or the other.
 - The good world
+- *Mostly I'm doing this to try and be good at prediction, but I think there is a community lobbying angle also. If we see how close some good worlds are to this one, then I think we could push for those worlds rather than the one I think we'll end up in.*
 -
