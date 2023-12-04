@@ -1,5 +1,6 @@
 - [[Blog]]
-- I think about [[Heaven]] a lot. I like to think about what I'm aiming for. On a personal level, that's a certain vision of the future, certain projects, a life alongside certain people. And on societal level for me, that's heaven.
+- I often think about who I want to be. I want to make the world better. I want to live with someone I love. I want a community of friends around me. Dreaming about this helps me
+- But often I then find flaws with heaven.
 - Where does society seek to end up? I don't mean literal heaven, but
 - Heaven is definitionally an eternal best possible place. And for me, it has to be realist too. So what is heaven like?
 - Universal
