@@ -3,12 +3,19 @@
 - On a larger scale, I think about heaven. Where should society end up? What is the picture we are aiming towards? Is it white clouds and eternal joy? Is it a near infinite amount of happy shrimp? What do we want?
 - The good future should be:
 - Universal
-	- I think it's not the good future unless it's for everyone. I'm not saying it's equally good. But there is some baseline notion good that everyone has. If they don't, I'm not sure I want to be in this future, and if I'm alive and don't want to be in it (or have struggled and died to stop it) it doesn't sound like the good future
-	- I can imagine that the good future is bad on expectation for some, but I hope it is in a way I'd endorse if I were them and I'm pretty wary regardless.
+	- I think it's not the good future unless it's for everyone. I'm not saying it's equally good. But the way it's good has a baseline for everyone. If they don't, I'm not sure I want to be in this future, and if I'm alive and don't want to be in it (or have struggled and died to stop it) it doesn't sound like the good future
+	- I can imagine that the good future is briefly bad for some, but I hope it is in a way I'd endorse if I were them and I'm pretty wary regardless.
 - Stable
 	- The good future has to not involve conflict over the future's future. If it does, then at the back of many minds will be the fear that actually heaven is about to come to an end. At that point you want to turn off your heavenly hot tub and start some zero sum games. This, also, does not sound like heaven.
 - Good
 	- I sort of haven't included this as part of the other two, so lets be clear. The good future is *really good*. Whether you are a bug or a human or a AI running on the energy output of an entire sun, it's good for you. You sense it's going pretty well. You are glad to be alive. There isn't confusing badness.
 	- I note that I am avoiding exactly how good and how this trades against universality. We'll sort of get to that.
+- Growing
+	- My personal heaven involves growth. It involves becoming more, understanding more. Enlightenment too cheap to meter. I'm not against [[wire-heading]] per se, but I don't get why I'd want to while there are so many systems to understand and people to chat to.
+	- I think I'd be pretty wary of a future where we get somewhere and stop.
+- Conflicts
+- There are, I think some issues with the things I've laid out.
+- Good vs Universal. What if it's really good for a few but bad for many? What about beings who might exist? This is well trodden ground, I lean slightly in favour of more beings, even if average happiness is lower (as anyone who has come to one of my parties knows), but I could be persuaded. I am pretty wary of thinking I know better than others, especially others who are less powerful (as the non-yet-alive often are).
+- I am also pretty in favour of consent and property rights. The [[Repugnant Conclusion]] can be a great end state whilst also not being a path we can get to - maybe those who are currently alive don't want to give up their resources for new beings. And maybe the governance process doesn't force them to
 -
 -
