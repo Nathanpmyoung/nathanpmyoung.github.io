@@ -1,0 +1,3 @@
+- [[Blog]]
+- If you are struggling for money you should ask half of your best staff to go and earn to give
+-
