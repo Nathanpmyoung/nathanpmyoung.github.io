@@ -1,9 +1,9 @@
-- [[Blog]] [[Effective Altruist]]
+- [[Blog]] [[Effective Altruism]]
 - *Content warning, hard advice*
 - Do you think your charity is literally the best thing you could be doing?
 - Do you and your staff have a reasonable quality of life?
 - Yes yes - great
-- Yes no - why not? Have you tried applying for [[Effective Altruist]] money?
+- Yes no - why not? Have you tried applying for [[Effective Altruism]] money?
 - No yes - also great
 - No no - you yourself acknowledge that this isn't the best thing you could be doing. That's not a dig, just an acknowledgement of the situation. And since you weren't doing the most important thing before, you doing less of the thing you are doing is pretty similar to that.
 - If a business can't afford to pay their staff, we think it's okay if that business goes bankrupt. Why isn't this true for charities too? If you can't pay your self and you staff, and you can't convince someone else to, maybe that's a sign.

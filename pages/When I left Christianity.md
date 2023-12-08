@@ -1,0 +1,2 @@
+- aliases: Why I left Christianity
+- [[blog]]

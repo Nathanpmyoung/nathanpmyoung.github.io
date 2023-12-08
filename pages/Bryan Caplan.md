@@ -1,0 +1,4 @@
+- Good takes
+	- Higher education is mainly signalling
+	- Voters largely act within their own interests
+		- They understand that they are unlikely to accrew the benefits of spending a lot of time thinking about issues, given how unlikely they are to affect the outcome. When they are asked in a way that
