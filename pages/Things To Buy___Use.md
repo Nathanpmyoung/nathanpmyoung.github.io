@@ -1,0 +1,16 @@
+- [[Blog]]
+- Confident
+	- You can probably earn more money than you currently do by asking your cleverest friends and doing what they say
+	- Always think about the price you'll offer before you're asked, never give a price without thinking about it
+		- "What salary are you thinking about?"
+		- "What are you thinking of offering me?"
+	- [[Asana]]
+	- [[Squeaky Bean]] [[vegan]]
+	- That vegan ham
+	- Sleep mask
+	- Fan heaters
+	- [[Huel]]/[[Yfood]]
+	- Cook.net
+-
+- Less confident
+	- Run at 70% capactiy [[queueing theory]]
