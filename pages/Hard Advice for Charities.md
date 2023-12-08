@@ -2,8 +2,9 @@
 - *Content warning, hard advice*
 - Do you think your charity is literally the best thing you could be doing?
 - Do you and your staff have a reasonable quality of life?
-- Yes yes, great
-- Yes no, why not? Have you tried applying for [[Effective Altruist]] money?
-- No yes, also great.
-- If you are struggling for money you should ask half of your best staff to go and earn to give
--
+- Yes yes - great
+- Yes no - why not? Have you tried applying for [[Effective Altruist]] money?
+- No yes - also great
+- No no - you yourself acknowledge that this isn't the best thing you could be doing. That's not a dig, just an acknowledgement of the situation. And since you weren't doing the most important thing before, you doing less of the thing you are doing is pretty similar to that.
+- Have you considered letting some staff go, perhaps asking your best staff to work elsewhere and earn money for the charity.
+- If a business can't afford to pay their staff, we think it's okay if that business goes bankrupt. Why isn't this true for charities too? If
