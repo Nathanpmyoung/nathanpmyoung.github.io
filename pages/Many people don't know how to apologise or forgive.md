@@ -1,5 +1,10 @@
 - [[Forgiveness]] [[Blog]]
 - I end up saying sorry a lot. And some of this is because I make a lot of errors. But also I think it's because I see a fundamental importance in acknowledging I am wrong, regardless if anyone else does.
+- I am willing to go up to someone who I think has wronged me much more than I have wronged them and acknowledge how I have messed up. Because apologies aren't about them, they are about me - they give me good incentives to become a better person. If I know I will apologise then maybe just maybe I might decide not to do thing in the first place.
+- A lot of people do not know how to apologise. A lot of "nice" people I know, have never apologised to me for their poor treatment of me. And it wouldn't surprise me that much if they'd never apologised to anyone outside of their friends.
+- It's pretty surreal when you start to notice it. Like I live alongside these people, we both make mistakes, and I'll say "I'm sorry, I got that wrong"... and then nothing. It's a pretty startling degree of self-righteousness. On a couple of occasions, I've pointed this out - that I am the one acknowledging errors. The response was approximately "yes, you are the only one getting things wrong".
+- Now maybe this is true, but I don't think so. I have discussed much of my life with other friends and my therapist. In general the response is that I'm too hard on myself, that yes, I get things wrong, but so do others. And yet, there is a class of person who thinks I'm the only one in the wrong.
+-
 - Likewise I don't think a lot of people know how to forgive. They don't know how to wipe the slate clean and don't understand why they would want to. Over time, I find these people tiresome and I think they cost organisations they are part of a lot.
 - First, let's talk about what sorry is not
 	- Sorry does not mean that you are the only one who did wrong.

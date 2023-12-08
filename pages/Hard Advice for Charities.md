@@ -6,5 +6,6 @@
 - Yes no - why not? Have you tried applying for [[Effective Altruist]] money?
 - No yes - also great
 - No no - you yourself acknowledge that this isn't the best thing you could be doing. That's not a dig, just an acknowledgement of the situation. And since you weren't doing the most important thing before, you doing less of the thing you are doing is pretty similar to that.
-- Have you considered letting some staff go, perhaps asking your best staff to work elsewhere and earn money for the charity.
-- If a business can't afford to pay their staff, we think it's okay if that business goes bankrupt. Why isn't this true for charities too? If
+- If a business can't afford to pay their staff, we think it's okay if that business goes bankrupt. Why isn't this true for charities too? If you can't pay your self and you staff, and you can't convince someone else to, maybe that's a sign.
+- And sure, if you don't help perhaps noone will. But that was already true.
+- But I have to solve this problem. Okay find your best employee and ask them if they would work somewhere high paying and donate the difference. Or fire some other employees. If you aren't willing to at least consider these options is it really about helping? Or is it about maintaining your org?
