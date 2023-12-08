@@ -1,0 +1,9 @@
+- [[Blog]] [[Effective Altruist]]
+- *Content warning, hard advice*
+- Do you think your charity is literally the best thing you could be doing?
+- Do you and your staff have a reasonable quality of life?
+- Yes yes, great
+- Yes no, why not? Have you tried applying for [[Effective Altruist]] money?
+- No yes, also great.
+- If you are struggling for money you should ask half of your best staff to go and earn to give
+-
