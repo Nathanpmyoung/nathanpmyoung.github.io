@@ -1,0 +1,4 @@
+- There is disharmony within individuals. This causes problems.
+- Like a CEO fixing bottlenecks, it's often good to tease out the conflicts within oneself.
+	- This might be wrong, it might be good to just do things.
+- Communities are the same, it is beneficial for them to solve internal problems and be aligned

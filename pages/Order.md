@@ -1,0 +1,10 @@
+- Do I need the loo?
+- Am I hungry?
+- Is my room in order?
+- Is my house in order?
+- Do I have food for the next week?
+- Do I have money for the next 6 months?
+- Do I have work for the next 3 months?
+- Have I had contact with my close friends?
+- Have I had sex recently?
+- Is my life making the world better?
