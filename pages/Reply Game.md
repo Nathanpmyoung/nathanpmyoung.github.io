@@ -7,5 +7,5 @@ alias:: Reply
 	- Adding information
 - Some things this is not
 	- Being a yes man
-	-
-	-
+	- Using people as means, not ends - I befriend and unbefriend people on whether i like them and try not to think too much about usefulness. I do a bit, sure, but I find that forcing a friendship as a means to get something rarely works and feels two faced. If you spot someone doing this, [[Red Flag]] !
+-
