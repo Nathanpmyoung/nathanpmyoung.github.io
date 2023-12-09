@@ -1,5 +1,5 @@
 - [[Future Worlds]]
-- *This was written at the end of 2023, to guess the world at the end of 2024. Forecasts are okay at this, but you don't get penalised for getting the vibe wrong. In storytelling I can get all the facts right but it is clearer if somehow I am wrong. To me the two go hand in hand. I don't really think this is going to be good, but it's something I'd like to get in the habit of doing.*
+- *This was written at the end of 2023, to guess the world at the end of 2024. This is a set of forecasts, but it also a weak forecast on prioritisation. ie If I get all the facts right, but miss that aliens arrive, many forecasts would still give me a perfect score unless there was a question on aliens. This *
 - The median world.
 - At the end of 2024 we will primarily feel either relaxation or shock, largely based on the 2024 Presidential Election. Probably either Biden or Trump will have won. Perhaps by the end of 2025 these futures will look more similar, but, since it was very close fought at the end of 2024, there is going to be a grieving on one side or the other.
 - The good world

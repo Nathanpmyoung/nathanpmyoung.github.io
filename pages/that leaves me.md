@@ -1,0 +1,3 @@
+- [[Feelings]]
+- I generally don't like saying that things "make me feel" a certain way. My feelings are my responsibility. Things leave me feeling a certain way and that may be bad behaviour on their part, but they didn't make me feel that way. I can, with effort, often choose not to feel the way I was feeling.
+- People do not have the power to make me feel sad. If they hurt me, I can feel sad and then stop doing so. They have already hurt, me, why should I hurt myself as well?

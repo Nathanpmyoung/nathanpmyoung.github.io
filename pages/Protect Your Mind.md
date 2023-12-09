@@ -1,0 +1,3 @@
+- [[blog]]
+- I try to avoid content [[that leaves me]] sad and worse at thinking
+-
