@@ -1,0 +1,4 @@
+- I write down the tasks I need to do each day
+- Tasks should be clear and completable
+	- Often, if they aren't I can toil away for hours because really my goal is perfection
+-
