@@ -14,7 +14,7 @@
 - Pay top decision-makers more
 	- [[MP]]s
 	- Give [[MP]]s more staff
-	- Top [[Civil Servant]]s
+	- Top [[Civil Servants]]
 - NGDP futures
 - Experimentation
 -
