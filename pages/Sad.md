@@ -1,0 +1,3 @@
+- I have depressive moods, there is some depression in my family. I don't consider myself to have depression, though tests usually find I have moderate depression. *Brutal*
+- For me, sadness is a resistance in all I do. Not wanting to get up, not wanting to see people.
+- Often I need to check whether I am [[Hungry]] or [[Underslept]] (see [[Order]])
