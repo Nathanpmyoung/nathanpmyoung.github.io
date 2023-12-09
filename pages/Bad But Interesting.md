@@ -1,0 +1,4 @@
+- [[Blog]]
+- [[First Past The Post]] is good because it allows most people to not think about politics. Swing seats/states mean that a specific group know they have more power and so can research.
+	- What if people pledged to vote how someone else told them to.
+-
