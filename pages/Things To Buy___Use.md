@@ -1,6 +1,7 @@
 - [[Blog]]
 - Confident
 	- You can probably earn more money than you currently do by asking your cleverest friends and doing what they say
+	-
 	- Always think about the price you'll offer before you're asked, never give a price without thinking about it
 		- "What salary are you thinking about?"
 		- "What are you thinking of offering me?"
