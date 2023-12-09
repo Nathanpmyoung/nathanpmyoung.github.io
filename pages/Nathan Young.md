@@ -16,7 +16,7 @@
 	- nathan[@]frostwork.io
 	- [[Twitter]] - [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)
 	- Say hi in this [WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/Lr2cFoiYYnHAO8JR3jNFHL&sa=D&source=editors&ust=1689718329577971&usg=AOvVaw12NVmgFsKP23VUS1vlVUGh) group
-	- Reply to something I’ve [tweeted](https://www.google.com/url?q=https://twitter.com/NathanpmYoung&sa=D&source=editors&ust=1689718329578428&usg=AOvVaw0YCWqOK1UfNqV443zkcmQq), or DM me
+	- [[Reply]] to something I’ve [tweeted](https://www.google.com/url?q=https://twitter.com/NathanpmYoung&sa=D&source=editors&ust=1689718329578428&usg=AOvVaw0YCWqOK1UfNqV443zkcmQq), or DM me
 	- [Substack](https://www.google.com/url?q=https://nathanpmyoung.substack.com/&sa=D&source=editors&ust=1689718329578859&usg=AOvVaw1nTUher5aR39DGaFEVyyOs)
 	- [Parody rap](https://www.google.com/url?q=https://www.youtube.com/user/deltaTtv&sa=D&source=editors&ust=1689718329579255&usg=AOvVaw0QDIei16jecJdhRkXm2USe)
 - ![image.png](../assets/image_1689785034652_0.png)
