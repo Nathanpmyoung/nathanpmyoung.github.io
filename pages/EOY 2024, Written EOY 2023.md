@@ -1,3 +1,5 @@
+public:: true
+
 - [[Future Worlds]]
 - *This was written at the end of 2023, to guess the world at the end of 2024. This is a set of forecasts, but it also a weak forecast on prioritisation. ie If I get all the facts right, but miss that aliens arrive, many forecasts would still give me a perfect score unless there was a question on aliens. This story would penalise me, however*
 - # The median 2024
