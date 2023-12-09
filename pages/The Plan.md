@@ -1,4 +1,5 @@
-- Build models of the world
+- Rapidly build models of the world
+	- eg in [[Estimaker]]. How does A relate to B? What are the things that matter?
 - Attach them to data sources
 - Make accurate predictions
 - Understand mechanisms

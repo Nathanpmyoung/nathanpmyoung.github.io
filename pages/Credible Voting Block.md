@@ -1,0 +1,6 @@
+- [[Blog]]
+- There are a group of people who want to show that they can push their votes a certain direction. If people accede to their demands, they'll vote for such a person.
+- How do they do this?
+- How do they avoid their votes being worth nothing when one candidate is only slightly better than another
+- Have some conditions on which you'll vote for one candidate, some conditions on which you'll vote for the other and some under which you'll vote at random as a whole block.
+- What does credible commitment look like?
