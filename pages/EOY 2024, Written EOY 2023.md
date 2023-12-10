@@ -11,6 +11,7 @@ public:: true
 - Many little wars or not
 - Genomics
 - At the end of 2024 we will primarily feel either relaxation or shock, largely based on the 2024 Presidential Election. Probably either Biden or Trump will have won [^1] [^2]. Perhaps by the end of 2025 these futures will look more similar, but, since it was very close fought at the end of 2024, there is going to be a grieving on one side or the other.
+	- [[metaculus]] conditional on president
 - Something about the american economy
 - Something about the chinese economy
 - # The good 2024
