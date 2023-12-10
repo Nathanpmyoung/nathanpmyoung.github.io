@@ -23,6 +23,7 @@ alias:: God is real
 	- Many discussions boiled down to "some of us presume God is real, some don't, that's just the way it is"
 		- Firstly, it determines whether [[Eternal Damnation]] is real, which seems pretty important
 		- Secondly more assumptions are worse than fewer - they require more checking. Hence there are more possible errors to make
+	- Is the correct assumption no or I don't know?
 - # What does God add?
 - It’s impossible to prove miracles don’t happen, but they are clearly exceedingly rare. I have never eaten a sandwich which turned into a frog and I guess I have eaten about 10 sandwiches a week since I was about 4 ( roughly 20 * 50 * 10= 10,000). If for the sake of argument one of my sandwiches had, that would still be a 1 in 10,000 occurrence. If one of my sandwiches wasn't where I left it, I would still assume I had misplaced it rather than the frog hypothesis. Not because it was impossible, but because it was less probable.
 - The central argument is not about the impossibility of miracles (or of God), they are possible, but clearly they are improbable, we have few accounts of them happening, even if we trust those accounts. What is the additional evidence to make us think it was a sandwich turning into a frog, rather than just my forgetfulness or otherwise?
