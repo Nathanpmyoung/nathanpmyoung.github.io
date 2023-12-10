@@ -1,7 +1,7 @@
 alias:: God is real
 
 - This is a version of the thinking I did during my [[Deconversion]]. I've updated it to be accurate to what I think now
-- # Preamble
+- # Assumptions
 	- Assumptions. *I think it's good to be honest about the things you're taking for granted*
 		- It's good to hold a position
 			- I feel deep in my bones that we should attempt to have a position on everything important. I don't know if this is very important or entirely unimportant. Some people don't even consider taking a view. I don't really know what to think about that, but it's not me
@@ -9,7 +9,7 @@ alias:: God is real
 			- My general sense that the universe has existed in parallel with my life. That there is a past
 			- If this is not the case, then any decisions I make, while they feel like they are based on experience, are not, because there is no past on which to base that experience
 			- The universe could be a momentary dream which feels consistent.
-			- I cannot think of a way to test this.
+			- I cannot think of a way to test this. [[Anthropics]]
 		- The function of logic
 			- That logic works. That A => B and B => C mean that A =>  C
 			- If this is not the case, then decisions I make, however well argued will be meaningless
@@ -17,13 +17,14 @@ alias:: God is real
 			- There is no way to argue out of this without using logic, which would not be a suitable proof in said universe
 			- Without logic there is no discussion. Worshipping God is as worshipping the letter q
 		- That suffering my suffering is bad and that my well being is good
-			- Without this, I sort of don't know where to begin
-		- That we can't just presume [[God]] is real
-			- Many discussions boiled down to "some of us presume God is real, some don't, that's just the way it is"
-				- Firstly, if [[Eternal Damnation]] depends on whether someone made an arbitrary choice that seems unjust [[Bad Argument]]
-				- Secondly more assumptions are worse than fewer - they require more checking. Hence there are more possible errors to make
+			- Without this, I sort of don't know where to begin. Unrelated here, but I don't think anyone has a [[Moral Grounding]] for goodness.
+- # We can't just presume or agree to disagree
+	- That we can't just presume [[God]] is real (or false) the universe should actually be different in each case.
+	- Many discussions boiled down to "some of us presume God is real, some don't, that's just the way it is"
+		- Firstly, it determines whether [[Eternal Damnation]] is real, which seems pretty important
+		- Secondly more assumptions are worse than fewer - they require more checking. Hence there are more possible errors to make
 - # What does God add?
-- As a quick example, it’s impossible to prove miracles don’t happen, but they are clearly exceedingly rare. I have never eaten a sandwich which turned into a frog and I guess I have eaten about 10 sandwiches a week since I was about 4 ( roughly 20 * 50 * 10= 10,000). If for the sake of argument one of my sandwiches had, that would still be a 1 in 10,000 occurrence. If one of my sandwiches wasn't where I left it, I would still assume I had misplaced it rather than the frog hypothesis. Not because it was impossible, but because it was less probable.
+- It’s impossible to prove miracles don’t happen, but they are clearly exceedingly rare. I have never eaten a sandwich which turned into a frog and I guess I have eaten about 10 sandwiches a week since I was about 4 ( roughly 20 * 50 * 10= 10,000). If for the sake of argument one of my sandwiches had, that would still be a 1 in 10,000 occurrence. If one of my sandwiches wasn't where I left it, I would still assume I had misplaced it rather than the frog hypothesis. Not because it was impossible, but because it was less probable.
 - The central argument is not about the impossibility of miracles (or of God), they are possible, but clearly they are improbable, we have few accounts of them happening, even if we trust those accounts. What is the additional evidence to make us think it was a sandwich turning into a frog, rather than just my forgetfulness or otherwise?
 - ## That other people believe
 - I surmise that most people's faith is strongly supported by many other people believing - s*omething can't be trivially wrong if many other people believe it, right?*
