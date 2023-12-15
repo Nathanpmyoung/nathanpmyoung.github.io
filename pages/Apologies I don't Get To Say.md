@@ -1,0 +1,3 @@
+- Somewhere I have a list of apologies where the other person and I don't talk. I'm not saying I am solely in the wrong, but I believe that an apology is warranted whenever there is something to apologise for. And I have made many mistakes
+- If you and I don't talk, you can ask for your apology and if I have it, I will send you that, and that alone
+-
