@@ -9,8 +9,7 @@
 		- [https://viewpoints.xyz](https://viewpoints.xyz/) -
 		- [[Viewpoints]] is a survey tool where the statements change as users use it, aiming to move from uncertain statements to those people can clearly agree or disagree on
 	- Podcasts with experts on important issues
-		- [[Odds and Ends]]
-		-
+		- [Odds and Ends](https://www.youtube.com/watch?v=K0rr7hDNWs4&list=PLAA8NhPG-VO_PnBm3EkxGYObLIMs4r2wZ)
 - You can find me on
   id:: 64b8134e-4368-458f-86c3-556d791edc99
 	- nathan[@]frostwork.io
