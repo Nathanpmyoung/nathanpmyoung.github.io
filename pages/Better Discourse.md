@@ -6,7 +6,11 @@
 	- Discourse has no checkpoints
 		- The same discussions happen week in week out. It's hard to say "no, we've already discussed that, it's not up for debate any more"
 		- How could we give discourse that we care about checkpoints/dashboards
-			-
+			- London Housing Dashboard
+			- UK immigration dashboard
+			- US policy outcomes dashboard
+			- AI dashboard
+			- On manifold? More broadly
 	- Disagreement and ambiguity are more sparky than concesus
 		- Look at the youtube shows which focus on consensus. The episode with Flat Earthers and Scientists asks questions like "the other side are ill informed" and "I am smarter than the other side" rather than "enquiry is important" "planes fly" etc
 	- Understanding the future is really hard for everyone
