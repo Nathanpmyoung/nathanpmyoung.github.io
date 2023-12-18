@@ -1,0 +1,3 @@
+- *To the person I know who will hate this*
+- [[Kelly betting]]
+-
