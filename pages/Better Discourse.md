@@ -5,7 +5,9 @@
 - How do we agree more quickly on what we agree on and so make progress on that? My theories:
 	- Discourse has no checkpoints
 		- The same discussions happen week in week out. It's hard to say "no, we've already discussed that, it's not up for debate any more"
-	- Disagreement and ambiguity are more interesting than concesus
+		- How could we give discourse that we care about checkpoints/dashboards
+			-
+	- Disagreement and ambiguity are more sparky than concesus
 		- Look at the youtube shows which focus on consensus. The episode with Flat Earthers and Scientists asks questions like "the other side are ill informed" and "I am smarter than the other side" rather than "enquiry is important" "planes fly" etc
 	- Understanding the future is really hard for everyone
 		- It's not clear that there are shortcuts to future knowledge. Political experts are worse than random. [[Expertise]] in general is bad at predicting the future. How many Discourse problems are solved mainly by waiting?
