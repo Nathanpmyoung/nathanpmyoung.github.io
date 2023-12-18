@@ -5,3 +5,6 @@
 		- I'm told that sometimes not aggressively pursuing copyright can lead to bad outcomes for the copyright holder. Seems like some unauthorised works benefit the copyright holder
 	- The original works and new media that are based on them should belong to the author for 15 - 30 years.
 	- It should be possible to edit others work and make some money for doing so. Initially I suggest some fraction of the words changed. The new work would have to clearly be denoted as different.
+- Reference
+	- https://www.slowboring.com/p/copyright-law-is-living-in-the-past
+	-
