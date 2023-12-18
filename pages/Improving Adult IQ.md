@@ -1,0 +1,4 @@
+- Notes on this article
+- Bottlenecks
+	- Datasets of genetics correlated with IQ
+	-
