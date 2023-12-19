@@ -1,4 +1,9 @@
 - I have talked to 3-5 journalists about effective altruism, manifold.love and other stuff. Here are some thoughts and tips.
 - Some journalists don't abide by some privacy norms. Are you in a group chat with a journalist? If so, would they use information that you think is private to write articles? Some would! #NotAllJournalists, yes, but it's my sense that a large chunk think "if I have heard it, I can write about it". And if I ask about this, they may act like I am the one who is asking for something weird. If I am in group chats with journalists I sometimes ask "we are off the record here, right?"
-- So can I trust *this* journalist? Journalists vary a lot. Some will write accurate pieces and treat their sources well, others won't. When I talk to a journalist, I consider it a multiplier on what I say. If I am wrong, or they use my
+- So can I trust *this* journalist? Journalists vary a lot. Some will write accurate pieces and treat their sources well, others won't. When I talk to a journalist, I consider it a multiplier on what I say. If I am wrong, or they use my quotes to make an inaccurate point, I should feel bad.
+- So when a journalist asks to speak to me:
+	- I may read some of their previous articles in my area of expertise. Are they accurate? *See below*
+	- Do friends think this person is trustworthy?
+	- Would anyone be upset if this person broke trust or misquoted me? At least in the case of the New Yorker and the Financial Times, I have heard that there would be a lot of internal blowback if I was mistreated.
+- How does, "on the record" work? Different journalists have different norms. Here is a broad set.
 -
