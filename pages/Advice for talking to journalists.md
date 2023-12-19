@@ -5,5 +5,10 @@
 	- I may read some of their previous articles in my area of expertise. Are they accurate? *See below*
 	- Do friends think this person is trustworthy?
 	- Would anyone be upset if this person broke trust or misquoted me? At least in the case of the New Yorker and the Financial Times, I have heard that there would be a lot of internal blowback if I was mistreated.
-- How does, "on the record" work? Different journalists have different norms. Here is a broad set.
--
+- How does, "on the record" work? Different journalists have different norms. But there is one thing that's most important. You both have to agree. It is not enough to say "we're off the record". If the journalist doesn't agree, then you aren't actually. And as above, you have to trust that there will be consequences for them if they break that trust. Before I talk I ensure we both understand the same thing about how this might be shared.
+- So how does "on the record" work though?
+	- explain different states
+- Talking tight vs talking loose
+- Am I confident I can do this? If not, don't
+- Accuracy vs precision
+- So why talk to journalists at all?
