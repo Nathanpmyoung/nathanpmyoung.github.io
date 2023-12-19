@@ -11,5 +11,7 @@
 	- Talk to 50 forecasters about how they do their forecasting
 		- What tools do they use
 		-
--
+- Does this actually remotely work?
+	- {{video https://www.youtube.com/shorts/3QNKdHzGPlw}}
+	-
 	-
