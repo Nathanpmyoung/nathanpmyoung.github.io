@@ -1,0 +1,4 @@
+- I have talked to a3-5 journalists about effective altruism, manifold.love and other stuff. Here are some thoughts and tips.
+- Journalists don't abide by normal rules. Are you in a group chat with a journalist? If so, would they use information that you think is private to write articles? Some would! By
+- Can you be quoted?
+-
