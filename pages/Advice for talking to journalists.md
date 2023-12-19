@@ -1,4 +1,5 @@
 - I have talked to a3-5 journalists about effective altruism, manifold.love and other stuff. Here are some thoughts and tips.
-- Journalists don't abide by normal rules. Are you in a group chat with a journalist? If so, would they use information that you think is private to write articles? Some would! By
+- Some journalists don't abide by some privacy norms. Are you in a group chat with a journalist? If so, would they use information that you think is private to write articles? Some would! #NotAllJournalists, yes, but it's my sense that a large chunk think "if I have heard it, I can write about it". And if I ask about this, they may act like I am the one who is asking for something weird. If I am in group chats with journalists I sometimes ask "we are off the record here, right?"
+- So can I trust *this* journalist? Journalists vary a lot. Some will write accurate pieces and treat their sources well, others won't. When I talk to a journalist, I
 - Can you be quoted?
 -
