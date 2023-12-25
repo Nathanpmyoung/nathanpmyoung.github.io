@@ -1,0 +1,7 @@
+- Here is an example of Alex's humour
+	- *Discussing the film, Alien*
+	- Me: It's surprising how little time the Alien is in it
+	- Dad, not deliberately: I think it's just called Alien
+	- I roll my eyes, conversation moves on.
+	- Me later, Sure, but the Alien is visible for very few scenes
+	- Alex, deliberately: It's just called Alien, no "the"
