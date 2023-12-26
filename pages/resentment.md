@@ -1,0 +1,1 @@
+- https://www.overcomingbias.com/p/resenting-the-resentful
