@@ -1,0 +1,2 @@
+- ring of rotational strength
+	-
