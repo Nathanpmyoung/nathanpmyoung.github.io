@@ -1,4 +1,0 @@
-- I don't want to have so little touch
-- [[Housing]]
-- [[Lynette]]
-- [[Glen and Laura]]
