@@ -1,0 +1,15 @@
+- Probabilities are sometimes divided into
+	- Theoretical probabilities - probabilities of idealised examples
+		- Heads on a coin
+	- Empirical probabilities - probabilities of historical records
+		- Head on this coin
+		- Getting into a car accident in the next day
+	- Subjective probabilies
+		- Getting hurt when falling off a bike
+- This seems poor
+	- Theoretical is fine. But really this just means we define the model
+	- Empirical is a red herring - the track record is only relevant under a certain model - what counts as a die, what counts as a car accident
+	- Subjective is just a vaguer type of empirical
+- How to understand bits of information
+- How to average probabilities
+-
