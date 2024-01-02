@@ -12,4 +12,5 @@
 	- Subjective is just a vaguer type of empirical
 - How to understand bits of information
 - How to average probabilities
+	- If I am at 50% and you are at 90%, what should I update to given I weight our information the same
 -
