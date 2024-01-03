@@ -1,0 +1,2 @@
+- age escape velocity {{twitter https://twitter.com/JoshuaBlake_/status/1742525880222490673}}
+-
