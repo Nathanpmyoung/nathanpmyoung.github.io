@@ -6,5 +6,6 @@
 		- How much could we fund the [[UK]] with more immigration?
 - How beneficial refugees
 - How much does "control" matter to people
+- {{twitter https://twitter.com/jonatanpallesen/status/1742586964576960944}}
 -
 -
