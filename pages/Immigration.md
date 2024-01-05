@@ -5,6 +5,7 @@
 	- Are there actually models for this?
 		- How much could we fund the [[UK]] with more immigration?
 - How beneficial refugees
+	- What different numbers do people give. I could do a prediction market on the number I'll come up with.
 - How much does "control" matter to people
 - {{twitter https://twitter.com/jonatanpallesen/status/1742586964576960944}}
 -

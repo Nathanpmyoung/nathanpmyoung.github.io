@@ -1,7 +1,7 @@
 alias:: Blogs
 
 - Possible
-	- [[Immigration]]
+	- [[immigration]]
 	- [[Forecasting]]
 	- voting systems
 	- everything is prediction
