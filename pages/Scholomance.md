@@ -1,4 +1,4 @@
-- [[Book]] [[Naomi Novik]]
+- [[book]] [[Naomi Novik]]
 - [[spoiler]]
 	- This book is so beautiful
 	- The vibe of realising they can all solve it

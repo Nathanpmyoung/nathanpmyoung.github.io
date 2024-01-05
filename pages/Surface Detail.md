@@ -1,4 +1,4 @@
-- [[Book]] [[Favourite]] [[The Culture]] [[Iain M. Banks]]
+- [[book]] [[Favourite]] [[The Culture]] [[Iain M. Banks]]
 - Themes
 	- [[Hell]] [[Goodness]]
 - [[spoiler]]

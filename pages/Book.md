@@ -1,1 +1,1 @@
-alias:: Books
+alias:: books

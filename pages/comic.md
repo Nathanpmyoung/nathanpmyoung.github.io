@@ -1,4 +1,4 @@
-- [[Funny]] [[great]]
+- [[Funny]] [[things I love]]
 	- [[Calvin and Hobbes]]
 		- [[Control Freak]] *For some reason [[Calvin - Calvin and Hobbes]]'s dad always makes me think of [[Bryan Caplan]]* ![image.png](../assets/image_1691944749442_0.png)
 	- [[Whaleocalypse]]
