@@ -3,4 +3,3 @@
 - Christians sometimes believe that the only people who can be responsible for a problem our agents I guess in many ways this makes Christianity a pretty identical religion right if sin has to be somebody's fault then you just gotta figure out which person's fault it is and then that person has to change more than it seems to be more than other religions Christianity has been capable of organising missionaries managing large church structures maybe I should look into it.
 - Agency can go too far. Sometimes an issue is caused by the interaction of a number of agents with one another and it's not clear one agent alone caused it so it would be wrong to blame that individual set of individuals still has some fault for the thing going wrong
 - in a church I was part of
--
