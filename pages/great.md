@@ -1,5 +1,5 @@
 - *Things which are great are great the first time* - paraphrase of [[Saloni Dattani]]
-  title:: Great
+  title:: great
 	- We can grow accustomed to anything. But things which are great should be good to someone the first time without much context.
 - [[film]]
 	- [[The Prestige]]
@@ -11,6 +11,7 @@
 	- [[A Long Way to a Small Angry Planet]]
 	- [[The Name of The Wind]]
 		- Generally very good but occasionally blindsides you with softcore erotica. This is true of basically many [[Fantasy]] novels from the 90s/00s, but if you don't know this it might be quite off-putting. [[Why Was Good 90's Fantasy So Sexual?]]
+	-
 	-
 	-
 	-

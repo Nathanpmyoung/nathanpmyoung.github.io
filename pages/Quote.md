@@ -27,6 +27,7 @@
 - [[Edgar Allen Poe]]
 	- "Secretly I am rooting for the organgutan"
 - [[Worth The Candle]]
+  id:: 655783d1-b81b-4724-a4dd-b51a2bceae90
 	- ![IMG_7659.jpeg](../assets/IMG_7659_1700233577177_0.jpeg){:height 267, :width 504}
 -
 - [[Eleizer Yudkowsky]] https://substack.com/inbox/post/140159091
