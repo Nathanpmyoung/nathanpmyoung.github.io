@@ -1,2 +1,2 @@
-- [[Quote]] [[David Deutsch]] [[The Beginning of Infinity]]
+- [[quote]] [[David Deutsch]] [[The Beginning of Infinity]]
 - It's true
