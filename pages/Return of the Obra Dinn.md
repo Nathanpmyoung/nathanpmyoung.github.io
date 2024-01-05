@@ -1,2 +1,2 @@
-- [[Game]] [[Great]]
+- [[game]] [[Great]]
 - Sort of breathtakingly good to be honest

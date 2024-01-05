@@ -1,4 +1,4 @@
-- Auralux is a good [[Game]]
+- Auralux is a good [[game]]
 	- I have played it more than many games
 	- It's easy enough to faff about on but hard enough to come back to
 	- It is very simple in terms of UX - there is one type of unit and one upgrade path
