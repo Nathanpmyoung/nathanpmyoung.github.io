@@ -9,4 +9,3 @@
 		- Generally very good but occasionally blindsides you with softcore erotica. This is true of basically many [[Fantasy]] novels from the 90s/00s, but if you don't know this it might be quite off-putting. [[Why Was Good 90's Fantasy So Sexual?]]
 - [[game]]
 	- [[Exit - escape room game]] if you choose one that's the right level for you
-	-

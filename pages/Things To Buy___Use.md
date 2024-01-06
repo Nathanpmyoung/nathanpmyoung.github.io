@@ -11,7 +11,7 @@
 			- It can feel "mean" to answer questions like this, but it's exactly what they are doing. Why should you give away your information first?
 		- They negotiate all the time, you do it once a year. You're at a disadvantage here.
 	- A [[Task Management System]] that works
-	- [[Squeaky Bean]] [[Vegan]]
+	- [[Squeaky Bean]] [[vegan]]
 	- That vegan ham
 	- Sleep mask
 	- Fan heaters
