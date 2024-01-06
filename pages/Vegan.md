@@ -1,7 +1,7 @@
 alias:: Veganism, Fake Meat
 title:: vegan
 
-- My main difficulty with being vegan is when I am [[Sad]]
+- My main difficulty with being vegan is when I am [[sad]]
 - Good fake meat
 	- Those quorn slices
 	- [[Squeaky Bean]]
