@@ -1,3 +1,6 @@
-- [[Nathan Young]]
+- *Some pages that are big in my life*
+- About me - [[Nathan Young]]
+- [[Better Discourse]]
+- [[Community]]
+- [[dating advice]]
 - [[Blog]]
--

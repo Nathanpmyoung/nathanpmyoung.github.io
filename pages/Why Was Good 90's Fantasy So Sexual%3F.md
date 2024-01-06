@@ -8,5 +8,5 @@
 - Why is this the case? Theories
 	- Fantasy audiences were mainly guys who largely thought this content was beneficial and the authors wanted to explore it.
 	- There often seem to be elements of wish fulfilment
-	- Community norms - if everyone else writes ludicrous sex scenes into their books, I guess you think it's normal and so do too
+	- Community norms - if everyone else writes bouncy sex scenes into their books, I guess you think it's normal and so do too
 	- Some kind of backlash against norms in other areas of writing?

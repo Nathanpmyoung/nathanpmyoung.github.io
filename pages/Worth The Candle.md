@@ -1,2 +1,2 @@
-- [[book]] [[favourite]]
+- [[book]] [[Favourite]]
 -

@@ -1,4 +1,4 @@
-- [[favourite]] [[C. S. Lewis]] [[book]]
+- [[Favourite]] [[C. S. Lewis]] [[book]]
 - I love this book so much. It's a great read.
 - This makes me cry every time
 	- [[quote]] [[C. S. Lewis]]

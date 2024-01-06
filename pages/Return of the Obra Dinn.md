@@ -1,2 +1,2 @@
-- [[game]] [[favourite]]
+- [[game]] [[Favourite]]
 - Sort of breathtakingly good to be honest
