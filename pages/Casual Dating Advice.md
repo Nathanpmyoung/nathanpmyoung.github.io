@@ -1,4 +1,4 @@
-alias:: dating advice
+alias:: Dating Advice
 
 - I do fine in dating. And often I see people asking for things I have - more connection to people they are attracted to.
 - Much dating advice seems terrible to me. What follows is my thoughts
