@@ -1,5 +1,7 @@
 - Top ups optional
 - Suggested benefits
 	- Certainty
-		-
+		- Dutch government collapsed but there was little fallout
+		- Industry
+	- How do you give businesses stability
 	-
