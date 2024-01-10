@@ -1,4 +1,5 @@
 - "On average, councillors in England receive around £7,000 a year - ranging from £3,000 to £16,000 depending on the council"
 - "On average, councillors spend 22 hours per week on council business. 20 per cent of councillors spent 10 hours or fewer, and 13.5 per cent spent more than 35 hours per week."
 - Seems they aren't paid enough.
--
+- What would one learn from being one?
+	- How many local services work
