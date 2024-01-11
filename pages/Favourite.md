@@ -7,7 +7,7 @@ aliases:: things I love
 	- [[The Search for the Sugarman]]
 		- [[Joel Young]] and I watched this one night with a completely cold open. I would recommend it. It blew us away. Also a great [[memory]]
 - [[TV]]
-	- Blue Eye Samurai
+	- [[Blue Eye Samurai]]
 - [[book]]
 	- [[A Long Way to a Small Angry Planet]]
 	- [[The Name of The Wind]]
