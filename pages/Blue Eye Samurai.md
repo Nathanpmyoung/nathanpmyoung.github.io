@@ -1,6 +1,6 @@
 - *The best anime you'll ever watch about a dude who canonically loathes white people*
 - I enjoyed a lot.
 	- Good pacing
-	- Mix of Japanese and  music
+	- Mix of Japanese and   music
 	- Life
 	-
