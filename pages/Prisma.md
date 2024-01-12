@@ -1,0 +1,1 @@
+- If working with [[Planetscale]] I need to use npx prisma db push not npx prisma migrate for something to do with shadow databases.
