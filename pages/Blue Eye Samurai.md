@@ -2,6 +2,5 @@
 - I enjoyed a lot.
 	- Good pacing
 	- Mix of Japanese and Western music
-	- Felt like it was created by some non-Western people. The world felt lived in
+	- Felt like it had some unique source material, as opposed to just cribbing off other animations
 -
-	-
