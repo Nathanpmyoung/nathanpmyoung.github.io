@@ -1,0 +1,4 @@
+- A [[Good explanation]]
+-
+- Theories
+	- A good explanation is a bijection between the model and the relevant related observances
