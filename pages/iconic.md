@@ -3,3 +3,6 @@
 - ![image.png](../assets/image_1704919434447_0.png) ![](blob:https://twitter.com/e7b37497-83f3-4b37-889d-dfc6f36536e9)
 - Tolkien Shrugged
 	- https://x.com/DylanoA4/status/1728911383113383964?s=20
+- The Working Lunch theme song
+	- {{video https://www.youtube.com/watch?v=g8vQKnceCVk}}
+	-
