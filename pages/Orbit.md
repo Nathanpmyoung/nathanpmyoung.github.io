@@ -1,0 +1,5 @@
+- Earth radius
+- Commericial aircraft - ~10km
+- Ultra Low Earth Orbit - 200km
+- LEO - 600km
+-
