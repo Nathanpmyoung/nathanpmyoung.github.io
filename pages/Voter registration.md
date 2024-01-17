@@ -1,0 +1,2 @@
+- [[Blog]]
+- I am not convinced voter registration is a great use of resources
