@@ -34,4 +34,4 @@
 	- ... Yehuda did not "pass on". Yehuda is not "resting in peace". Yehuda is not coming back. Yehuda doesn't exist any more. Yehuda was absolutely annihilated at the age of nineteen. Yes, that makes me angry. I can't put into words how angry. It would be rage to rend the gates of Heaven and burn down God on Its throne, if any God existed. But there is no God, so my anger burns to tear apart the way-things-are, remake the pattern of a world that permits this ...
 - [[The Beginning of Infinity]]
 	- ![image.png](../assets/image_1705403576381_0.png)
-	-
+- “Pyrrhus said to one who was congratulating him on his victory, "If we are victorious in one more battle, we shall be utterly ruined." For he had lost a great part of the forces with which he came, and all his friends and generals except a few.”
