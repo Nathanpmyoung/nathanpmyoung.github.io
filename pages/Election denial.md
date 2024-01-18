@@ -1,2 +1,2 @@
 - https://www.cato.org/commentary/yes-democrats-have-called-some-elections-illegitimate-gop-election-denialism-far-worse
--
+- Pushing elections has to be detrimental, not beneficial.
