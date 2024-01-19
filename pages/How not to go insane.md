@@ -1,0 +1,1 @@
+- https://nathanpmyoung.substack.com/p/how-not-to-go-insane
