@@ -12,12 +12,12 @@ alias:: Blogs
 		- [[Systemic Sin]]
 	- Handbooks
 	- Consent
-	- Odds as 1/n
 	- How valuable networking
 	- Things that save me time
 	- [[It's so over]]
 	- [[The Plan]]
 	- Voxel air rights
+	- Odds as 1/n
 	- Some alternate OpenAI governance models
 	- Affordancees
 	- SAAS
