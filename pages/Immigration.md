@@ -1,5 +1,6 @@
 - The utilitarian position vs the "benefit my country" position
 	- What is the net cost of immigrants, high skilled immigrants, immigrant families, refugees
+	- Read those papers
 	-
 - How beneficial is immigration in terms of [[GDP]]?
 	- [[Open Borders]] [[Bryan Caplan]]
