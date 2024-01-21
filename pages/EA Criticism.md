@@ -4,10 +4,7 @@
 	- This ends badly. In hindsight, obviously.
 	- This incentivises cheap criticism. The praise you get is the same regardless of the quality of the criticism and so for any expensive criticism the subsidy is small. But for bad criticism the praise subsidy covers almost the whole cost, so it's much more likely to be the difference between it being created and not.
 	- Many other communities actively disincentivise cheap criticism, by pushing back strongly on any and all criticism. I guess this has the opposite effect, muting easy criticism, but leaving costlier criticism similar.
-	-
-	-
-	- I think this is wrong. Good criticism is underrated. Bad criticism is overrated. We should encourage good criticism. We (myself very much included) have a habit of encouraging bad criticism so we can feel epistemically pure. This is an error see - [[Wanting to Think Well Isn't The Same as Doing It]]*
+	- For more, see - [[Wanting to Think Well Isn't The Same as Doing It]]*
 - Your body wants to be happy - If you decide according to metrics, you might start to fudge them
-	-
 	- *Feelings were the great loophole for Mill. His fundamental metric of happiness rested on the foundation of feelings, and it turned out that his feelings were—without his fully realizing it—under his control. In order to justify his relationship with Harriet, he needed his passion for her to overwhelm anyone else’s unhappiness in the utilitarian calculation, and so his feelings grew and grew until the equation balanced.* - https://americanaffairsjournal.org/2017/05/romance-socialism-j-s-mill/
 -
