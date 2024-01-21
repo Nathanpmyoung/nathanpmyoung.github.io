@@ -1,7 +1,12 @@
 - I find much [[EA]] criticism to be bunk, but some of it is good. Here I will reference criticisms I think have merit:
 - MOAR CRITICISM! - EAs want ever more criticism
+	- The vibe of [[EA]] is that criticism is underrated and so we should have more of it regardless of quality. A sort of general subsidy for criticism. For a long time I felt this way myself. That I should praise anyone criticising EA (or to a lesser extent me) because I wanted people to feel free to criticise.
+	- This ends badly. In hindsight, obviously so.
 	-
-	- The vibe of [[EA]] is that criticism is underrated and so we should have more of it even if it is bad. I think this is wrong. Good criticism is underrated. Bad criticism is overrated. We should encourage good criticism. We (myself very much included) have a habit of encouraging bad criticism so we can feel epistemically pure. This is an error see - [[Wanting to Think Well Isn't The Same as Doing It]]*
-- Your body wants to be happy - E
-- *Feelings were the great loophole for Mill. His fundamental metric of happiness rested on the foundation of feelings, and it turned out that his feelings were—without his fully realizing it—under his control. In order to justify his relationship with Harriet, he needed his passion for her to overwhelm anyone else’s unhappiness in the utilitarian calculation, and so his feelings grew and grew until the equation balanced.* - https://americanaffairsjournal.org/2017/05/romance-socialism-j-s-mill/
+	-
+	-
+	- I think this is wrong. Good criticism is underrated. Bad criticism is overrated. We should encourage good criticism. We (myself very much included) have a habit of encouraging bad criticism so we can feel epistemically pure. This is an error see - [[Wanting to Think Well Isn't The Same as Doing It]]*
+- Your body wants to be happy - If you decide according to metrics, you might start to fudge them
+	-
+	- *Feelings were the great loophole for Mill. His fundamental metric of happiness rested on the foundation of feelings, and it turned out that his feelings were—without his fully realizing it—under his control. In order to justify his relationship with Harriet, he needed his passion for her to overwhelm anyone else’s unhappiness in the utilitarian calculation, and so his feelings grew and grew until the equation balanced.* - https://americanaffairsjournal.org/2017/05/romance-socialism-j-s-mill/
 -
