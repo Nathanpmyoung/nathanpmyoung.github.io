@@ -2,7 +2,8 @@
 - MOAR CRITICISM! - EAs want ever more criticism
 	- The vibe of [[EA]] is that criticism is underrated and so we should have more of it regardless of quality. A sort of general subsidy for criticism. For a long time I felt this way myself. That I should praise anyone criticising EA (or to a lesser extent me) because I wanted people to feel free to criticise.
 	- This ends badly. In hindsight, obviously.
-	- This incentivises cheap criticism. The praise you get is the same regardless of the quality of the criticism and so for any expensive criticism
+	- This incentivises cheap criticism. The praise you get is the same regardless of the quality of the criticism and so for any expensive criticism the subsidy is small. But for bad criticism the praise subsidy covers almost the whole cost, so it's much more likely to be the difference between it being created and not.
+	- Many other communities actively disincentivise cheap criticism, by pushing back strongly on any and all criticism. I guess this has the opposite effect, muting easy criticism, but leaving costlier criticism similar.
 	-
 	-
 	- I think this is wrong. Good criticism is underrated. Bad criticism is overrated. We should encourage good criticism. We (myself very much included) have a habit of encouraging bad criticism so we can feel epistemically pure. This is an error see - [[Wanting to Think Well Isn't The Same as Doing It]]*
