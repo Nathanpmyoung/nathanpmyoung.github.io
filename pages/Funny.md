@@ -1,2 +1,4 @@
 - If you put a poster with "no questions asked", questions will be asked [[Iconic]]
--
+- [[Bryan Caplan]]
+	- ![image.png](../assets/image_1706026373415_0.png)
+	-
