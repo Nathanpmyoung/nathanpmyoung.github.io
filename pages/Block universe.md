@@ -1,0 +1,2 @@
+- Why does quantum randomness stop a block universe? Surely it can just *look* random.
+	- But then the future aliens could maybe predict it?

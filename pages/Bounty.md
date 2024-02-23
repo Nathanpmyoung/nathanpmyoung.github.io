@@ -1,0 +1,4 @@
+- *I guess we are a bounty site now.*
+- Here is a list of bounties on this site. Logseq is open source, so you can make extensions and tell me about them.
+- If you fulfil a bounty excellently, if I have money I'll pay you or owe you a favour.
+	- Why only excellent? Well, my experience with bounties is that you should only actually pay what you are happy to have paid, and frankly, for many versions of this outcome, that's 0. Something that is nearly what I want, but not actually it is worthless to me. And I'm not sure I should pay on expectation or something either. If I tell you I won't pay then maybe you'll ask me exactly what I want. Which sounds better tbh.

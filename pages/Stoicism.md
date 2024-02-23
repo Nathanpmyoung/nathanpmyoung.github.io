@@ -1,0 +1,3 @@
+- 8/10
+- [[Philosophy]]
+- I would recommend most people embody more of the stoic mindset. There is work to be done, we are the ones to do it, most people don't care about us as much as we care about ourselves.

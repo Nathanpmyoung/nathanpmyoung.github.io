@@ -7,4 +7,5 @@
 	- {{video https://www.youtube.com/watch?v=g8vQKnceCVk}}
 	- Melee Moments ![image.png](../assets/image_1705749565092_0.png)
 	-
--
+- https://neal.fun/internet-artifacts/first-mp3/
+- my voice software when I'm watching the supranos ![image.png](../assets/image_1707078338615_0.png)

@@ -1,0 +1,2 @@
+- I haven't built a way to add variables to pages or to rank them. But someone should do that, then tell me they did [[Bounty]]
+-

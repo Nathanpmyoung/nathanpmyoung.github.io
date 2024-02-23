@@ -2,8 +2,8 @@ alias:: Dating Advice
 
 - I do fine in dating. And often I see people asking for things I have - more connection to people they are attracted to.
 - Much dating advice seems terrible to me. What follows is my thoughts
-- Perhaps I do fine because I am popular in general
-- Much advice I seem contradicts my experience. Here is advice I see
+- Firstly perhaps I do fine because I am charismatic in general. Seems plausible this advice isn't very good.
+- Here is advice I see:
 	- Become very stoic
 	- Be hard to get
 	- Don't be a feminist
@@ -17,3 +17,7 @@ alias:: Dating Advice
 - Be easy to get. Yes! You've heard it said "play hard to get" but I say to you "be easy to get". I try to put out vibes that if you want to hang out with me for an evening, I'll give you my attention, have some fun chat and then, if you want, we'll have sex, focused on you. I'll be enthusiastic, clear and non-judgemental. And for me, that works. It's not that unusual for women to ask me for hookups, to send me nudes or to express that they want to have sex with me. Now sure, maybe this is deeply alien to you (worth remembering that I didn't have sex until I was 25, having been a celibate Christian, so it was pretty alien to me too) and yes I am clever and tall. But still, "be easy to get" seems underrated advice - don't tax your own product! Don't make it harder for people to date you. Some people are [[Veblen]] goods, who express their value by being hard to get. That ain't me.
 - Honesty
 - Understand things women/your partners care about
+- What is the other advice bad? As I've said, I don't claim to know, but her are some theories:
+- Stocism
+	- [[Stoicism]] is kind of healthy. But is it really fun? All that "be equanimical"
+-

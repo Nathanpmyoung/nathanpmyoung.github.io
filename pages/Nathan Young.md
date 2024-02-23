@@ -3,7 +3,7 @@
 - I am currently funded by [[Vitalik Buterin]] as well as private clients (depending on the work)
 - I work on
 	- Forecasting
-		- [Estimaker.app](https://estimaker.app/) - [Katja Grace’s AI model](https://estimaker.app/_/nathanpmyoung/ai-grace), [Joe Carlsmith’s AI model](https://estimaker.app/_/nathanpmyoung/ai-carlsmith), [Scott Eastman’s Ukraine Model](https://estimaker.app/_/nathanpmyoung/_/nathanpmyoung/ukraine-eastman)
+		- [Estimaker.app](https://estimaker.app/) - [Katja Grace’s AI model](https://estimaker.app/projects/10da8a56-634e-490d-8856-42c7954be2ac), [Scott Eastman’s Ukraine Model](https://estimaker.app/projects/9307d24b-af14-4e54-a827-9a62d827eb80)
 		- [[Estimaker]] is a tool for building visual models of probabilities. Then it's easier to figure out where experts disagree
 	- Viewpoint aggregation
 		- [https://viewpoints.xyz](https://viewpoints.xyz/) -

@@ -1,2 +1,12 @@
+- What are the important cruxes here?
+- If I were to make a dashboard, what would include?
+	- Will AI be able to code well in in 2024, '25, '26, '27, '28, '29
+	- Will AI be able to forecast well in 2024, '25, '26, '27, '28, '29
+	- Which will be the AI model considered most used by the public in 2027, 2030, 2035
+		- OpenAI, Anthropic, Google Deep Mind, open source,
+	- Which will be the AI model considered most used by business in 20207, 2030, 2035
+		- OpenAI, Anthropic, Google Deep Mind, open source
+-
+- [#A]
 - {{video https://www.youtube.com/watch?v=DcYLT37ImBY}}
 -
