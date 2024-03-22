@@ -1,0 +1,14 @@
+- It isn't clear to me that PR is better.
+- Little bits of research by country
+	- UK
+		- Government stay in power for a long time, are always able to get bills through.
+		- Doesn't seem like competent governance
+	- US
+		- 2-4 year periods where the executive can't pass legislation but isn't removed
+		- Is actually a competent country
+	- New Zealand
+		- 1 Kiwi I know likes it
+	- German
+		- Currently really struggling, in a very predictable way (not enough energy)
+		-
+	-

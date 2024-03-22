@@ -7,18 +7,20 @@
 		- [[AllOurIdeas]]
 	- Start at the top
 	-
-- Expert sit-down
-	- A debate between two experts on a specific topic (A and B)
+- Expert sit-down (simple)
+	- A debate between two experts on a specific general topic
+	- Let's label the experts A and B
+	- Before the discussion both experts have been polled on a set of statements relating to the topic (eg using [[Viewpoints]]).
 	- A chair introduces both experts with reference to their best track records
-	- Optional: take a vote one where the audience currently is on the topic, giving statements until half say they agree more with one expert and half think they think they agree more with the other expert
-	- Optional: set up a prediction market on whether at the end of the discussion when we find a new equilibrium it will be closer to the first expert. This is shown on a big screen
+		- Optional: take a vote one where the audience currently is on the topic, giving statements until half say they agree more with one expert and half think they think they agree more with the other expert
+		- Optional: set up a prediction market on whether at the end of the discussion when we find a new equilibrium it will be closer to the first expert. This is shown on a big screen
 	- Each expert gives a 3 minute opening statement of their position
 	- A interviews B. A can ask any question on the topic, is able to interrupt B, but the aim should be for B to mainly be talking. (10 mins)
 	- The reverse. B interviews A. The topic doesn't need to be the same. B can lead wherever they like. (10 minus)
 	- This happens another time (20 minutes for both)
-	- Optional, all the while the crowd can predict the final vote
+		- Optional, all the while the crowd can predict the final vote
 	- The experts are allowed a 3 minute wrap up to say anything they have missed/emphasize
-	  Optional, the audience is reminded that it's not about who spoke best, or who gave the most unanswered arguments, but what we think reality is like
+		- Optional, the audience is reminded that it's not about who spoke best, or who gave the most unanswered arguments, but what we think reality is like
 - Changing sides
 - Example topics:
 	- Are the most effective charities more or less than 1000x as good as the median

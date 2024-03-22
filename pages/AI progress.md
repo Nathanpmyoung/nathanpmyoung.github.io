@@ -1,0 +1,2 @@
+- *By year*
+- This article is a great format and still holding up pretty well - https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like
