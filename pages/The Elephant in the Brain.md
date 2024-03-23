@@ -17,4 +17,16 @@
 - Other notes
 	- 'Healthcare spending doesn't predict outcomes'
 	- [[Hierarchy in the Forest]]
+- Primate grooming
+	- Observations
+		- More than we'd expect
+		- Uncorrelated with fur area
+		- High status primates get more grooming
+		- Little self-grooming
+	- Counter observations
+		- Humans don't really engage in group grooming even though we like having
+	- Potential hypotheses
+		- It's about social trust, not grooming
+		- It's a way of offering fealty
+		- You can eat the bugs
 	-
