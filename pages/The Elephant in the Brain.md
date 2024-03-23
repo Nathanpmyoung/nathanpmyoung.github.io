@@ -1,5 +1,14 @@
-- There are things we try to avoid thinking about
+- There are things we try to avoid thinking about that actually explain our actions
 - Reverse engineer our motives from our actions
--
+- Playing politics is effective
+- Strategic self-deception is effective
+- We pretend to know
+- 4 strands of research
+	- Brains choreograph social status even if we aren't thinking
+	- The mind acts to distort ourselves
+	- Primatology - Machiavellian behaviour, something doesn't add up
+	-
 - Other notes
 	- 'Healthcare spending doesn't predict outcomes'
+	- [[Hierarchy in the Forest]]
+	-

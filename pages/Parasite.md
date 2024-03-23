@@ -1,0 +1,2 @@
+- The status seeking part in [[The Elephant in the Brain]]
+-
