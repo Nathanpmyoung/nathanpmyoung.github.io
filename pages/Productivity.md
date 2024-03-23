@@ -1,0 +1,15 @@
+- Reading [this article](https://www.betonit.ai/p/the-self-improvement-of-jonah-franks?utm_source=profile&utm_medium=reader2) by [[Bryan Caplan]] I am testing just reading a lot of productivity books/videos
+- So far I've read deep work, which is sort of fine and I guess I should implement that more.
+- Books recommended in it
+	- The Elephant in the Brain: Hidden Motives in Everyday Life
+	- 2. Battle Hymn of the Tiger Mother by Amy Chua.
+	- 3. The Status Game: On Social Position and How We Use It by Will Storr.
+	- 4. Feeling Good by David Burns. (The ultimate CBT book.)
+	- 5. Atomic Habits by James Clear.
+	- 6. Taking Charge of Adult ADHD (I think authors surname was “Barkeley”?)
+	- 7. Driven to Distraction and ADHD 2.0 by Hallowel
+	- 8. The Social Skills Guidebook by Chris MacLeod
+	- 9. Conversationally Speaking by Alan Garner
+	- 10. How to Win Friends and Influence People by Dale Carnegie (the bottom line of how to navigate the social world)
+	- 11. Weight Training for Dummies (despite its odd choice of branding, the entire for dummies series is amazing; the authors are carefully selected and most of the books are now in their 5th+ editions with very favorable popular ratings. I especially like Eric Tyson’s personal finance series.)
+	- Soon: 12. Self-Help is Like a Vaccine
