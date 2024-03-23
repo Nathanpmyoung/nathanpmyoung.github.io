@@ -1,0 +1,5 @@
+- There are things we try to avoid thinking about
+- Reverse engineer our motives from our actions
+-
+- Other notes
+	- 'Healthcare spending doesn't predict outcomes'

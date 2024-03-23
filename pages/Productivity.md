@@ -1,7 +1,7 @@
 - Reading [this article](https://www.betonit.ai/p/the-self-improvement-of-jonah-franks?utm_source=profile&utm_medium=reader2) by [[Bryan Caplan]] I am testing just reading a lot of productivity books/videos
 - So far I've read deep work, which is sort of fine and I guess I should implement that more.
 - Books recommended in it
-	- The Elephant in the Brain: Hidden Motives in Everyday Life
+	- [[The Elephant in the Brain]]: Hidden Motives in Everyday Life
 	- 2. Battle Hymn of the Tiger Mother by Amy Chua.
 	- 3. The Status Game: On Social Position and How We Use It by Will Storr.
 	- 4. Feeling Good by David Burns. (The ultimate CBT book.)
