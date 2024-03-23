@@ -1,13 +1,19 @@
 - There are things we try to avoid thinking about that actually explain our actions
-- Reverse engineer our motives from our actions
-- Playing politics is effective
-- Strategic self-deception is effective
-- We pretend to know
-- 4 strands of research
+- To test this, reverse engineer our motives from our actions.
+- Playing politics is effective, but so is honesty. How can we have both?
+- Our brains hide our Machiavellianism from us
+- 4 strands of research which suggest this
 	- Brains choreograph social status even if we aren't thinking
 	- The mind acts to distort ourselves
 	- Primatology - Machiavellian behaviour, something doesn't add up
-	-
+	- Institutions show similar confusion
+- Counter theories
+	- Thinking is hard
+- Thesis
+	- People are judging us all the time
+	- We downplay our ugly motives
+	- We deceive ourself better to deceive others
+	- Sometimes we call this out in others, sometimes we dont'
 - Other notes
 	- 'Healthcare spending doesn't predict outcomes'
 	- [[Hierarchy in the Forest]]

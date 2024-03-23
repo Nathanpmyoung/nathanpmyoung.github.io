@@ -1,0 +1,2 @@
+- What would someone assume you want given what you do?
+- [[CFAR]] Hamming questions
