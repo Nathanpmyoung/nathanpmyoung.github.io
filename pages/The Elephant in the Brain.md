@@ -24,9 +24,13 @@
 		- High status primates get more grooming
 		- Little self-grooming
 	- Counter observations
-		- Humans don't really engage in group grooming even though we like having
+		- Humans don't really engage in group grooming even though we like having hÌeads scratched, hands massaged, pimples popped, hair braided
+		- Authors choose their examples selectively to make their case
+		- Social (Allo)grooming focuses [on places that autogrooming can't reach](https://www.researchgate.net/publication/225494054_Grooming_site_preferences_in_primates_and_their_functional_implications)
 	- Potential hypotheses
 		- It's about social trust, not grooming
 		- It's a way of offering fealty
 		- You can eat the bugs
+		- Other grooming is more efficient so little self grooming happens
+		-
 	-

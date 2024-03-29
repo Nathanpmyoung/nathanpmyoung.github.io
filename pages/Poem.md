@@ -331,7 +331,7 @@
 	  Hardy feel the hypothermia, as the uni flashes past,
 	  Now no inkling of our sinking as we slide across the top,
 	  Unless we vent all our momentum in a sodden, sudden stop.
-- Christmas
+- ChristmasÌ
   collapsed:: true
 	- If Christmas were a particle,
 	  Which one would it be?
@@ -408,6 +408,13 @@
 	  To the fact that all the scholars
 	  Are correct about their collars,
 	  And particular in turning out their toes.
+- [As you know yourself](https://allpoetry.com/poem/14796670-As-you-know-yourself-by-Katja-Grace) by [[Katja Grace]]
+	- Don’t look upon the light in your eyes, look upon the sky.
+	  And don’t feel the pain in your side, feel the wound there.
+	  And as you ride over the stony ground, don’t touch the shaking seat, touch each stone with your wheels.
+	  Then feel your soft body of dirt, with tires reeling over you, and solid stone beneath, the cool metal of your lampposts and the cement of your gutters.
+	  Don’t feel me move to a hidden force beneath your hand, feel the force with my body, your hand. Don’t hear my words, hear the roughness and warmth of my mind. Meet me here, face to face.
+-
 - # General thoughts
 - I realise on trying to find all of these I've written a lot of poems over the years.
 - There was a who year (?) where I wrote limericks to people on their birthdays
