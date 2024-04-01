@@ -4,4 +4,5 @@
 	- A spicy 9 question is like "what is something that annoys you about your partner"
 	- A spice 10 question is spicier than that
 - I don't mind hotseat among close friends but
-	- Like many [[Authentic Relating]] games I find it inauthentic if others don't realise what's going on - it's easy to feel
+	- Like many [[Authentic Relating]] games I find it inauthentic if others don't realise what's they are signing up to. _Please do not play this with people who are significantly less powerful than you_
+		-
