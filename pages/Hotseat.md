@@ -1,0 +1,1 @@
+- An [[Authentic Relating]] game where 1 person is in the hot seat for some amount of time and everyone else asks them questions. eg
