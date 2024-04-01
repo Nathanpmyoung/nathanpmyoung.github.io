@@ -1,2 +1,7 @@
 - An [[Authentic Relating]] game where 1 person is in the hot seat for some amount of time and everyone else asks them questions. eg everyone asks questions for 3 minutes
-- There is a spiciness
+- There is a spiciness level of the questions
+	- A spicy 1 question is like "do you have a cat"
+	- A spicy 9 question is like "what is something that annoys you about your partner"
+	- A spice 10 question is spicier than that
+- I don't mind hotseat among close friends but
+	- Like many [[Authentic Relating]] games I find it inauthentic if others don't realise what's going on - it's easy to feel
