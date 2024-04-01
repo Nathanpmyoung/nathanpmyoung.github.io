@@ -1,8 +1,12 @@
 - An [[Authentic Relating]] game where 1 person is in the hot seat for some amount of time and everyone else asks them questions. eg everyone asks questions for 3 minutes
 - There is a spiciness level of the questions
 	- A spicy 1 question is like "do you have a cat"
-	- A spicy 9 question is like "what is something that annoys you about your partner"
-	- A spice 10 question is spicier than that
+	- A spicy 8 question is like "what is something that annoys you about your partner" or "what is your most shameful opinion" or "what is your kink"
+	- A spiciness 9 question is spicier than that
+	- A 10 is that but you socially have to answer
 - I don't mind hotseat among close friends but
 	- Like many [[Authentic Relating]] games I find it inauthentic if others don't realise what's they are signing up to. _Please do not play this with people who are significantly less powerful than you_
-		-
+		- Like it's easy for everyone to feel like they know what spicy 10 questions are like, until they are being asked what their favourite sex position is by someone they don't feel comfortable chickening out in front of
+	- Everyone thinks they want spiciness 10, but they don't necessarily know what that's actually like. [[Consent]] only makes sense if you can reasonable predict worlds after the action.
+	- It's easy to say "oh but you shouldn't ask questions like that" *but that's the whole point of the game* - don't make a game about boundary crossing where the explicit point is actually hidden!
+- As I say, I like the game but it kind of annoys me so I rarely play it.
