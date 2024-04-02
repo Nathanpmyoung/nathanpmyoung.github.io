@@ -37,3 +37,5 @@
 - “Pyrrhus said to one who was congratulating him on his victory, "If we are victorious in one more battle, we shall be utterly ruined." For he had lost a great part of the forces with which he came, and all his friends and generals except a few.”
 - [[Bridgerton]]
 	- I love all of you. Even the parts that you believe are too dark and too shameful. Every scar. Every flaw. Every imperfection. I love you. You may think you are too damaged and too broken to ever allow yourself to be happy, but you can choose differently,
+- [[Christopher Hitchens]]
+	- “That which can be asserted without evidence, can be dismissed without evidence.” *Hitchens’ razor*
