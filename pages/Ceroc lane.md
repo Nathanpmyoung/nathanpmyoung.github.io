@@ -1,5 +1,5 @@
-aliases:: Lane 1
-
+- With more advance [[Ceroc]]
+- alias:: Lane 1, Lane 2, Lane 3
 - With more advance Ceroc, the leader thinks in 3 lanes:
 	- Lane 1 to the left of the middle lane
 	- Lane 2 in the middle, where the follower usually is

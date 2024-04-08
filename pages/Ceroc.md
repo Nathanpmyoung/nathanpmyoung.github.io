@@ -15,7 +15,7 @@
 			- Anticlockwise
 		- Simple ceroc spin
 		  id:: 4d08e5ac-76be-4c3a-a733-b71e25049e3f
-			- Right holding left
+			- Right holding their right
 			- Pull her hand sideways with my right
 			- Grip wrist with left hand
 			- spin round
@@ -26,6 +26,11 @@
 			- spin her anticockwise
 		- Arm switch
 		- Travelling return
+		  id:: 4948dce7-de57-4a1a-a97e-7fe15f2719ad
+			- Left holding their right
+			- Step into [[Lane 1]]
+			- Lift their hand above their face
+			- Step back into [[Lane 2]]
 		- Low first
 			- Hand on hip
 		- Man spin
@@ -67,9 +72,9 @@
 		-
 		- Ceroc spin
 		  id:: 3343286a-eded-4bc1-8ac0-636503c196f7
-			- Right holding left
+			- Right holding their right
 			- Step back
-			- Step into [[Lane 1 ]]
+			- Step into [[Lane 1]]
 			- Flick the follower's hand to your right, so they spin as you walk
 			- Catch with your left hand
 		- Embrace and release
