@@ -1,0 +1,24 @@
+- *Subset of [[Ceroc]]*
+- Moves
+	-
+	- {{embed ((4d08e5ac-76be-4c3a-a733-b71e25049e3f))}}
+	- {{embed ((3343286a-eded-4bc1-8ac0-636503c196f7))}}
+- {{embed ((fc1aa463-d23c-4ca4-8386-93b21a200fe3))}}
+-
+- Sets I've learned
+	- basic: octopus into push and spin into lean
+	- intermediate: whip waltz waltz high first with spins figure 8 nelson
+	- basic:
+	- intermediate: switch arms, flick cross, waltz thing cross, wierd arm break thing
+	- basic: Octopus into high first into step across
+	- intermediate: whip spin shoulder bar catch into yoyo
+-
+- Sessions:
+	- [[Apr 3rd, 2024]] From early this week we did
+		- Beginner moves
+			- Side switch
+			- That arm thing
+		- Intermediate
+			-
+			-
+		-
