@@ -39,10 +39,13 @@
 			- Ends right holding their left
 		- Mambo
 			- Starts swapped
-		- Octopus
-		  id:: fc1aa463-d23c-4ca4-8386-93b21a200fe3
-			- Starts like travelling return
-			-
+				- Octopus
+				  id:: fc1aa463-d23c-4ca4-8386-93b21a200fe3
+					- Both hands holding standard way
+					- Step into [[Lane 1]] facing away from [[Lane 2]]
+					- Spin and lift right hand over head, pulling follower into a half spin across your back
+					- Release left hand and complete spin
+					- ((4948dce7-de57-4a1a-a97e-7fe15f2719ad)) with the right hand held, releasing only at the last moment
 		- High first
 			- Unsure if they did this right tbh
 	- Intermediate moves

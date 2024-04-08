@@ -13,6 +13,7 @@
 	- ·         Two example estimates include:
 	- o   Dr. Paul Christiano approximated the brain's communication capacity to be similar to or less than a V100 GPU, hinting at a computational capacity of around 10^14 FLOP/s or less.
 	- o   AI Impacts proposes using Traversed Edges Per Second (TEPS) to quantify the brain's communication ability, suggesting a range of ~2×10^13 to 6×10^14 TEPS for the brain. This translates to around 10^16-3×10^17 FLOP/s. However, these estimates haven't been thoroughly validated.
+	  id:: 66140d81-a699-4e23-b08e-456c73ec594e
 	- 3)      Mechanistic and Functional Estimates:
 	- ·         Mechanistic estimates, which suggest that 10^13–10^17 FLOP/s might be enough for machines to match the human brain's performance, are viewed favorably by the author. While there are arguments for both higher and lower numbers, the lower range appears more convincing.
 	- ·         Functional method estimates, especially those based on the visual cortex, serve as weak evidence that the 10^13–10^17 FLOP/s range isn't a drastic underestimation. Some estimates based on deep neural network models provide higher numbers but are seen as even weaker evidence.
