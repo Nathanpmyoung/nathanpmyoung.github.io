@@ -1,0 +1,104 @@
+- *Ceroc is a simple dance style that provides a fun evening. There are a number of places across [[London]] that run it. I was inspired by [[Richard Ngo]] to take up dancing as fun [[Cardio]]. *
+- Basic moves
+	- Shoulder slide
+		- Man spin but with right hand under rather than over
+		- Ends right holding left
+			- {{video https://www.youtube.com/watch?v=ZVcSYLMsYLI}}
+	- Shoulder spin (needs work)
+		- Spin her anticlockwise
+		- Spin clockwise
+		- Out
+		- She comes across body
+		- Anticlockwise
+	- Simple ceroc spin
+		- Right holding left
+		- Pull her hand sideways with my right
+		- Grip wrist with left hand
+		- spin round
+		- catch with left
+		- Spin her anticlockwise
+	- Step across
+		- Lift handand step under
+		- spin her anticockwise
+	- Arm switch
+	- Travelling return
+	- Low first
+		- Hand on hip
+	- Man spin
+		- Lift my right hand
+		- Spin at end?
+		- Ends right holding their left
+	- Mambo
+		- Starts swapped
+	- Octopus
+		- Starts like travelling return
+		-
+	- High first
+		- Unsure if they did this right tbh
+- Intermediate moves
+- Advanced moves/ ones I found on the internet
+- Classic moves I am learning
+	- Basket
+		- ![306b61e9-6227-463b-ad84-1046ea2a2764.MP4](../assets/306b61e9-6227-463b-ad84-1046ea2a2764_1699290043974_0.MP4)
+- More complex moves I am learning
+	- Right hand holding left Yoyo
+		- ![IMG_7571.MOV](../assets/IMG_7571_1699290494003_0.MOV)
+		-
+		- anticlockwise spin
+		- then flick for second spin
+		- grab, pull hold
+		- release
+	- Nelson
+	- ![498c4767-f9e0-4a71-bd63-2d60248216cb.MP4](../assets/498c4767-f9e0-4a71-bd63-2d60248216cb_1699290051237_0.MP4)
+	- Arm switch with flip and then break and spin
+	-
+	- Left handed 8
+		- /u
+	- Hand switch
+		- Not feeling great
+	- ![IMG_7536.MOV](../assets/IMG_7536_1699290657992_0.MOV)
+	-
+	- Ceroc spin
+	- Embrace and release
+		- Pull the follower in and step back,
+		- bring them round to my hip
+	- Simple Arial yoyo clockwise starting from right into left
+		- {{video https://www.youtube.com/watch?v=9toL6bfT63E&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=3}}
+	- Blind
+		- {{video https://www.youtube.com/watch?v=sCttAvR-LHU&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=7}}
+	- Accordion neck break
+		- {{video https://youtu.be/xQGdllcrSao?si=aPdREaw6vAO0Crvm}}
+	- Beginning figure of 8
+		- {{video https://www.youtube.com/watch?v=rGLJKHNxLlA&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=9}}
+	-
+	-
+	- Follower knows what they are doing switch
+		- {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
+	- 3x Switch sides spin
+		- Somehow taking hands at the end of each
+		- {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
+	- Octopus
+	- Hand switch and waltz
+		- start on off hand
+		- spin in place
+		- hand over head onto right shoulder
+		-
+		-
+	-
+	- {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
+- Sets I've learned
+	- basic: octopus into push and spin into lean
+	- intermediate: whip waltz waltz high first with spins figure 8 nelson
+	- basic:
+	- intermediate: switch arms, flick cross, waltz thing cross, wierd arm break thing
+	- basic: Octopus into high first into step across
+	- intermediate: whip spin shoulder bar catch into yoyo
+-
+- [[Apr 3rd, 2024]] From early this week we did
+	- Beginner moves
+		- Side switch
+		- That arm thing
+	- Intermediate
+		-
+		-
+	-
