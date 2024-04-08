@@ -48,14 +48,23 @@
 					- ((4948dce7-de57-4a1a-a97e-7fe15f2719ad)) with the right hand held, releasing only at the last moment
 		- High first
 			- Unsure if they did this right tbh
+		- Arms on shoulders
+			-
 	- Intermediate moves
+		- Basketwhip
+			- Basket
+			- Flick out to right
+		- Head duck
+			- Flick back across
+			- lane 1 to 3
+			- spin round togeter
+			- flick and avoid their head
+		-
 	- Advanced moves/ ones I found on the internet
 	- Classic moves I am learning
-	  collapsed:: true
 		- Basket
 			- ![306b61e9-6227-463b-ad84-1046ea2a2764.MP4](../assets/306b61e9-6227-463b-ad84-1046ea2a2764_1699290043974_0.MP4)
 	- More complex moves I am learning
-	  collapsed:: true
 		- Right hand holding left Yoyo
 			- ![IMG_7571.MOV](../assets/IMG_7571_1699290494003_0.MOV)
 			-

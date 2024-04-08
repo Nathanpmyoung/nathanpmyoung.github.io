@@ -20,6 +20,11 @@
 			- Side switch
 			- That arm thing
 		- Intermediate
-			-
-			-
+	- [[Apr 8th, 2024]]
+		- Beginner
+			- turn in front
+			- push forward back forward spin
+		-
+		-
+		-
 		-
