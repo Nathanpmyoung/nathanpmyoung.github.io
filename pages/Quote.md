@@ -39,3 +39,5 @@
 	- I love all of you. Even the parts that you believe are too dark and too shameful. Every scar. Every flaw. Every imperfection. I love you. You may think you are too damaged and too broken to ever allow yourself to be happy, but you can choose differently,
 - [[Christopher Hitchens]]
 	- “That which can be asserted without evidence, can be dismissed without evidence.” *Hitchens’ razor*
+- [[Ursula K. Le Guin]]
+	- “But I didn’t and still don’t like making a cult of women’s knowledge, preening ourselves on knowing things men don’t know, women’s deep irrational wisdom, women’s instinctive knowledge of Nature, and so on. All that all too often merely reinforces the masculinist idea of women as primitive and inferior – women’s knowledge as elementary, primitive, always down below at the dark roots, while men get to cultivate and own the flowers and crops that come up into the light. But why should women keep talking baby talk while men get to grow up? Why should women feel blindly while men get to think?”
