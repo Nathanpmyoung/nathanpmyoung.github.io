@@ -2,5 +2,4 @@
 - About me - [[Nathan Young]]
 - [[Better Discourse]]
 - [[Community]]
-- [[dating advice]]
 - [[Blog]]

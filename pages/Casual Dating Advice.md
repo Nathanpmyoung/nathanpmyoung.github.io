@@ -2,22 +2,23 @@ alias:: Dating Advice
 
 - I do fine in dating. And often I see people asking for things I have - more connection to people they are attracted to.
 - Much dating advice seems terrible to me. What follows is my thoughts
-- Firstly perhaps I do fine because I am charismatic in general. Seems plausible this advice isn't very good.
-- Here is advice I see:
+- Firstly perhaps I do fine because I am charismatic in general. Seems plausible this advice isn't very good as a result
+- Here is advice I see when I look around:
 	- Become very stoic
 	- Be hard to get
 	- Don't be a feminist
-- I am not saying this is good or bad advice. It just seems like noise to me
-- Instead, things that have had success for me
-- Try to leave people with a not bad experience. If you date women (or anyone with a body smaller than yours) chances are that their downside risk is higher than yours. Much of their time/focus may be about avoiding that. So a good start is to try and reduce it.
-	- Learn to create space for someone to say no. Much is made of enthusiastic positive consent, but I finding space for expressions of non-consent is underrated. I want both types of feedback, both "gosh, Yes!" and "ehhh not into that right now thanks". Sometimes with partners I don't know I will explicitly practice asking and receiving "No". Can I touch your shoulder "No". And yes, this is a bit weird, but if I can't bear 5 minutes of awkwardness with someone, I don't want to have sex with them. What if they don't want something, but it's too awkward?
-	- Consider bad patterns and ask your friends. Write a list of what someone would say are your worst ever behaviours. Then share it with some people you trust. Ask them how could you avoid having those happen again? It doesn't matter whether they are literally what happened. If someone is really upset then it maybe something to avoid, for your sake.
+- I am not saying this is good or bad advice. It just seems like noise to me. Has it been good for the writer? I'm not sure.
+- Instead, things that have had success for me. Your mileage may vary
+- Try to leave people with a not-bad experience. If you date women (or anyone with a body smaller than yours) chances are that their downside risk is higher than yours. Much of their time/focus may be about avoiding that. So a good start is to try and reduce it.
+	- Learn to create space for someone to say no. Much is made of enthusiastic positive consent, but I finding space for expressions of non-consent is underrated. I want both types of feedback, both "gosh, Yes!" and "ehhh not into that right now thanks". Sometimes with partners I don't know, I will explicitly practice asking and receiving a "No". Can I touch your shoulder "No". And yes, this is a bit weird, but if I can't bear 5 minutes of awkwardness with someone, I don't want to have sex with them. What if they don't want something, but it's too awkward?
+	- Consider my bad patterns. I ask my friends to write a list of my worst behaviours.  I ask them how could you avoid having those happen again? It doesn't matter whether they are literally what happened. If someone is really upset then it maybe something to avoid, for your sake.
 - Talk to your friends and ask what would make you a better partner.
 - Read things by the kinds of people you are attracted to about what they are looking for (sadly little of this exists in my experience)
-- Be easy to get. Yes! You've heard it said "play hard to get" but I say to you "be easy to get". I try to put out vibes that if you want to hang out with me for an evening, I'll give you my attention, have some fun chat and then, if you want, we'll have sex, focused on you. I'll be enthusiastic, clear and non-judgemental. And for me, that works. It's not that unusual for women to ask me for hookups, to send me nudes or to express that they want to have sex with me. Now sure, maybe this is deeply alien to you (worth remembering that I didn't have sex until I was 25, having been a celibate Christian, so it was pretty alien to me too) and yes I am clever and tall. But still, "be easy to get" seems underrated advice - don't tax your own product! Don't make it harder for people to date you. Some people are [[Veblen]] goods, who express their value by being hard to get. That ain't me.
+- Be easy to get. Yes! You've heard it said "play hard to get" but I say to you "be easy to get".
+	- I try to put out vibes that if you want to hang out with me for an evening, I'll give you my attention, have some fun chat and then, if you want, we'll have sex, focused on you. I'll be enthusiastic, clear and non-judgemental. And for me, that works. It's not that unusual for women to ask me for hookups, to send me nudes or to express that they want to have sex with me. Now sure, maybe this is deeply alien to you (worth remembering that I didn't have sex until I was 25, having been a celibate Christian, so it was pretty alien to me too) and yes I am clever and tall. But still, "be easy to get" seems underrated advice - don't tax your own product! Don't make it harder for people to date you.
 - Honesty
 - Understand things women/your partners care about
 - What is the other advice bad? As I've said, I don't claim to know, but her are some theories:
 - Stocism
-	- [[Stoicism]] is kind of healthy. But is it really fun? All that "be equanimical"
+	- [[Stoicism]] is kind of healthy. But is it really fun? All that "be equanimical". [[Contrapoints]] [[Twilight]] discusses this well
 -

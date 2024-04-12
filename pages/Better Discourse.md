@@ -19,7 +19,6 @@
 			- AI dashboard
 			- On manifold? More broadly
 	- Most people don't want to actually change their mind
-	-
 - What forms of great discourse exist?
 	- Metaculus comment section
 	- Internal discussions at some organisations
