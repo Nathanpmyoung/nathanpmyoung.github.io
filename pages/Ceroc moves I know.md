@@ -24,6 +24,8 @@
 		- Beginner
 			- turn in front
 			- push forward back forward spin
+		- Intermediate
+			-
 		-
 		-
 		-

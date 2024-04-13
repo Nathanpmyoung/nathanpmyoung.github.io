@@ -12,7 +12,7 @@
   disgust at the investment of their pension assets in foreign and domestic
   nonunion competition in industry .... ,20 These funds, in their estimation,
   have been "used to finance the loss of their members' jobs and retirement
-  income security.' [[quote]]
+  income security.' [[Quote]]
 	- https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1104&context=jbl
 	- *I don't know how to think about this* [[Suborn]]
 -

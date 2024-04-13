@@ -46,6 +46,7 @@
 					- Spin and lift right hand over head, pulling follower into a half spin across your back
 					- Release left hand and complete spin
 					- ((4948dce7-de57-4a1a-a97e-7fe15f2719ad)) with the right hand held, releasing only at the last moment
+					- 3 times?
 		- High first
 			- Unsure if they did this right tbh
 		- Arms on shoulders
