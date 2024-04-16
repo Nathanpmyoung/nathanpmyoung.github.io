@@ -1,17 +1,21 @@
+- S
+-
 - [[Rootclaim]]
 	- Has a wealthy person behind it so likely to continue existing
 	- Cumbersome to read through
 	- Functional
 	- Claims weighted by rootclaim only
 - [[Kialo]]
-	- I do not enjoy using it
+	- Hard to visually assess arguments
 	- Claims weighted by vibes only
 		- not by how strong claims beneath them are, or some kind of vote
 	- The claims are often about vibes - there can be a claim with a lot of "impact" that has no good reference for it
 - [[LessWrong]]
 	- dialogues
-		- Fine
+		- Good at what it does
 	- comments
+		- Very neat way
+		- I want comment dialogues - where only several people can comment, or where only their comments are shown in colour
 - [[Debate Art]]
 	- A debate forum
 	- If I wanted loads of random threads with arbitrary discussions I would go to 50 other places
