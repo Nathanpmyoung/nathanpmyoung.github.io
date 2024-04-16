@@ -2,8 +2,11 @@
 	- Has a wealthy person behind it so likely to continue existing
 	- Cumbersome to read through
 	- Functional
+	- Claims weighted by rootclaim only
 - [[Kialo]]
 	- I do not enjoy using it
+	- Claims weighted by vibes only
+		- not by how strong claims beneath them are, or some kind of vote
 	- The claims are often about vibes - there can be a claim with a lot of "impact" that has no good reference for it
 - [[LessWrong]]
 	- dialogues
@@ -14,6 +17,9 @@
 	- If I wanted loads of random threads with arbitrary discussions I would go to 50 other places
 - r/[[ChangeMyView]]
 	- I like the ethos and reddit allows for nesting
+- [[ChangeAView]]
+	- Died
+- That letter writing site
 	-
 -
 - Resources
