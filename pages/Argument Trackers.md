@@ -1,0 +1,8 @@
+- [[Rootclaim]]
+	- Has a wealthy person behind it so likely to continue existing
+	- Cumbersome to read through
+	- Functional
+- [[Kialo]]
+	- I do not enjoy using it
+	- The claims are often about vibes - there can be a claim with a lot of "impact" that has no good reference for it
+-
