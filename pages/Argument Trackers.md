@@ -5,4 +5,9 @@
 - [[Kialo]]
 	- I do not enjoy using it
 	- The claims are often about vibes - there can be a claim with a lot of "impact" that has no good reference for it
+- [[LessWrong]] dialogues
+	- Fine
 -
+-
+- Resources
+	- This provides a nice example of argument tracking being used in anger - https://davestuartjr.com/tracking-arguments/
