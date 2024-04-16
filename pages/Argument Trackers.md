@@ -1,4 +1,8 @@
-- S
+- Axes
+	- Sustainable
+	- Easy to understand topics
+	- Corrigible
+	-
 -
 - [[Rootclaim]]
 	- Has a wealthy person behind it so likely to continue existing
