@@ -1,0 +1,4 @@
+- It's easy to make a fun song about an article you like. Whether as a focus aid, for the joy of creation or to make someone laugh.
+- I really like Bryan's concept of a "Beautiful Bubble" though I think his article [Make Your Own Bubble In 10 Easy Steps](https://www.econlib.org/archives/2013/04/make_your_own_b.html) is clearer for me. So I made a song using suno, [created by]. Here are the steps I used.
+- I copied the article into [[Claude]] and asked it to write a summary of the article.
+- I asked Claude to make a song using
