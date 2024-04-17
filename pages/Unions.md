@@ -15,4 +15,8 @@
   income security.' [[Quote]]
 	- https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1104&context=jbl
 	- *I don't know how to think about this* [[Suborn]]
--
+- Unions seem basically a natural part of capitalism. If it's about negotiating whatever price you can and a company gets to share information with itself, then surely so do employees?
+- Though it seems cartels and monopolies are more illegal for companies than unions.
+- Like generally I think companies can charge whatever they can get away with for their products. Same seems true of labour, right?
+- Like I can be frustrated, but I'm pro the system, so I should in general be pro its results.
+- I'm less sure that strikers should be protected from being fired. Though it feels like unions should be able to build up big funds to insure against this.
