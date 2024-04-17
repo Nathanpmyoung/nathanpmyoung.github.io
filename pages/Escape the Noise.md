@@ -25,9 +25,9 @@
 	  Just escape the noise
 	  Let it fade away
 	  Life is better this way (Life is better this way)
-- With AI tools, it's easy to make a fun song about anything you like. For the joy of creation, to make someone laugh or as a focus aid.
-- I really like Bryan's concept of a "Beautiful Bubble" though I think his article [Make Your Own Bubble In 10 Easy Steps](https://www.econlib.org/archives/2013/04/make_your_own_b.html) is clearer for me. So I made a song using suno, [created by]. Here are the steps I used:
-- I copied the article into [[Claude]] and asked it to write a summary of the article. I made any changes, cutting points I thought were less important.
+- Here are the steps I used:
+- I think his article [Make Your Own Bubble In 10 Easy Steps](https://www.econlib.org/archives/2013/04/make_your_own_b.html) is a clear articulation of the thing I wanted.
+- I copied the article into [Claude.ai](https://claude.ai/) and asked it to write a summary of the article (GPT3/4 probably also works). I made any changes, cutting points I thought were less important.
 - I asked Claude to make a song using this summary. This might seem lazy (it is) but it's great to get so quickly to the fun part.
-- I went to Suno and use the [Advanced] mode where you can add lyrics. I initially messed around with high energy electronica, but I'd re
+- I went to Suno and use the [Advanced] mode where you can add lyrics. I initially messed around with high energy electronica, but I'd recommend u
 -
