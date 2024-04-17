@@ -1,0 +1,1 @@
+- When a bureaucracy becomes stiff and unable to change. How to fix this?
