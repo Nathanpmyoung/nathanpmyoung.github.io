@@ -62,6 +62,12 @@
 			- flick and avoid their head
 		- Waltz hold
 		- Flick behind
+			- Right to right
+			- Into [[Lane 1]]
+			- Something about being behind me
+			- Reach left hand behind
+			- Flick them forward
+			- Catch with left and spin
 			-
 		- Push spin
 		-
