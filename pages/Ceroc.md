@@ -60,6 +60,10 @@
 			- lane 1 to 3
 			- spin round togeter
 			- flick and avoid their head
+		- Waltz hold
+		- Flick behind
+			-
+		- Push spin
 		-
 	- Advanced moves/ ones I found on the internet
 	- Classic moves I am learning
