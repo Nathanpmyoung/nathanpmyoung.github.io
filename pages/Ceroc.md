@@ -68,8 +68,16 @@
 			- Reach left hand behind
 			- Flick them forward
 			- Catch with left and spin
-			-
+			- Release and catch again with left
 		- Push spin
+			- Step forward slightly
+			- Pull towards
+			- Raise hand and stop
+			- spin them back round
+			- something about lifting their hand up
+			- spin them back toward
+			- grab
+			- release
 		-
 	- Advanced moves/ ones I found on the internet
 	- Classic moves I am learning
