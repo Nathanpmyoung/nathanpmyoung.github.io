@@ -1,1 +1,1 @@
-- What is a reasonable comparison of GDP?
+- What is a reasonable comparison of GDk

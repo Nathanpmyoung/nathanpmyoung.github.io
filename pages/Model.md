@@ -1,0 +1,5 @@
+- [[Eleizer Yudkowsky]] [[quote]]
+	- I *knew* that the usefulness of a model is not what it can explain, but what it can’t. A hypothesis that forbids nothing, permits everything, and thereby fails to constrain anticipation.
+- I think what Yud means there is that a good model will break quickly. It only explains a very small set of things because the universe is very specific. So it's good that it doesn't explain many many things.
+	-
+	-
