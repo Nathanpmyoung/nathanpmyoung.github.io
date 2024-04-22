@@ -12,7 +12,7 @@ alias:: Forecast, Forecasts
 	- Personally
 	- As a developer/researcehr
 	- As a decision maker
-	- As a project manager
+	- As a project manager I'm on your team I don't think organisation
 	-
 	-
 	-
