@@ -1,0 +1,2 @@
+- In many situations there are tradeoffs between maximising the total of something and the average of it.
+	- Choosing a restaurant. Do you want to have a lot of food, or maybe less, very good food?
