@@ -1,2 +1,4 @@
 - In many situations there are tradeoffs between maximising the total of something and the average of it.
-	- Choosing a restaurant. Do you want to have a lot of food, or maybe less, very good food?
+	- Choosing a restaurant. Do you want to have a lot of food, or maybe less, very good food in a more aesthetic location? For the price of *lot* of McDonalds, I can get a small portion at a very fancy restaurant.
+	- Total vs average utilitarianism. Should we maximise utility, perhaps tiling the universe with rats on heroin, or should we aim for very high experiences for very few beings?
+	- Immigration. My loose understanding is that immigration is good for the economy in a total sense, but perhaps destabilises countries a bit if it is different enough from the current population. In this sense you have a total view (espoused by [[Bryan Caplan]]) vs an average view (espoused by, say, [[Garrett Jones]]). Jones advocates for immigration only that increases the average of the country receiving the immigrants.
