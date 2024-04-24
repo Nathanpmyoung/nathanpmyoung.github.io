@@ -1,0 +1,6 @@
+- [[Blog]] [[Heuristics]]
+- Sometimes there is no good rule beyond "dig into it"
+	- Figuring out how systems work
+	- Forecasting other than "base reates"
+	-
+-
