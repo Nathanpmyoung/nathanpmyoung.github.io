@@ -1,6 +1,7 @@
 - A systems theory I would like:
 	- Tools for representing systems
 	- Systems and checklists for thinking about harms (rather than "think about them" - "when? how? how often")
+		- Systems harm people and likely more than they need to. How can we have robust ways of predicting this? and avoiding it?
 	- An understanding of economics
 		- Capitalism has benefits as well as drawbacks and if all someone talks about is the drawbacks they probably can't predict the impact of systems in the real world
 	- An acknowledgement of the inevitability of systems.

@@ -1,0 +1,10 @@
+- What do you focus on?
+	- God
+	- Money
+	- Sex
+	- Your parter
+	- Your children
+	- Prediction
+	- Doing the most good
+	- Status
+	- A better future
