@@ -22,3 +22,7 @@ alias:: Blogs
 	- Affordancees
 	- SAAS
 	- Prediction Markets Tell Us What We Already Know (and That's Enough)
+	- After the scandal [[Systemic Sin]] [[Systems theory]]
+		- Systems that survive develop a way of dealing with scandals.
+		-
+-
