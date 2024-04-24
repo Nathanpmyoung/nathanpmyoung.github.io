@@ -1,0 +1,8 @@
+- A systems theory I would like:
+	- Tools for representing systems
+	- Systems and checklists for thinking about harms (rather than "think about them" - "when? how? how often")
+	- An understanding of economics
+		- Capitalism has benefits as well as drawbacks and if all someone talks about is the drawbacks they probably can't predict the impact of systems in the real world
+	- An acknowledgement of the inevitability of systems.
+		- We are complex systems. We have no current way for something to be conscious without a complex system, let alone satisfied.
+		- It is bizarre to have an antagonistic poise towards systems, constantly discussing their harms, biases and the control they exert without discussing that we only exist with them. If we want to be free of complex systems we should desire a single electron floating alone in empty space.
