@@ -1,5 +1,5 @@
 - *Life is a work in progress*
-- I build tools for [[Better Discourse]] and run a software development agency.
+- I build tools for [[Better Discourse]] and run a sofware development agency.
 - I am currently funded by [[Vitalik Buterin]] as well as private clients (depending on the work)
 - I work on
 	- Forecasting
