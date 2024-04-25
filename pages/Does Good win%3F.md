@@ -2,3 +2,6 @@
 - Examples
 	- Yes
 	- No
+	- Unclear
+		- [[Bill Gates]] seems like he did some scammy business practices but then used all that wealth for good
+		- [[America]] did some form of [[Genocide]] on the [[Native Americans]] but then is a force for good in the world
