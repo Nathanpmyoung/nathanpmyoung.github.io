@@ -1,0 +1,4 @@
+- That [[Matt Yglesias]] comment
+- People underrate how much they like to win. Like actually endorse their victory.
+- Though showboating is wonderful too.
+	- I once played a game of [[7 Wonders]] with the Leaders expansion. I chose Plato so would get 7 points for every full set of 7 colours. And It All Came Together. I managed to get 2 manufactured goods, three greens, 2 purples. It was so satisfying
