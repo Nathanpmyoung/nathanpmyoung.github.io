@@ -1,4 +1,8 @@
 - In terms of incentives, manifold pay almost their entire "willingness to pay" for new signups in the signup bonus ($2.50). It's in their fake currency, but they hope that one day it will be real money. I guess that's a double incentive to their users.
 - The pivot
-	- Not clear that they really are in a, run on the bank situation
-	- Not great on how they deal with implied trust
+	- There only current outgoing is donations, where all the amount donated [$220k](https://manifold.markets/charity) is far less than the amount they have backed by [$500k](https://manifoldmarkets.notion.site/Charitable-donation-program-668d55f4ded147cf8cf1282a007fb005).
+		- They aren't currently in any trouble at all
+	- They have currently printed [$1.2 mn in mana against total assets of $1.5mn](https://forum.effectivealtruism.org/posts/SM3YzTsXmQ6BaFcsL/you-probably-want-to-donate-any-manifold-currency-this-week?commentId=3Nb8RqesQaqBjBnsM). This doesn't leave them with much runway for salaries.
+		- To what extent was it expected that 100 mana would stay worth 1$?
+		-
+	-
