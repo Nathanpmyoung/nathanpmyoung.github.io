@@ -10,5 +10,7 @@
 	-
 	- US
 	- China
+		- ![image.png](../assets/image_1714216483105_0.png)
 	- India
 - ![image.png](../assets/image_1714216422132_0.png)
+- People argue that China aren't gonna make the hard choicese
