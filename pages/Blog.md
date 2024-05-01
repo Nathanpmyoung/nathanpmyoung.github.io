@@ -9,7 +9,7 @@ alias:: Blogs
 	- feedback
 	- make it easy to change your mind
 	- Chrisitianity
-		- [[Systemic Sin]]
+		- [[Systemic sin]]
 	- Handbooks
 	- Consent
 	- How valuable networking
@@ -22,7 +22,7 @@ alias:: Blogs
 	- Affordancees
 	- SAAS
 	- Prediction Markets Tell Us What We Already Know (and That's Enough)
-	- After the scandal [[Systemic Sin]] [[Systems theory]]
+	- After the scandal [[Systemic sin]] [[Systems theory]]
 		- Systems that survive develop a way of dealing with scandals.
 		- How do they do this?
 		- How does a system die if necessary, but also survive, such that all extant systems don't ignore feedback?

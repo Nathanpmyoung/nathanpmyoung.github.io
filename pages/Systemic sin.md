@@ -1,6 +1,8 @@
 - [[Blog]]
-- That guy on the [[Dishcast]]
+- I was a Christian for 15 years, becoming steadily more conservative until I left, aged 25. There aren't many things I would wish to teach my former, community, but one that comes up a lot is systemic sin.
+-
 - Christians sometimes believe that the only people who can be responsible for a problem our agents I guess in many ways this makes Christianity a pretty identical religion right if sin has to be somebody's fault then you just gotta figure out which person's fault it is and then that person has to change more than it seems to be more than other religions Christianity has been capable of organising missionaries managing large church structures maybe I should look into it.
 - Agency can go too far. Sometimes an issue is caused by the interaction of a number of agents with one another and it's not clear one agent alone caused it so it would be wrong to blame that individual set of individuals still has some fault for the thing going wrong
 - in a church I was part of
 - [[Georgina Voss]] [[German auto-emissions scandal]] somehow it was blamed on one engineer as if one engineer was most of the reason it happened. This served to scapegoat the system. [[Clem]] pointed out that in some sense systems are selected for this. Systems that don't survive.. don't survive. We should be unsurprised that systems that exist have features to survive scandals.
+- That guy on the [[Dishcast]]
