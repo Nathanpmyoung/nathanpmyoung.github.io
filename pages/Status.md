@@ -1,0 +1,1 @@
+- It was common in the 00s to talk about the "Hot/crazy curve". The notion that as a woman gets more attractive she also likely behaves worse. Rather than say this isn't true, which it is a bit, it seems a specific case of a
