@@ -1,4 +1,5 @@
-- A high schooler asked for advice on how to get involved in EA. My response ([here](https://forum.effectivealtruism.org/posts/iKWxsxYnrKadtz4xs/high-schooler-getting-involved-in-ea)) got a lot of upvotes and several people said they liked it. So I reproduce it, slightly edited:
+- A high schooler [asked](https://forum.effectivealtruism.org/posts/iKWxsxYnrKadtz4xs/high-schooler-getting-involved-in-ea) for advice on how to get involved in EA. My response ([here](https://forum.effectivealtruism.org/posts/iKWxsxYnrKadtz4xs/high-schooler-getting-involved-in-ea?commentId=QrjfmCtbv32rjPKa6)) got a high score and several people got in touch to say they liked it. I reproduce it below, slightly edited:
+-
 - Attempt to bequeath your future self a kinder, more joyful, more competent person. This might involve:
 	- Learning new skills - eg coding, managing some contractors, research, event organisation
 	- Getting into the practise of doing things - build a website that you think should exist, run an event you would attend
