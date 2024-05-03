@@ -1,0 +1,3 @@
+- https://benthams.substack.com/p/losing-faith-in-contrarianism
+- [[Forecasting]] is still good though
+- How could Caplan change his mind
