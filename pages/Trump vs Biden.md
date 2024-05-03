@@ -1,5 +1,5 @@
 - Record
-	-
+	- Economy
 	- Inflation
 	- Russia
 	- Afganistan
