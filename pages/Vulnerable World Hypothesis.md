@@ -9,8 +9,12 @@
 	- Very few people want to kill everyone, even if it is very easy, suicide bombers are pretty rare
 	- The technologies could get replaced - eg glass with perspex
 	- Humans are good at banning even very beneficial technologies [[Slowed technologies]]
-- Some solutions Bostrom suggests:
-	-
+- Bostrom looks at some options, dismissing the first 2:
+	- Restrict technological development.
+		- Bostrom finds this both hard and tragic.
+		- Seems wrong, we have narrowly restricted technologies - [[Slowed technologies]]
+	- Ensure that there does not exist a large population of actors representing a wide and recognizably human distribution of motives.
+- [[Prior]]
 	-
 -
 	-
