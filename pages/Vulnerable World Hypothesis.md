@@ -15,6 +15,9 @@
 		- Seems wrong, we have narrowly restricted technologies - [[Slowed technologies]]
 	- Ensure that there does not exist a large population of actors representing a wide and recognizably human distribution of motives.
 - [[Prior]]
+	- we should arguably use a fairly uniform prior in log space (over several orders of magnitude) over the size of apocalyptic residual that would be required in order for civilizational devastation to occur conditional on a Type-1 vulnerability arising. In other words, conditional on some new technology being developed that makes it easy for an average individual to kill at least one
+	  million people, it may be (roughly) as likely that the technology would enable the average individual to kill one million people, ten million people, a hundred million people, a billion people, or every human alive.
+	- This doesn't seem right? We don't see a uniform historical prior here.
 	-
 -
 	-
