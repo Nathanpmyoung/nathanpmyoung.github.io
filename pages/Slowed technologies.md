@@ -1,0 +1,1 @@
+- https://wiki.aiimpacts.org/responses_to_ai/technological_inevitability/incentivized_technologies_not_pursued/start

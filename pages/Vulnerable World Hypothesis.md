@@ -6,6 +6,11 @@
 - He is right that in principle, it is plausible that easy, massively destructive technology exists.
 - I am not fully convinced by this:
 	- It seems if it were that easy it would probably have happened by now
+	- Very few people want to kill everyone, even if it is very easy, suicide bombers are pretty rare
+	- The technologies could get replaced - eg glass with perspex
+	- Humans are good at banning even very beneficial technologies [[Slowed technologies]]
+- Some solutions Bostrom suggests:
+	-
 	-
 -
 	-
