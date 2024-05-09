@@ -8,7 +8,7 @@
 	- Company strategy. Should a company hire many staff (total) even if the average productivity falls? Or should they stay small and lean (average)? Likewise should they have a small number of spectacular products or use their brand to get into every niche they can?
 - Analagous cases:
 	- Moral circles. Focus on a small group of close friends vs all consciousness.
-	- [[The Unsung deity]]
+	- [[Theodicy solution]] - if consciousness doesn't stack, then many possible positive EV universes are sucky for most of their lifespan. So we might find ourselves in one such. Consciousness not stacking feels averagy, stacking feels totally - tile the universe with hedonium.
 	- Future people and dignity. Should we push for the best future by our own lights (total) or some broader notion of dignity, which respects individual cultures even if we think they use their resources badly (average). As [[Carlsmith]] alludes, if 99% of the universe were friendly, liberal, stamp collectors, that might be very bad.
 	-
 -
