@@ -1,0 +1,3 @@
+- [[Quote]]
+	- But American capitalism took one look at prophetic inspiration and decided it lacked a certain ability to be forced upon an army of low-paid interchangeable drones.
+	-
