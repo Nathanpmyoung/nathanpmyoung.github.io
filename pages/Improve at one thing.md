@@ -1,0 +1,9 @@
+- [[Blog]]
+- Recently I have found it good to consider learning in the following way. My brain is an LLM that is trying to reduce it's loss function while making predictions. My conscious mind can push it to consider specific areas or strategies more closely.
+- Often I try and focus improvement on 3-4 things at once. If I am playing badminton, I think about service order, tracking the shuttlecock, how I'm holding my arms, how I hit the shuttlecock. This is a lot of things to focus on at once.
+- I improve slowly and rarely get the dopamine rush from doing one thing really well or the ability to stop thinking about that thing. If were only tracking the shuttlecock, I'd probably fail in all  the other ways, which would be embarrassing, but eventually I would get a lot better at this one thing and could then switch over.
+- I try these days to think of what my one goal is for each time I do a thing.
+- Some examples:
+	- When playing badminton recently I tried to just get the service order so my friend wasn't having to correct me
+	- When playing poker I tried to play well pre-flop, remembering my ranges, and not worry so much about post-flop
+	- When playing Terraforming Mars (yo)
