@@ -1,3 +1,3 @@
 - [[Quote]]
 	- But American capitalism took one look at prophetic inspiration and decided it lacked a certain ability to be forced upon an army of low-paid interchangeable drones.
-	-
+	- Gebron and Eleazar’s classic textbook says that only four kabbalists have ever gazed upon Adam Kadmon bare. Rabbi Isaac Luria. The archangel Uriel. The Comet King. And an eight year old girl. I won’t say I had gazed upon it *bare*, exactly, but in the great game of strip poker every deep thinker plays against the universe I’d gotten further than most.
