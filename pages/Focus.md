@@ -8,3 +8,6 @@
 	- Doing the most good
 	- Status
 	- A better future
+- Focus is the bottleneck [[Blog]]
+	- [[Mark Zuckerberg]] interview with [[Dwarkesh Patel]]
+	- The question is how large a set of things can I focus on and be calibrated over?
