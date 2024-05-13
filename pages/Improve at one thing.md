@@ -6,4 +6,5 @@
 - Some examples:
 	- When playing badminton recently I tried to just get the service order so my friend wasn't having to correct me
 	- When playing poker I tried to play well pre-flop, remembering my ranges, and not worry so much about post-flop
-	- When playing Terraforming Mars (yo)
+	- When playing Terraforming Mars (you might notice a theme) I wanted to try a synergistic strategy based on my starting corp. This went badly but it was good to try
+	-
