@@ -9,4 +9,8 @@
 	- Offer to match 50% of funds lost by whistleblowers.
 		- Offering Kokotajlo 50% of the money he was set to make if didn't sign the NDA sounds like both an insult and a huge waste. But it isn't. People really care about the money they make and there is much more money in AI safety than this.
 		- Make clear that whistleblowers will be taking a hit but not a huge one. I know if i had a family and potentially millions coming to me if I stayed quiet, I would be tempted to. Altman certainly knows this - his gambit around the OpenAI board crisis shows a shrewd understanding of how income motivates his staff.
-		- Make
+		- This is good value for money. How much would some AI safety focused foundations pay to place a person with integrity in OpenAI? I guess it is $1 - $10mn. Here you have someone who can give an accurate account of why they left a well-paying AI Safety role. I suggest that is worth a lot of money, especially if they are willing to forgo half of what they would have made. (This is a costly signal of integrity)
+	- Create an integrity prize
+		- There is much to celebrate here. A man looked at millions and decided he'd rather have the ability to speak honestly. That seems like the sort of behaviour we should want in the world. I want people who would hide Jews under their floorboards, I want people would walk away from interesting scientific problems to avoid building the nuclear bomb (Szilard) and I want people who value their honesty more than millions of dollars when they are developing world changing tech.
+		- Give a medium sized prize every year. Perhaps $100k as an AI Integrity prize. Find a set of judges who have demonstrated intellectual and practical integrity in the past and get them to vote every year for someone to award it to. Someone who has board
+-
