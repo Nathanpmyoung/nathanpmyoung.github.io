@@ -12,5 +12,9 @@
 		- This is good value for money. How much would some AI safety focused foundations pay to place a person with integrity in OpenAI? I guess it is $1 - $10mn. Here you have someone who can give an accurate account of why they left a well-paying AI Safety role. I suggest that is worth a lot of money, especially if they are willing to forgo half of what they would have made. (This is a costly signal of integrity)
 	- Create an integrity prize
 		- There is much to celebrate here. A man looked at millions and decided he'd rather have the ability to speak honestly. That seems like the sort of behaviour we should want in the world. I want people who would hide Jews under their floorboards, I want people would walk away from interesting scientific problems to avoid building the nuclear bomb (Szilard) and I want people who value their honesty more than millions of dollars when they are developing world changing tech.
-		- Give a medium sized prize every year. Perhaps $100k as an AI Integrity prize. Find a set of judges who have demonstrated intellectual and practical integrity in the past and get them to vote every year for someone to award it to. Someone who has board
--
+		- Give a medium sized prize every year. Perhaps $100k as an AI Integrity prize. Find a set of judges who have demonstrated intellectual and practical integrity in the past and get them to vote every year for someone to award it to. Someone who has borne personal cost in AI to maintain their integrity.
+		- Don't be dumb about it. I would recommend Kokotajlo gets the inaugural award, but have an investigatory team on the staff to kick the tires (perhaps consider Kelsey Piper, who has a reputation of this to maintain). Aim to be 90+% confident that they will still endorse the award in 10 years, perhaps vote otherwise.
+	- Talk to your elected representatives, donate to AI safety organisations.
+		- Money makes a difference. I generally think that people should pay more for the things they want to protect. So rather than relying on the honesty of a few researchers, I want to use my time and money to push for changes.
+		-
+	-
