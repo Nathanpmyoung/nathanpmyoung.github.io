@@ -1,3 +1,5 @@
 - [[Blog]]
 - Last week it came to light that [[OpenAI]] had been using non-disparagement agreements enforced by removal of vested "shares". In short, employees leaving were told that if they didn't sign the agreement never to talk badly about OpenAI then they would lose millions of dollars of value that they had thought they had built up.
-- This was
+- This was bad and almost certainly highly deliberate. Sam Altman claims he is surprised, but this seems unlikely. He presided over a company building world-defining tech that put a giant tax on any criticism at all. People have rightly been scandalised; Altman claims he is embarrassed.
+- All this came to light because one engineer, Daniel Kokotajlo, refused to sign the agreement, forgoing what he guesses was 85% of his family's wealth at the time in order to be able to speak out against OpenAI if necessary. As time goes on we are seeing email chains from OpenAI that look increasing aggressive from OpenAI.
+- Many people in the AI space think that AI could plausibly kill everyone on earth. The median journal author on AI thinks there is about a 5% chance of this.
