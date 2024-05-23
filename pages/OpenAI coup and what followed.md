@@ -1,0 +1,6 @@
+- The coup seems well explained as a bid to remove Toner, that lead to the coup. Then the counterputsch has removed many of the AI Safety team, one of whom refused to sign the vesting agreement and led to half of the current media storm.
+- Bord seizes control
+- Share value
+- Board backs down
+- what doesn't this explain
+-

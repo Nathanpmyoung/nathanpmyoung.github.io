@@ -1,6 +1,0 @@
-- Toner annoys altman
-- Bord seizes control
-- Share value
-- Board backs down
-- what doesn't this explain
--
