@@ -2,4 +2,11 @@
 - Last week it came to light that [[OpenAI]] had been using non-disparagement agreements enforced by removal of vested "shares". In short, employees leaving were told that if they didn't sign the agreement never to talk badly about OpenAI then they would lose millions of dollars of value that they had thought they had built up.
 - This was bad and almost certainly highly deliberate. Sam Altman claims he is surprised, but this seems unlikely. He presided over a company building world-defining tech that put a giant tax on any criticism at all. People have rightly been scandalised; Altman claims he is embarrassed.
 - All this came to light because one engineer, Daniel Kokotajlo, refused to sign the agreement, forgoing what he guesses was 85% of his family's wealth at the time in order to be able to speak out against OpenAI if necessary. As time goes on we are seeing email chains from OpenAI that look increasing aggressive from OpenAI.
-- Many people in the AI space think that AI could plausibly kill everyone on earth. The median journal author on AI thinks there is about a 5% chance of this.
+- Many people in the AI space think that AI could plausibly kill everyone on earth. The median journal author on AI thinks there is about a 5% chance of this. I've recently run a project to find 40 quotes from experts on different AI questions. Even many governments and tech executives talk as if the risk is higher than 10%.
+- ![image.png](../assets/image_1716485809650_0.png){:height 301, :width 587}
+- We need to do better than relying on the integrity of individual engineers against millions of dollars paid to them to keep quiet.
+- Here are three suggestions:
+	- Offer to match 50% of funds lost by whistleblowers.
+		- Offering Kokotajlo 50% of the money he was set to make if didn't sign the NDA sounds like both an insult and a huge waste. But it isn't. People really care about the money they make and there is much more money in AI safety than this.
+		- Make clear that whistleblowers will be taking a hit but not a huge one. I know if i had a family and potentially millions coming to me if I stayed quiet, I would be tempted to. Altman certainly knows this - his gambit around the OpenAI board crisis shows a shrewd understanding of how income motivates his staff.
+		- Make
