@@ -16,5 +16,5 @@
 		- Don't be dumb about it. I would recommend Kokotajlo gets the inaugural award, but have an investigatory team on the staff to kick the tires (perhaps consider Kelsey Piper, who has a reputation of this to maintain). Aim to be 90+% confident that they will still endorse the award in 10 years, perhaps vote otherwise.
 	- Talk to your elected representatives, donate to AI safety organisations.
 		- Money makes a difference. I generally think that people should pay more for the things they want to protect. So rather than relying on the honesty of a few researchers, I want to use my time and money to push for changes.
-		-
+		- Sadly this is very complex. I don't have a specific bill or politician to recommend, but I think that giving to someone and then trying to improve next month is better than nothing.
 	-
