@@ -1,0 +1,2 @@
+- One thing I learned from the FTX crash is that it feels a lot better in the long run to have said things were bad and have been ignored than to have thought things were bad and stayed quiet. (Conditional on thinking things were bad)
+- I want to look back and think I was clear.
