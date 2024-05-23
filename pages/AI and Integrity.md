@@ -1,0 +1,3 @@
+- [[Blog]]
+- Last week it came to light that [[OpenAI]] had been using non-disparagement agreements enforced by removal of vested "shares". In short, employees leaving were told that if they didn't sign the agreement never to talk badly about OpenAI then they would lose millions of dollars of value that they had thought they had built up.
+- This was
