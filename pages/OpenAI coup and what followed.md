@@ -1,4 +1,5 @@
 - The coup seems well explained as a bid to remove Toner, that lead to the coup. Then the counterputsch has removed many of the AI Safety team, one of whom refused to sign the vesting agreement and led to half of the current media storm.
+- Toner wrote an article in which she said []. Altman reported was annoyed and slowly moved to have her removed from the board. This seems in character, since we now know employees are not allowed to criticise OpenAI at all if they want to be confident of keeping their vested equity (and the ability to sell it).
 - Bord seizes control
 - Share value
 - Board backs down
