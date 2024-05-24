@@ -1,4 +1,4 @@
 - [[blog]]
 - Church groups
 - Me
--
+- [[Epistemic Learned Helplessness]]

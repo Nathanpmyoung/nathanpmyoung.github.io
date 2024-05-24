@@ -1,0 +1,2 @@
+- Lots of suprising things happen to me
+- Lots of people care what I think
