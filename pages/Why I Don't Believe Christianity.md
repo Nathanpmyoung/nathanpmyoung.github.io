@@ -1,2 +1,9 @@
 - [[Blog]]
+- I was a Christian for 15 years, making something like a confession of faith at 12ish, though I guess I believed before then and leaving at 25. I believed it, reading my Bible and comptemplating deeply, praying in fraught situations, letting it shape my career and my romantic choices. I preached sermons, offered prayer on the streets, converted one girlfriend, found shelter for the homeless, gone door to door.
+- I say this to say that I got it. I find notions of "Nathan never really understood God" "Nathan never really committed" to be boring. What follows are my actual reasons, which might stand in contrast to the above but both are true.
+- There are four main classes of reasons why I left:
+	- I was unsuccessful, hopeless and without romantic prospects
+	- I was uncomfortable with teaching on women and LGBT+ people
+	-
+	-
 -
