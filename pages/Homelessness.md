@@ -1,2 +1,6 @@
 - I have chatted to 10 - 50 homeless people and known 2-4 well, depending on definitions.
+- In my experience homeless people are very dysfunctional in the same way I am sometimes dysfunctional
+	- Not being good at answering emails
+	- Not having a lot of energy for small tasks
+- I don't think that putting pressure on such people makes it much less likely for them to be homeless. I don't think they are well modelled as people who can't be bothered to work, etc, so much as people who can't gather the minimal set of skills to function in our world (which is increasingly getting more complicated)
 -
