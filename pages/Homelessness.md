@@ -1,0 +1,2 @@
+- I have chatted to 10 - 50 homeless people and known 2-4 well, depending on definitions.
+-
