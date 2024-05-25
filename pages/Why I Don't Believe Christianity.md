@@ -4,6 +4,6 @@
 - There are four main classes of reasons why I left:
 	- I was unsuccessful, hopeless and without romantic prospects
 	- I was uncomfortable with teaching on women and LGBT+ people
-	-
+	- The
 	-
 -
