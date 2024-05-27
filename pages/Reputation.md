@@ -5,5 +5,8 @@
 - Updates are a bit like markets.
 	- Positive pieces are like buying stuff
 	- Hit pieces are like shorts
--
--
+- The update isn't the whole distance but the amount that wouldn't have happened without the update
+- Reputation hedge funds
+- Permissioned distrust
+- Scandal markets
+- Artificial high
