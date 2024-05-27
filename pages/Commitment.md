@@ -1,1 +1,3 @@
-- If your relationship isn't where you want it, seek for more reputational capital
+- Theory (unendrorsed)
+	- If your relationship isn't where you want it, seek for more reputational capital
+		-
