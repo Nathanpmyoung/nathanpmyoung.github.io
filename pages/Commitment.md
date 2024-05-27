@@ -1,3 +1,6 @@
-- Theory (unendrosed)
-	- If your relationship isn't where you want it, seek for more negotiational capital
+- Theory (unendorsed) - If your relationship isn't where you want it, seek for more negotiatiating capital
+	- Women enter long-term monogamous situations without long-term commitment. Sometimes they date someone for 7 years only to find that he doesn't want children, wasting a huge amount of their dating years.
+	- Negotiating the pull back can be difficult - how do you say to someone you have dated for 5 years that you are deeply upset. What if they don't do anything about it? What is the implicit threat?
+	- Under this model it is,
 		-
+			-
