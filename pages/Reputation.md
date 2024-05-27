@@ -6,7 +6,7 @@
 	- Positive pieces are like buying stuff
 	- Hit pieces are like shorts
 - The update isn't the whole distance but the amount that wouldn't have happened without the update
-- Reputation hedge funds
+- News outlets as reputation hedge funds
 - Permissioned distrust
 	- Who do you feel able to criticise?
 - Scandal markets
