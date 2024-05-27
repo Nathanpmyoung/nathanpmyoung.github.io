@@ -1,0 +1,9 @@
+- [[draws/2024-05-26-17-48-23.excalidraw]]
+- Value has both a real and perceived component
+	- This is a little like markets. That PR is the public relationship, reputation is more closely related to value
+	- Links to this https://www.lesswrong.com/posts/SWxnP5LZeJzuT3ccd/pr-is-corrosive-reputation-is-not
+- Updates are a bit like markets.
+	- Positive pieces are like buying stuff
+	- Hit pieces are like shorts
+-
+-
