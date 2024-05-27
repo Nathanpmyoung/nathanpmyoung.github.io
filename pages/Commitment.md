@@ -6,6 +6,4 @@
 			- Under this model, modern men want a friend, a sexual partner someone to help around the house, but they don't necessarily want to long term commit to have children with this person.
 			- Women, if they want children, (or other long term commitments) deeply enjoy a sexual parner, friend and housemate, but can be left stranded if this situation plays out for years
 	- ![image.png](../assets/image_1716829745144_0.png)
-	-
-		-
-			-
+	- There is some deeper question about growth. What is the kind of growth to aim for and how does one get it?
