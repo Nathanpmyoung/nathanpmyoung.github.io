@@ -1,3 +1,3 @@
 - Theory (unendrosed)
-	- If your relationship isn't where you want it, seek for more reputational capital
+	- If your relationship isn't where you want it, seek for more negotiational capital
 		-
