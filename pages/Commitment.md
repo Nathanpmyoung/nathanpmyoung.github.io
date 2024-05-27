@@ -4,6 +4,8 @@
 	- Under this model, the woman should threaten to move out or start dating again.
 		- She is providing "the wife experience" on girlfriend wages. This is very convenient for her (probably male) parner, but means he gets what he wants without her getting what she wants.
 			- Under this model, modern men want a friend, a sexual partner someone to help around the house, but they don't necessarily want to long term commit to have children with this person.
-			- Women, if they want children,
+			- Women, if they want children, (or other long term commitments) deeply enjoy a sexual parner, friend and housemate, but can be left stranded if this situation plays out for years
+	- ![image.png](../assets/image_1716829745144_0.png)
+	-
+		-
 			-
-				-
