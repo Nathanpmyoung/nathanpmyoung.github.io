@@ -1,5 +1,6 @@
-- The coup seems well explained as a conflict between Altman who is strategic and ruthless and the board who are straightforward and clumsy.
+- The coup seems well explained as a conflict between Altman who is strategic and ruthless and the board who were stretched, ruthless and less competent.
 - Toner wrote []Then the counterputsch has removed many of the AI Safety team, one of whom refused to sign the vesting agreement and led to half of the current media storm.
+- Nov 17
 - Toner wrote an article in which she said []. Altman reported was annoyed and slowly moved to have her removed from the board. This seems in character, since we now know employees are not allowed to criticise OpenAI at all if they want to be confident of keeping their vested equity (and the ability to sell it).
 - Bord seizes control
 - Share value
