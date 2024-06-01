@@ -1,0 +1,6 @@
+- [[blog]]
+- [[Katja Grace]] and I spent a while using whiteboards a lot in conversations.
+- They are good
+	- For short term memory
+	- To check steps of reasoning
+	- As an additional source of
