@@ -1,0 +1,4 @@
+- [[blog]]
+- Hahahahahaha lock the doors, it's time to prayer for all these atheists.
+- I kid.
+- Prayer seems better than I
