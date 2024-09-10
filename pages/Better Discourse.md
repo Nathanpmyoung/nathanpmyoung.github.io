@@ -42,9 +42,12 @@
 		- Look at the youtube shows which focus on consensus. The episode with Flat Earthers and Scientists asks questions like "the other side are ill informed" and "I am smarter than the other side" rather than "enquiry is important" "planes fly" etc
 	- Understanding the future is really hard for everyone
 		- It's not clear that there are shortcuts to future knowledge. Political experts are worse than random. [[Expertise]] in general is bad at predicting the future. How many Discourse problems are solved mainly by waiting?
+- What I think about
+	- How to store discussions
 - What I work on
 	- [[Viewpoints]] - a tool to get opinionds on complex topics.
 	- Viewpoints allows people to quickly swipe on statements and allows the questioner to find consensus. Likewise people can make comments to say what  they are uncertain of in the statements.
+	- Writing up discussions - trying to put discussions in a way that can be stored
 - What would success might look like.
 	- A conference run with better discourse processes
 		- [[Manifest]]
