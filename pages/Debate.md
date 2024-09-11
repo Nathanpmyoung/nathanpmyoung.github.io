@@ -5,4 +5,8 @@
 		- We read through each other's documents
 		- Each of us led an hour of discussion, where we could push the other. Using [[LessWrong]]'s dialoguing tool
 	- Takeaways
+		- It felt okay
+		- It was good to have a somewhat adversarial discussion with lots of room to think and breathe
+		- There wasn't a clear "so what"
+		- It pointed out the specific disagreements
 		-
