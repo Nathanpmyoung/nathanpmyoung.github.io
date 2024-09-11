@@ -9,4 +9,9 @@
 		- It was good to have a somewhat adversarial discussion with lots of room to think and breathe
 		- There wasn't a clear "so what"
 		- It pointed out the specific disagreements
-		-
+		- Not clear that we [[Saving progress in debates]] anywhere useful
+- Between [[Garrison Lovely]] and [[Scott Alexander]]
+	- Garrison wrote a long post about [[Prospéra]] in Honduras. Scott responded. Each the responded 1 additional time.
+	- It felt to me like Lovely was more wrong, but in some intangible way
+	- I could have drawn an [[Argument tree]] but somehow that didn't feel good
+	-
