@@ -1,0 +1,4 @@
+- When I use a cool tool but am like "so what?"
+- What is the point of thing thing beyond being interesting? What is the next step? How does this solve my problem
+- Tools with this problem for me
+	- [[Polis]]

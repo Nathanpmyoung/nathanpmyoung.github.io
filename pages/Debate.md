@@ -15,4 +15,14 @@
 	- It felt to me like Lovely was more wrong, but in some intangible way
 	- I could have drawn an [[Argument tree]] but somehow that didn't feel good
 	- I read through the arguments, made a [[Viewpoints]] poll of them - https://viewpoints.xyz/polls/garrison-lovely-scott-alexander-prospera-debate?sort=consensus
-	- ![image.png](../assets/image_1726055416626_0.png)
+	- ![image.png](../assets/image_1726055416626_0.png){:height 613, :width 759}
+	- For me I can feel much more confident in arguing if I see that there is consensus agreement or disagreement on the points I'm making
+	- Possibly this also decouples the discussion from being a [[Discussion proxy war]] where we aren't really discussing the thing at hand.
+	- Takeawas
+		- It feels satisfying to find the points of agreement, disagreement and confusion
+		- Still a bit of a [['So what?' problem]]
+		- I could turn it into a blog
+- Between me and [[Dan Hendryks]
+	-
+-
+-
