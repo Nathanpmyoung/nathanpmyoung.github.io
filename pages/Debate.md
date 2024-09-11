@@ -22,7 +22,13 @@
 		- It feels satisfying to find the points of agreement, disagreement and confusion
 		- Still a bit of a [['So what?' problem]]
 		- I could turn it into a blog
-- Between me and [[Dan Hendryks]
+- Between me and [[Dan Hendryks]]
+	- Hendryks tweeted the following.
+	- ![image.png](../assets/image_1726056429745_0.png){:height 633, :width 638}
+	- This seemed suss to me.
+		- There are lots of clever people trying to build AI bots on [[Manifold]]. Their results seem nowhere near this good
+		- There was no buzz from any of my friends around AI suddenly getting a lot better at forecasting
+		-
 	-
 -
 -
