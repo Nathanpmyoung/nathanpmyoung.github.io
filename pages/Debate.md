@@ -23,12 +23,21 @@
 		- Still a bit of a [['So what?' problem]]
 		- I could turn it into a blog
 - Between me and [[Dan Hendryks]]
-	- Hendryks tweeted the following.
+	- Hendryks [tweeted](https://x.com/DanHendrycks/status/1833152719756116154) the following.
 	- ![image.png](../assets/image_1726056429745_0.png){:height 633, :width 638}
 	- This seemed suss to me.
 		- There are lots of clever people trying to build AI bots on [[Manifold]]. Their results seem nowhere near this good
 		- There was no buzz from any of my friends around AI suddenly getting a lot better at forecasting
-		-
+		- Superhuman doesn't mean "on par with groups of human forecasters working together"
+		- The [[Metaculus]] crowd median is hard to beat without looking at it and I would be surprised if an LLM had, without mainly just extremising.
+	- I made a [market](https://manifold.markets/NathanpmYoung/will-there-be-substantive-issues-wi?r=TmF0aGFucG1Zb3VuZw) to push that I was suspicious.
+		- ![image.png](../assets/image_1726056920874_0.png){:height 450, :width 564}
+		- Hard to overstate how bad this is
+	- Takeaways
+		- Very good discussion in the comments. This feels great and a good place for the discussion to be.
+		- [['So what?' problem]] - How does this result in Hendryks and co changing their behaviour?
+		- How does this [[Saving progress in debates]]
+		- How to create a space where [[Status]] is given to those who bet and win? [[Public figure forecasting leaderboard]]
 	-
 -
 -
