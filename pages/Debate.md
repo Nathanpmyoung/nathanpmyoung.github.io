@@ -2,4 +2,7 @@
 	- Ben and I did a private debate on whether EA should shut down.
 	- The format was as follows
 		- Each of us wrote a 1 page document
+		- We read through each other's documents
+		- Each of us led an hour of discussion, where we could push the other. Using [[LessWrong]]'s dialoguing tool
+	- Takeaways
 		-
