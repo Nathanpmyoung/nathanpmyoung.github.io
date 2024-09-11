@@ -1,0 +1,5 @@
+- With [[Ben Pace]]
+	- Ben and I did a private debate on whether EA should shut down.
+	- The format was as follows
+		- Each of us wrote a 1 page document
+		-
