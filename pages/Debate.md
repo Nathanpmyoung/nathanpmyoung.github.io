@@ -14,4 +14,5 @@
 	- Garrison wrote a long post about [[Prospéra]] in Honduras. Scott responded. Each the responded 1 additional time.
 	- It felt to me like Lovely was more wrong, but in some intangible way
 	- I could have drawn an [[Argument tree]] but somehow that didn't feel good
-	-
+	- I read through the arguments, made a [[Viewpoints]] poll of them - https://viewpoints.xyz/polls/garrison-lovely-scott-alexander-prospera-debate?sort=consensus
+	- ![image.png](../assets/image_1726055416626_0.png)
