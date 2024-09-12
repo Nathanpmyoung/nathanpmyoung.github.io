@@ -11,4 +11,11 @@
 		- The graph feels good. If it were trustworthy it would feel better
 		- Perhaps [[Community Notes]] should score what % of people's posts get noted
 - v2
-	-
+	- Have this graph as the top of a website
+	- Anyone can submit statements
+	- Others can add context and vote on them, as per community notes
+		- Does this require X login to work?
+		- How do we know how different people are so as to do the clustering?
+	- Get 10 people to say they'll use the site while the debate is happening
+	- Others use it and vote
+	- There is a median of votes for each candidate
