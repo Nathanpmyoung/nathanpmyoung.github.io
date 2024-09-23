@@ -1,4 +1,8 @@
 - [[Discussion]] between Nathan and Bronson
-- Bronson - my company just hired a Russian, we are all very upset
-- Nathan - in general, I think companies should not discriminate on the basis of nationality
-- Bronson
+	- Bronson: My company just hired a Russian, we are all very upset
+	- Nathan: In general, I think companies should not discriminate on the basis of nationality
+	- Bronson: And what if none of us will work if we have a Russian working here?
+	- Nathan: Is this a Russian who believes that Russia should have attacked Ukraine?
+	- Bronson: It's a Russian. They are all like that that. Should I invest 10 hours figuring out if they are a rare good Russian?
+	- Nathan: I still think that companies should hire without thought to race, religion, sexuality, nationality.
+	- Bronson: Russians are different though.
