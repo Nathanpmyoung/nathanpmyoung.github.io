@@ -13,4 +13,4 @@
 	- Kirk: Killing a human life is mudrer.
 	- [If the student says yes here the discussion is basically done]
 	- Student: Uh, no. I can think of several times that killing a person isn't murder, eg home defence.
-	- Kirk: Sure but a
+	-

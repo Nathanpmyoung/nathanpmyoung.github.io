@@ -1,0 +1,12 @@
+- What to discuss twice
+- Want to discuss once
+	- Should we slow down AI
+	- Abortion
+	- Is God real?
+	- Will Tesla have full self-driving before Waymo
+	- Is the UK building houses a top priority
+	- If people can learn just 1 economic fact, what should it be
+	- Foundations criticism
+	- Most things have gotten better except for animal welfare and AI
+	- We should focus on bednets not Gaza
+	-
