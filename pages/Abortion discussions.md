@@ -1,0 +1,16 @@
+- A set of [[Discussion]]s about abortion
+- [[Charlie Kirk]] discusses with 20 "woke" students about whether abortion should be punished like murder. This is a synthesis of the parts of the discussion I found most interesting.
+	- Kirk: Let's start with definitions.
+	- Student: Sure
+	- Kirk: A foetus is a human life.
+	- Student: Sure [or]
+		- Student: Sure past a certain point.
+		- Kirk: What point?
+		- Student: 16 - 20 weeks
+		- Kirk: Why not earlier?
+	- Kirk: Murder should be punished.
+	- Student: Sure
+	- Kirk: Killing a human life is mudrer.
+	- [If the student says yes here the discussion is basically done]
+	- Student: Uh, no. I can think of several times that killing a person isn't murder, eg home defence.
+	- Kirk: Sure but a
