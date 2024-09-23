@@ -1,0 +1,4 @@
+- [[Discussion]] between Nathan and Bronson
+- Bronson - my company just hired a Russian, we are all very upset
+- Nathan - in general, I think companies should not discriminate on the basis of nationality
+- Bronson
