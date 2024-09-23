@@ -11,6 +11,6 @@
 	- Nathan: Hmmm, I guess I would favour companies being able to have more of their own norms, whether that be more progressive or more ladsy. I doubt I would run a company like this but I guess they should exist.
 	- Bronson: And what would you do if we wouldn't work?
 	- Nathan: I guess I wouldn't hire people who would withdraw their labour if we hired any extra person. I think people of any political beliefs should be able to work, as long as they do a good job and are polite.
-	- Bronson: You don't know what they world is like
+	- Bronson: You don't know what the world is like
 - Poll: https://viewpoints.xyz/polls/should-companies-be-able-to-discriminate-against-russians
 -
