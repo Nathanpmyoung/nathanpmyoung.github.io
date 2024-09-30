@@ -1,0 +1,3 @@
+- Accuracy
+- Standards
+- My negotiation
