@@ -1,13 +1,15 @@
 - Advice for reporters
 - *How to be a journalist I respect*
+- I interact with journalists quite a lot and so I have developed taste. Not just for articles, but for behaviour. And journalists do behave pretty strangely at times.
+- Disregard for Privacy and Information Integrity
+- I do not trust journalists to abide by norms of privacy. If I talk to a friend and then share what they said, with their name attached, I expect they'd be upset. But journalists regularly act as if their profession sets up the opposite norm - that everything is publishable, unless explicitly agreed otherwise. This is bizarre to me. It's like they have taken a public oath to be untrustworthy.
+- Moreover, this isn't how norms work. I can't unilaterally decide that I get to break norms. But journalists have and do. And worse, if challenged on this, many will deny it. It's not just the norm
+- I do not trust journalists to convey information accurately. If I tell a journalist X, I have to take great lengths to ensure that if my name is written it is attached to X and not some related statement. And journalists do not act as if they are misbehaving here, instead just doing their jobs, misreporting things I say.
 -
 - Accuracy
 - Reporters often prioritize precision over overall accuracy, potentially compromising the accuracy of their reporting. Many reporters believe their job is to ensure every sentence they write is true, rather than aiming for an accurate piece overall. This approach can lead to a false sense of certainty and often mislead readers. By focusing solely on statements they can justify, journalists risk creating articles that implicitly convey points they wouldn't endorse.
 - A more effective approach would be to embrace probability and uncertainty in reporting. Using words like "probably" and "maybe" more frequently could lead to articles that are more accurate overall, even if individual sentences are less definitive. This method would better reflect the complex nature of many news stories where there isn't clear evidence of many aspects of a story.
 - Many reporters are happy to retweet or quote dubious information. Their standards for "what can be reported" sometimes allow an inaccurate quote to be shared to millions of people. When questioned on this, their defence is that it is literally true that someone said this, or that the person who reported it is trustworthy. In this way they launder inaccuracy that they would not write in their own voice
-- Disregard for Privacy and Information Integrity
-- I do not trust journalists to abide by norms of privacy. It is acceptable to quote someone who would not reasonably be speaking to the whole world because they are saying something newsworthy. This is bizarre to me. It's like they have taken a public oath to be untrustworthy. But if challenged on this, many will deny it.
-- I do not trust journalists to convey information accurately. If I tell a journalist X, I have to take great lengths to ensure that if my name is written it is attached to X and not some related statement. And journalists do not act as if they are misbehaving here, instead just doing their jobs, misreporting things I say.
 - Personal Mitigation Strategies
 - I lose respect for journalists who consistently spread inaccuracies, whether they wrote them or are quoting others. I do not accept mealy mouthed words about how it's just normal or this other person is respected. If you publish something, I consider it a bet by you on it being true. If it is false, I deduct money from your social score.
 - Likewise, if i am to give reporters quotes, I require them to take responsibility for their headlines.
