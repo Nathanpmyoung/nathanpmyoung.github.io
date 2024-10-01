@@ -1,3 +1,6 @@
+- Advice for reporters
+- *How to be a journalist I respect*
+-
 - Accuracy
 - Reporters often prioritize precision over overall accuracy, potentially compromising the accuracy of their reporting. Many reporters believe their job is to ensure every sentence they write is true, rather than aiming for an accurate piece overall. This approach can lead to a false sense of certainty and often mislead readers. By focusing solely on statements they can justify, journalists risk creating articles that implicitly convey points they wouldn't endorse.
 - A more effective approach would be to embrace probability and uncertainty in reporting. Using words like "probably" and "maybe" more frequently could lead to articles that are more accurate overall, even if individual sentences are less definitive. This method would better reflect the complex nature of many news stories where there isn't clear evidence of many aspects of a story.
