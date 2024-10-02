@@ -28,7 +28,7 @@
 - My personal stance
 - I lose respect for journalists who consistently spread inaccuracies, whether they wrote them or are quoting others. I do not accept mealy-mouthed words about how it's just normal or this other person is respected. If you publish something, I consider it a bet by you on it being true. If it is false, I deduct money from your social score.
 - Likewise, if i am to give reporters quotes, I require them to take responsibility for their headlines.
-- ![image.png](../assets/image_1727694210948_0.png)
+- ![image.png](../assets/image_1727694210948_0.png){:height 231, :width 778}
 - I have done this twice. One journalist was happy to accept responsibility and I gave them a quote, another wasn't and I didn't.
 - Finally, encouraging journalists to use prediction markets and forecasting tools can help improve the overall quality of reporting. These methods allow reporters to better calibrate their understanding of world events and increase the accuracy of their predictions. By promoting the use of such tools, we can foster a journalistic culture that values accuracy and accountability over sensationalism and unverified claims.
 - Journalists exist to help us understand the world. But if you are a journalist, you have to be good enough to deserve the name. If not, you didn't have to be a journalists. If you are a commentator, seek ideas that might be relevant in the next 5 years. If you are a reporter, give me an accurate view of the world as it is and will be. And focus overall on "is the story's main narrative a thing that's well calibrated to reality".
