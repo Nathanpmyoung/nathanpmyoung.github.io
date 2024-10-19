@@ -1,0 +1,5 @@
+- https://situational-awareness.ai/from-gpt-4-to-agi/
+- What parts of this could be turned into predictions?
+	- "We are racing through the OOMs extremely rapidly, and the numbers indicate we should expect another ~100,000x effective compute scaleup—resulting in another GPT-2-to-GPT-4-sized qualitative jump—over four years"
+	- What does it mean to have "models as smart as PhDs or experts that can work beside us as coworkers"
+	-
