@@ -8,5 +8,6 @@
 	- "I thought you were a guy" "Most guys do"
 	- "Welcome to the desert of the real"
 	- "I know kung fu"
+	- "everything the body needs"
 - Might be more interesting if the robots were just bored
 - The graphics are fine even though they are bad. The real and graphics are well delineated
