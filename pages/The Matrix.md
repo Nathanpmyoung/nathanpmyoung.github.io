@@ -1,0 +1,9 @@
+- [[Film]]
+- I recall that all the colour was actually on set, rather than filters or editing.
+- The film is so gritty
+- Almost feels more real these days.
+- Pretty long scenes
+- The battery thing does't make sense but I guess it's hard to make AI need to keep humans around
+- "Welcome to the desert of the real" [[The Matrix]] [[Quote]]
+- Might be more interesting if the robots were just bored
+-

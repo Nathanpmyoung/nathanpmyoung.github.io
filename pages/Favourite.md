@@ -1,7 +1,7 @@
 aliases:: things I love
 
 - Things I think are wonderful.
-- [[film]]
+- [[Film]]
 	- [[The Prestige]]
 - [[documentary]]
 	- [[Tickled]]
