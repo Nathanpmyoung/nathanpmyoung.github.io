@@ -1,0 +1,52 @@
+- My case that Trump was attempting a coup:
+	- Trump set up slates of alternate electors to vote for him
+	  		-
+	  	- He was pressuring Pence to ratify these alternative slates rather than the slates which matched the counted votes
+	  	- Trump organised a protest on the day of ratification to  pressure Pence
+	  		- Memo [not trump] pushed for pence to send stuff back
+	  		- Cheney in her book - Chapter 9, fake electors
+	  			- "Ellis gave some examples of what Pence could say. For example, she suggested, Pence might announce, "I don't have in front of me a certification from these states" or "Which of these two slates have been certified as correct?" Then the vice president could refuse to count any votes for those states. This would, of course, have thrown our nation into turmoil."
+	  			- "I had been hearing the false claims of fraud and the lies about what was constitutionally permissible on January 6 for weeks now, but this was the first time I had heard such a detailed description of how Donald Trump and his supporters actually planned to put their false claims into action. Ellis's description of what they anticipated the vice president would do was alarming: Was Mike Pence really going to stand at the dais in the House of Representatives and try to steal the 2020 election?"
+	  		- Rally organizer Kylie Kremer (daughter of [Amy Kremer](https://en.wikipedia.org/wiki/Amy_Kremer)) texted MyPillow CEO [Mike Lindell](https://en.wikipedia.org/wiki/Mike_Lindell): "This stays only between us, we are having a second stage at the Supreme Court again after the ellipse. POTUS is going to have us march there/the Capitol. It cannot get out about the second stage because people will try and set up another and Sabotage it. It can also not get out about the march because I will be in trouble with the national park service and all the agencies but the POTUS is going to just call for it ‘unexpectedly.’ If anyone tells you otherwise, it’s not accurate info. Only myself and [name of White House liaison, redacted by Inspector General for the Interior Department] know full story of what is actually happening and we are having to appease many people by saying certain things."[[138]](https://en.wikipedia.org/wiki/Timeline_of_the_January_6_United_States_Capitol_attack#cite_note-:16-139)
+	  			- She is later found guilty of lying here
+	  		- "I hope Mike pence comes through for us" 2:26 https://x.com/ABCPolitics/status/1459907865217486850
+	  		- You said "You can be a patriot or you can be a pussy" "I wouldn't dispute it"
+	  		- "If Mike Pence does the right thing, we win the election. If he doesn't that will be a sad day for our country"
+	  		-
+	  		- How had he previously pressured pence?
+	  		-
+	  	- Protestors broke into the capitol, some threatening to capture and hang Pence
+	  		- "Hang Mike Pence"
+	  		- After they broke in to the Capitol, Trump tweeted the following "Mike Pence didn’t have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth!" - https://americanoversight.org/timeline/224-p-m/
+	  		-
+	  	- During the riots, it took Trump hours to call them off
+	  	- Trump claimed he won the election for long afterwards
+	  	- If these slates of electors, who did not match the popular vote had been ratified, Trump would  have gone along with it
+	  	- This is enough for the the common definition of a coup
+	  - Counters
+	  	- Full text
+	  		- "alternative electors are not unprecedented and have disputable legal merit. trump gave no indication of provoking what happened at the capitol. calling off people who weren’t looking to him at the time, could also be incompetence or pettiness, not coup intent."
+	  		- "did he advocate for anything that was illegal, unprecedented, or singularly decisive? i’m not fully sold either way on the coup, but lean against because of a few key details and sources of narratives."
+	  		- "To note, I voted yes on the second poll question but would have voted  no had it used the OP's wording, because I'm not aware of evidence that Trump organised the protest in order to pressure Pence (nor it is obvious absent evidence)."
+	  		- Say there really was significant provable fraud. The solution is not a coup but to have a congressional investigation before congress certifies the result.  I think this is what Trump was going for.
+	  		- I don't think it is about completely shutting the border, it is about barring BS asylum claims when running across the border not at a control point. At least that is the aspect I care about, and Trump's EO dealt with that.
+	  		- the strategy was to delay the standard process in order to extend the process to one or a combo of three other legitimate contingency processes, back to Congress, back to the states, to the Supreme Court. none are extra-legal or illegitimate as you’d expect in a coup.**
+	  		-
+	  	- Why wasn't national guard deployed
+	  	- Alternative electors are standard
+	  		- There are precednets but they are very different
+	  			- What other precedents are there
+	  		- Were the disputes already resolved?
+	  			- Contrast with the Gore case
+	  	- Trump gave no indication of provoking
+	  		- The permit was for 30,000 protestors, but 120,000 protestors show up, according to [Newsweek](https://www.newsweek.com/exclusive-classified-documents-reveal-number-january-6-protestors-1661296)
+	  		- "I know that everyone here will soon be marching over to the Capitol building to peacefully and patriotically make your voices heard."
+	  		- Here’s what President Trump did during the 187 minutes between the end of his speech and when he finally told rioters to go home: For hours, he watched the attack from his TV screen. His channel of choice was Fox News. He issued a few tweets, some on his own inclination and some only at the repeated behest of his daughter and other trusted advisors. He made several phone calls, some to his personal lawyer Rudolph Giuliani, some to Members of Congress about continuing their objections to the electoral certification, even though the attack was well underway. Here’s what President Trump did not do: He did not call any relevant law enforcement agency to ensure they were working to quell the violence. He did not call the Secretary of Defense; he did not call the Attorney General; he did not call the Secretary of Homeland Security. And for hours on end, he refused the repeated requests—from nearly everyone who talked to him—to simply tell the mob to go home.
+	  		- 2:11 the rioters breach the doors.
+	  		- 4:03 Trump begins to record message telling rioters to go home.
+	  		- "Big tech is now coming into their own. We beat them four years ago. We surprised them. We took them by surprise and this year they rigged an election. They rigged it like they've never rigged an election before. And by the way, last night they didn't do a bad job either if you notice."
+	  		- "So we're going to, we're going to walk down Pennsylvania Avenue. I love Pennsylvania Avenue. And we're going to the Capitol, and we're going to try and give. The Democrats are hopeless — they never vote for anything. Not even one vote. But we're going to try and give our Republicans, the weak ones because the strong ones don't need any of our help. We're going to try and give them the kind of pride and boldness that they need to take back our country. So let's walk down Pennsylvania Avenue."
+	  		- "And we fight. We fight like hell. And if you don't fight like hell, you're not going to have a country anymore."
+	  		- Waiting X hours
+	  		-
+	  	-
