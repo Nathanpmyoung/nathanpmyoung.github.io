@@ -4,6 +4,9 @@
 - Almost feels more real these days.
 - Pretty long scenes
 - The battery thing does't make sense but I guess it's hard to make AI need to keep humans around
-- "Welcome to the desert of the real" [[The Matrix]] [[Quote]]
+- [[The Matrix]] [[Quote]]
+	- "I thought you were a guy" "Most guys do"
+	- "Welcome to the desert of the real"
+	- "I know kung fu"
 - Might be more interesting if the robots were just bored
--
+- The graphics are fine even though they are bad. The real and graphics are well delineated
