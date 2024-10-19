@@ -1,6 +1,6 @@
 - Discourse is when people are talking about a thing. Sometimes I capitalise it, to refer to the twitter discourse that is happening right now - *The Discourse*
 - What are examples of discourse?
-  SB 1047. It was rare to see opinions change. I came to understand perhaps 5 - 10 people’s views and I can’t recall anyone changing their mind as a result of discourse. I changed my mind a bit.
+	- SB 1047. It was rare to see opinions change. I came to understand perhaps 5 - 10 people’s views and I can’t recall anyone changing their mind as a result of discourse. I changed my mind a bit.
 	- AI discourse. Over time, people seem to slowly move in the AI is a risk direction.
 	- Yudkowsky Christiano discussion. Few [clear] outputs.
 	- Personal discussions. I have held 10s of discussion on immigration, theism, US politics, abortion. It is not easy to recall many cases where someone acknowledged they changed their mind.
