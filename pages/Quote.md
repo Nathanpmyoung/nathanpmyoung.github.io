@@ -44,4 +44,4 @@
 - That quote about people who see blue and green - [[Eleizer Yudkowsky]]
 - Hit the bricks [[Scott Alexander]]
 - [[Eleizer Yudkowsky]] [[Planecrash]] Try things the easy way first, if you succeed, you won't need to try them the difficult way. If you fail you'll know the first part that makes it difficult instead of guessing it in advance.
-- [[Warhammer 40k]] The planet broke before the guard did
+- [[Warhammer 40k]] The planet broke before the Guard did.
