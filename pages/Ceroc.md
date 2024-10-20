@@ -1,4 +1,6 @@
-- *Ceroc is a simple dance style that provides a fun evening. There are a number of places across [[London]] that run it. I was inspired by [[Richard Ngo]] to take up dancing as fun [[Cardio]]. *
+- *Ceroc is a simple dance style that provides a fun evening. There are a number of places across [[London]] that run it. I was inspired by [[Richard Ngo]] to take up dancing as fun [[Cardio]]. If you're interested, check out [ceroc.com](https://www.ceroc.com/)*
+- What the classes are like
+	-
 - Preamble
 	- IIUC there are a number of styles of dance that use these same moves, but Ceroc is laxer on footwork and the "basic" which is the step you can do when you aren't doing a move.
 - Moves
