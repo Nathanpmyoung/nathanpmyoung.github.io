@@ -1,6 +1,6 @@
 - [[Ceroc]]
-- I've taken up dancing recently and I think there are many interesting things about the way the dance class is run. I think people don't just write down experiences enough. Your life is interesting! I want to read about it.
-- [[Ceroc]] is a simple partner dance, with a lead and a follow who roughly stick to single line of ground.
+- I've taken up dancing recently and I think there are many interesting things about the way the dance class is run. Sit back, turn off your phone and experience.. Ceroc.
+- [[Ceroc]] is a simple partner dance, with a lead and a follow who roughly stick to single patch of floor. At my group there are about
 -
 - I would like to talk you through a dance class and then discuss all the things that I think are interesting about the way this dance class is run. Many of which I think have been fashioned from running many classes and therefore might be of value to somebody running events.
 - The dance class has a three-part structure. There is a beginner's class with a little bit of dance after it, an intermediate class and then a free dance set path. Beginners are told to arrive a bit early. The class in many aspects is always identical. The beginner's class, the first 15 minutes is just teaching you about the most basic steps, like called a basic, which is basically just holding somebody's hands and moving in and out. Every single week they run this most basic of most basic parts of the session.
