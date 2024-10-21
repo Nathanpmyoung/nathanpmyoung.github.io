@@ -8,6 +8,7 @@
 		- https://www.community-archive.org/
 	- Get [[X]] to show top bridging tweets in [[Grok]] summaries
 	- Look at most bridging comments on [[LessWrong]]
+- How does bridging actually work mathematically?
 - Experts
 	- [[Luke Thorburn]]
 	-
