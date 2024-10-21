@@ -1,5 +1,9 @@
 - [[Film]]
-- I recall that all the colour was actually on set, rather than filters or editing.
+- A lot of the colour is created by objects on set (though there was large colour grading 2008) [link](https://www.youtube.com/watch?v=KEdgmNZnLs4)
+- [[Dichotomy]]
+	- Real vs Simulation
+	- Fate vs Choice
+	-
 - The film is so gritty
 - Almost feels more real these days.
 - Pretty long scenes
