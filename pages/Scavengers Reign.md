@@ -1,3 +1,12 @@
 - [[TV]]
-- Visually stunning.
-- Immerssevely pretty dead. The characters are like large children, eating and licking things on an alien planet, fighting one another. I
+- Visually stunning. Some of the most beautiful sci-fi animation I've ever seen.
+- Commitment to an alien world. In particular, many creatures and plants work together in surprising ways
+- Immersively pretty dead. The characters are like large children, eating and licking things on an alien planet, fighting one another. I struggled to really care about a group of people acting so stupidly.
+- Some ways characters were dumb:
+	- Not collecting extra resources for travel
+	- Not wearing extra layers in a dangerous alien planet
+	- Not fashioning weapons
+	- Not creating protocols to check for scratches etc
+	- Not guarding their valuable resources carefully
+- I don't think "It was like a dream" is a good thing for a 12 episode series to be. I am rarely emotionally engaged in a dream.
+- A useful counterexample for [[Rational fiction]] in that it seems like something I'd like but ultimately felt thin.
