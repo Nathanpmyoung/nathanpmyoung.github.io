@@ -1,4 +1,4 @@
-- It isn't clear to me that PR is better.
+- It isn't clear to me that [[Proportional Representation]] is better.
 - Little bits of research by country
 	- UK
 		- Government stay in power for a long time, are always able to get bills through.
@@ -10,5 +10,6 @@
 		- 1 Kiwi I know likes it
 	- German
 		- Currently really struggling, in a very predictable way (not enough energy)
-		-
+- Does [[Tactical Voting]] lessen the need for voting change
 	-
+-
