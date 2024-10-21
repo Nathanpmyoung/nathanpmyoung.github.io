@@ -1,0 +1,3 @@
+- [[TV]]
+- Visually stunning.
+- Immerssevely pretty dead. The characters are like large children, eating and licking things on an alien planet, fighting one another. I

@@ -1,17 +1,20 @@
 - [[Film]]
-- A lot of the colour is created by objects on set (though there was large colour grading 2008) [link](https://www.youtube.com/watch?v=KEdgmNZnLs4)
 - [[Dichotomy]]
-	- Real vs Simulation
-	- Fate vs Choice
-	-
-- The film is so gritty
-- Almost feels more real these days.
-- Pretty long scenes
-- The battery thing does't make sense but I guess it's hard to make AI need to keep humans around
+	- Real vs [[Simulation]]
+	- [[Fate]] vs Choice
+	- Those fighting the system vs. those inside it
+	- Dominance vs Submission
+- The matrix seems to have aged well on [[AGI]] because it focuses primarily on an aspects which are still relevant - AI agents, choice, alignment, conflict, simulations.
 - [[The Matrix]] [[Quote]]
 	- "I thought you were a guy" "Most guys do"
 	- "Welcome to the desert of the real"
 	- "I know kung fu"
 	- "everything the body needs"
-- Might be more interesting if the robots were just bored
-- The graphics are fine even though they are bad. The real and graphics are well delineated
+- Thoughts while watching
+	- The film is so gritty
+	- Almost feels more real these days.
+	- Pretty long scenes
+	- The battery thing does't make sense but I guess it's hard to make AI need to keep humans around
+	- Might be more interesting if the robots were just bored and so created the humans for that reason
+	- The graphics are fine even though they are bad. The real and graphics are well delineated
+- The film has been graded several times so it's hard to know what the film *should* look like [link](https://www.youtube.com/watch?v=KEdgmNZnLs4)
