@@ -1,6 +1,6 @@
 - My case that Trump was attempting a coup:
 	- Trump set up slates of alternate electors to vote for him
-	  	- He was pressuring Pence to ratify these alternative slates rather than the slates which matched the counted votes
+	- He was pressuring Pence to ratify these alternative slates rather than the slates which matched the counted votes
 	  	- Trump organised a protest on the day of ratification to  pressure Pence
 	  		- Memo [not trump] pushed for pence to send stuff back
 	  		- Cheney in her book - Chapter 9, fake electors

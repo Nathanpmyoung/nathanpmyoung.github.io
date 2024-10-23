@@ -1,11 +1,11 @@
 - Things that maybe matter for the future
 	- [[War with China]]
-	- [[Nuclear War]]
 	- [[AI]]
-	- [[Will Climate Change destabilise the world]]
 	- [[Where will GDP be in 10 years]]
 	- [[How much do animals suffer]]
 	- [[How to think about future things?]]
 	- [[How much are these community or elite questions?]]
+	- [[Will Climate Change destabilise the world]]
+	- [[Nuclear War]]
 -
 -
