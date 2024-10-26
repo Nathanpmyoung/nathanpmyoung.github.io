@@ -10,4 +10,5 @@
 		- Regulation
 		- Improving humans
 		- Compute for running models, not agents
-		-
+		- The more quickly new tech appears, the less return on it
+		- AI being used for a wide range of things, as opposed to just more AI
