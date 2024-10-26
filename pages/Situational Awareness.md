@@ -2,4 +2,12 @@
 - What parts of this could be turned into predictions?
 	- "We are racing through the OOMs extremely rapidly, and the numbers indicate we should expect another ~100,000x effective compute scaleup—resulting in another GPT-2-to-GPT-4-sized qualitative jump—over four years"
 	- What does it mean to have "models as smart as PhDs or experts that can work beside us as coworkers"
-	-
+- Notes
+	- Seems to underrate
+		- Multiple counting
+		- Separate labs slowing down
+		- Processese that can't happen in parallel (learning from big runs, improving AI agents)
+		- Regulation
+		- Improving humans
+		- Compute for running models, not agents
+		-
