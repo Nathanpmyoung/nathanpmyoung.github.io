@@ -1,79 +1,79 @@
 - by [[Rudyard Kipling]]
-- *If you can keep your head when all about you*
-  *Are losing theirs and blaming it on you*
+- _If you can keep your head when all about you_
+  _Are losing theirs and blaming it on you_
 	- So far so good
-- *If you can trust yourself when all men doubt you,*
-  *But make allowance for their doubting too;*
+- _If you can trust yourself when all men doubt you,_
+  _But make allowance for their doubting too;_
 	- This pair is bang on. I want to be well calibrated in how seriously I take others doubting.
-- *If you can wait and not be tired by waiting,*
-  *Or being lied about, don’t deal in lies,*
+- _If you can wait and not be tired by waiting,_
+  _Or being lied about, don’t deal in lies,_
 	- The line above is sort of a game theory question. Is it ever warranted to lie about those who lie about you? I guess so. Lying seems comparable to hitting, and it's sometimes acceptable to hit those who hit you.
-- *Or being hated, don’t give way to hating,*
+- _Or being hated, don’t give way to hating,_
 	- This one seems less symmetric, since hate can ruin me.
-- *And yet don’t look too good, nor talk too wise:*
+- _And yet don’t look too good, nor talk too wise:_
   
-  *If you can dream—and not make dreams your master;  
-  If you can think—and not make thoughts your aim;*
+  _If you can dream—and not make dreams your master;  
+  If you can think—and not make thoughts your aim;_
 	- I love this pair. Gets to the heart of something. Thinking is useful but it's not the point. Very "void"-y from [[12 virtues of rationality]] - if I point to the thing we're aiming at you'll hear it wrong and then miss it.
-- *If you can meet with Triumph and Disaster*
-  *And treat those two impostors just the same;*
+- _If you can meet with Triumph and Disaster_
+  _And treat those two impostors just the same;_
 	- Here I begin to break with the poem. No, triumph is good actually. I like stoicism, but I think even stoics usually want joy and success.
-- *If you can bear to hear the truth you’ve spoken*
-  *Twisted by knaves to make a trap for fools,*
-  *Or watch the things you gave your life to, broken,*
-  *And stoop and build ’em up with worn-out tools:*
+- _If you can bear to hear the truth you’ve spoken_
+  _Twisted by knaves to make a trap for fools,_
+  _Or watch the things you gave your life to, broken,_
+  _And stoop and build ’em up with worn-out tools:_
   
-  *If you can make one heap of all your winnings
-  And risk it on one turn of pitch-and-toss,*
+  _If you can make one heap of all your winnings_
+  _And risk it on one turn of pitch-and-toss,_
 	- Very [[SBF]]. This one seems most of the mark. No. Do not do this, son. First of all the [[Expected Value]] is the same (or in a casino less), so you have better trades. Secondly, this is a quick way go bankrupt a lot of the time. I think
-- And lose, and start again at your beginnings
-  And never breathe a word about your loss;
-  If you can force your heart and nerve and sinew
-  To serve your turn long after they are gone,  
+- _And lose, and start again at your beginnings_
+  _And never breathe a word about your loss;_
+  _If you can force your heart and nerve and sinew_
+  _To serve your turn long after they are gone,_
+  _And so hold on when there is nothing in you_
+  _Except the Will which says to them: ‘Hold on!’_
+  
+  _If you can talk with crowds and keep your virtue,_
+  _Or walk with Kings—nor lose the common touch,_
+  _If neither foes nor loving friends can hurt you,_
+  _If all men count with you, but none too much;_
+  _If you can fill the unforgiving minute_
+  _With sixty seconds’ worth of distance run,_
+  _Yours is the Earth and everything that’s in it,_
+  _And—which is more—you’ll be a Man, my son!_
+- My version:
+- _If you can keep your head when all about you_ 
+   Are losing theirs and blaming it on you,  
+  If you can trust yourself when all men doubt you,
+  But make allowance for their doubting too;  
+  If you can wait and not be tired by waiting,
+  Or being lied about, don't match their sin,
+  Or being hated, don’t give way to hating,
+  But don't be so weak as to never win;
+  
+  If you can dream—and not make dreams your master;  
+   If you can think—and not make thoughts your aim;  
+  If you can meet with Triumph and Disaster
+  And on the morrow greet the day the same;
+  If you can bear to hear the truth you’ve spoken
+  Twisted by knaves to make a trap for fools,
+  Or watch the things you gave your life to, broken,
+  And stoop and build ’em up with worn-out tools:
+  
+  If you can grow a pile from small beginnings,
+  Taking chances when they may arise;
+  And lose, and start anew, with shortened innings,
+  And only speak to learn if it was wise;
+  If you can drive your heart and nerve and sinew
+  To serve your goals in moments you endorse,  
   And so hold on when there is nothing in you
-  Except the Will which says to them: ‘Hold on!’
+  Except the Will which cries to hold its course.
   
   If you can talk with crowds and keep your virtue,  
-  Or walk with Kings—nor lose the common touch,
-  If neither foes nor loving friends can hurt you,
-  If all men count with you, but none too much;
+   Or walk with Kings—nor lose the common touch,
+  If sanity won't, under strain, desert you,
+  If all facts count with you, but none too much;
   If you can fill the unforgiving minute
   With sixty seconds’ worth of distance run,  
   Yours is the Earth and everything that’s in it,  
-  And—which is more—you’ll be a Man, my son!
--
-- If you can keep your head when all about you   
-      Are losing theirs and blaming it on you,   
-  If you can trust yourself when all men doubt you,
-      But make allowance for their doubting too;   
-  If you can wait and not be tired by waiting,
-      Or being lied about, don’t deal in lies,
-  Or being hated, don’t give way to hating,
-      And yet don't [don't be so weak as to never push back]:
-  
-  If you can dream—and not make dreams your master;   
-      If you can think—and not make thoughts your aim;   
-  If you can meet with Triumph and Disaster
-      And in both cases rise to face the day;   
-  If you can bear to hear the truth you’ve spoken
-      Twisted by knaves to make a trap for fools,
-  Or watch the things you gave your life to, broken,
-      And stoop and build ’em up with worn-out tools:
-  
-  If you can grow from meagre beginnings
-      Amass a pile from  of pitch-and-toss,
-  And lose, and start again at your beginnings
-      And only speak to learn about your loss;
-  If you can force your heart and nerve and sinew
-      To serve your turn long after they are gone,   
-  And so hold on when there is nothing in you
-      Except the Will which says to them: ‘Hold on!’
-  
-  If you can talk with crowds and keep your virtue,   
-      Or walk with Kings—nor lose the common touch,
-  If neither foes nor loving friends can hurt you,
-      If all men count with you, but none too much;
-  If you can fill the unforgiving minute
-      With sixty seconds’ worth of distance run,   
-  Yours is the Earth and everything that’s in it,   
-      And—which is more—you’ll be a Man, my son!
+   And—which is more—you’ll be a Man, my son!
