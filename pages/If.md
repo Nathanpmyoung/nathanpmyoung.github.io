@@ -84,5 +84,5 @@
 	- [^11]: Kipling seems to thing being a man is about having a heart of stone. I don't actually believe he thinks this, so don't say it!
 	- [^12]: I don't know what this means
 	- [^13]: Banger
-	- [^14]: A tad imperialist for my tastes
+	- [^14]: A tad imperialist for my tastes, but I can't figure out how to replace it
 	- [^15]: I think this is a nice reveal - not only do you get the things you want, you also get Kipling's respect
