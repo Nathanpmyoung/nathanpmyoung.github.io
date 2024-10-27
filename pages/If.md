@@ -1,27 +1,32 @@
 - by [[Rudyard Kipling]]
-- If you can keep your head when all about you  
-  Are losing theirs and blaming it on you
-- This seems
+- *If you can keep your head when all about you*
+  *Are losing theirs and blaming it on you*
+	- So far so good
+- *If you can trust yourself when all men doubt you,*
+  *But make allowance for their doubting too;*
+	- This pair is bang on. I want to be well calibrated in how seriously I take others doubting.
+- *If you can wait and not be tired by waiting,*
+  *Or being lied about, don’t deal in lies,*
+	- The line above is sort of a game theory question. Is it ever warranted to lie about those who lie about you? I guess so. Lying seems comparable to hitting, and it's sometimes acceptable to hit those who hit you.
+- *Or being hated, don’t give way to hating,*
+	- This one seems less symmetric, since hate can ruin me.
+- *And yet don’t look too good, nor talk too wise:*
   
-  If you can trust yourself when all men doubt you,
-  But make allowance for their doubting too;  
-  If you can wait and not be tired by waiting,
-  Or being lied about, don’t deal in lies,
-  Or being hated, don’t give way to hating,
-  And yet don’t look too good, nor talk too wise:
-  
-  If you can dream—and not make dreams your master;  
-  If you can think—and not make thoughts your aim;  
-  If you can meet with Triumph and Disaster
-  And treat those two impostors just the same;  
-  If you can bear to hear the truth you’ve spoken
+  *If you can dream—and not make dreams your master;  
+  If you can think—and not make thoughts your aim;*
+	- I love this pair. Gets to the heart of something. Thinking is useful but it's not the point. Very "void"-y from [[12 virtues of rationality]] - if I point to the thing we're aiming at you'll hear it wrong and then miss it.
+- *If you can meet with Triumph and Disaster*
+  *And treat those two impostors just the same;*
+	- Here I begin to break with the poem. No, triumph is good actually. I like stoicism, but I think even stoics usually want joy and success.
+- **If you can bear to hear the truth you’ve spoken
   Twisted by knaves to make a trap for fools,
   Or watch the things you gave your life to, broken,
-  And stoop and build ’em up with worn-out tools:
+  And stoop and build ’em up with worn-out tools:*
   
-  If you can make one heap of all your winnings
-  And risk it on one turn of pitch-and-toss,
-  And lose, and start again at your beginnings
+  *If you can make one heap of all your winnings
+  And risk it on one turn of pitch-and-toss,*
+	- Very [[SBF]].
+- And lose, and start again at your beginnings
   And never breathe a word about your loss;
   If you can force your heart and nerve and sinew
   To serve your turn long after they are gone,  
