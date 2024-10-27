@@ -3,6 +3,7 @@
 - Possible examples
 	- [[Eleizer Yudkowsky]]'s letter
 	- When [[Labour]] betrayed the [[Lib Dem]]s by not implementing [[Proportional Representation]]
+	- Trump attempting [[Trump Coup]]
 - Counter examples
 	- Things where this turned out fine
 	-

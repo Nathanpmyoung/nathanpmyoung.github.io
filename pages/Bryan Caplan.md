@@ -5,3 +5,6 @@
 	- Voters have a number of biases that skew them from the truth, on average
 		- Make work bias
 		- Xenophobic bias
+	- The [[United Arab Emirates]] is underrated
+		- Clean
+		- Building megastructures

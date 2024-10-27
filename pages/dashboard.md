@@ -1,1 +1,3 @@
 - What dashboards would I like to see?
+  - [[ElectionBettingOdds]] but for AI. In some sense [[AI Digest]] is this, though I don't find that I check it very often.
+    -

@@ -1,0 +1,17 @@
+- [[Prediction market]] - [[Kalshi]], [[Polymarket]],
+- Forecasting site - [[Fatebook]], [[Metaculus]]
+- [[Kialo]]
+  - This seemed neat to me, but never really worked,
+  - I don't currently use it in order to have better discussions. I guess I could try again
+  - Perhaps ask an AI to summarise all the arguments beneath a certain point
+  - Get AI's to write up arguments like this
+- [[Ben Weinstein-Raun]]'s thing
+  -
+- [[Viewpoints]]
+- [[AllOurIdeas]]
+- [[LessWrong]]
+  - Upvote and disagreevote - It feels very good to delineat between "this is worthy of attention" and "this is true"
+  - Dialogues - Doen't feel great
+  -
+- [[Reddit]]
+- [[Twitter]]

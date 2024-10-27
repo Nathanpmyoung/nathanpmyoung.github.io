@@ -4,8 +4,11 @@
 	- AI discourse. Over time, people seem to slowly move in the AI is a risk direction.
 	- Yudkowsky Christiano discussion. Few [clear] outputs.
 	- Personal discussions. I have held 10s of discussion on immigration, theism, US politics, abortion. It is not easy to recall many cases where someone acknowledged they changed their mind.
-	- Longform discussions.
-	- Gay marriage
+	- Longform discussions. Did some with [[Ben Pace]]. These didn't feel great. Not really sure why
+		- We could get an AI to summarise our points
+		- This could already be built, right?
+	- Gay marriage. Why did opinions shift on this?
+	
 -
 - Discourse seems to matter a lot, but what *is* good discourse?
   title:: Discourse

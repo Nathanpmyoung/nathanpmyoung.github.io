@@ -1,0 +1,8 @@
+- Know what you think that others disagree with
+- Learn underrated mechanisms and use them a lot
+  - I heard this one from [[Robin Hanson]] who uses [[Market]]s and applies them where they haven't currently been applied
+- Have a number of heuristics for thinking about things and then consider them
+  - I saw my friend [[Benjamin Hilton]] do this in a discussion "Well simple things tend to be easier to do, but if we ask forecasters they say X, also current trends have been doing Y"
+  - [[Fermi estimation]]
+  - Current trends continue
+  - What do forecasters say?

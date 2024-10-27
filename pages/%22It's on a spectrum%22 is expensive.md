@@ -1,7 +1,9 @@
-- [[Blog]]
+- [[Blog]] [[Postmodernism]]
+- Key theme. Postmodernism is true, but it only makes sense to think this way as an unbounded agent.
+-
 - Many things that were previously binaries are now considered spectrums
-	- Gender
-	- Sexuality
-	- Mental illness
-	- Agression
+  - Gender
+  - Sexuality
+  - Mental illness
+  - Agression
 -

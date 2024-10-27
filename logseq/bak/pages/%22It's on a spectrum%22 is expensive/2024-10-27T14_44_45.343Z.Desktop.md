@@ -1,0 +1,7 @@
+- [[Blog]]
+- Many things that were previously binaries are now considered spectrums
+	- Gender
+	- Sexuality
+	- Mental illness
+	- Agression
+-

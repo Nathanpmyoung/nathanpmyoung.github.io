@@ -1,4 +1,10 @@
 - What are the important cruxes here?
+- Good AI indicators
+	- AIdigest.org
+- 2025 What will AI be like in 2025
+	-[[Richard Ngo]]
+	-[[Leopold Aschenbrenner]]
+	-[[]]
 - If I were to make a dashboard, what would include?
 	- Will AI be able to code well in in 2024, '25, '26, '27, '28, '29
 	- Will AI be able to forecast well in 2024, '25, '26, '27, '28, '29
