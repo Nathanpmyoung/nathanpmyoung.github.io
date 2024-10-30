@@ -1,2 +1,2 @@
 - ring of rotational strength
-	-
+  - Makes you stronger but only when rotating things
