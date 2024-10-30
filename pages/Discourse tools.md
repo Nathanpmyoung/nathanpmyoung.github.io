@@ -1,17 +1,33 @@
 - [[Prediction market]] - [[Kalshi]], [[Polymarket]],
 - Forecasting site - [[Fatebook]], [[Metaculus]]
 - [[Kialo]]
-  - This seemed neat to me, but never really worked,
-  - I don't currently use it in order to have better discussions. I guess I could try again
-  - Perhaps ask an AI to summarise all the arguments beneath a certain point
-  - Get AI's to write up arguments like this
-- [[Ben Weinstein-Raun]]'s thing
-  -
-- [[Viewpoints]]
-- [[AllOurIdeas]]
+	- This seemed neat to me, but never really worked,
+	- I don't currently use it in order to have better discussions. I guess I could try again
+	- Perhaps ask an AI to summarise all the arguments beneath a certain point
+	- Get AI's to write up arguments like this
+- [[Viewpoints]] - Neat tool
+- [[AllOurIdeas]] - Neat tool
 - [[LessWrong]]
-  - Upvote and disagreevote - It feels very good to delineat between "this is worthy of attention" and "this is true"
-  - Dialogues - Doen't feel great
-  -
-- [[Reddit]]
-- [[Twitter]]
+	- Upvote and disagreevote - It feels very good to delineat between "this is worthy of attention" and "this is true"
+	- Dialogues - Doen't feel great
+- [[FindingConsesus.AI]] - felt okay but hardly anyone loved it
+- [[Estimaker.app]] - Felt okay.
+- [[Reddit]] - The legitimacy of the top response seems important
+- [[Twitter]] - Good place to throw something into the mix. Not a lot of longform reasoned discussion
+- [[Talk to the City]] - Mapping opinions from video interviews using LLMs
+- [[Estimaker.app]] - Didn't feel great
+- [[Manifold]]
+- [[FindingConsesus.AI]]
+- [[ElectionBettingOdds.com]] - Is exactly the thing I want to see
+- [[Our World In Data]]
+- [[Wikipedia]]
+- [[AI Impacts]]
+- [[Rootclaim]] -
+- [[Arbital]]
+- [[Change My View]] - seemed like a functional community
+- [[Metaculus]]
+- [[80000 Hours]]
+- redacted
+- Lists to go through
+	- [[Chris Laikin]] - https://chrislakin.blog/p/list-of-collective-intelligence-projects
+	- [[Jason Benn]]

@@ -1,16 +1,25 @@
-- Discourse is when people are talking about a thing. Sometimes I capitalise it, to refer to the twitter discourse that is happening right now - *The Discourse*
+- Discourse is when people are talking about a thing. Sometimes I capitalise it, to refer to the twitter discourse that is happening right now - _The Discourse_
 - What are examples of discourse?
-	- SB 1047. It was rare to see opinions change. I came to understand perhaps 5 - 10 people’s views and I can’t recall anyone changing their mind as a result of discourse. I changed my mind a bit.
-	- AI discourse. Over time, people seem to slowly move in the AI is a risk direction.
-	- Yudkowsky Christiano discussion. Few [clear] outputs.
-	- Personal discussions. I have held 10s of discussion on immigration, theism, US politics, abortion. It is not easy to recall many cases where someone acknowledged they changed their mind.
-	- Longform discussions. Did some with [[Ben Pace]]. These didn't feel great. Not really sure why
+	- **SB 1047**. It was rare to see opinions change. I came to understand perhaps 5 - 10 people’s views and I can’t recall anyone changing their mind as a result of discourse. I changed my mind a bit.
+	- **AI discourse**. Over time, people seem to slowly move in the AI is a risk direction.
+	- **Yudkowsky Christiano discussion**. Few [clear] outputs.
+	- **Personal discussions**. I have held 10s of discussion on immigration, theism, US politics, abortion. It is not easy to recall many cases where someone acknowledged they changed their mind.
+	- **Longform discussions**. Did some with [[Ben Pace]]. These didn't feel great. Not really sure why
 		- We could get an AI to summarise our points
 		- This could already be built, right?
-	- Gay marriage. Why did opinions shift on this?
-	
--
-- Discourse seems to matter a lot, but what *is* good discourse?
-  title:: Discourse
--
--
+	- **Gay marriage**. Why did opinions shift on this?
+	- **EA discussion in 2013**. Supposedly many early EAs met in 2013 in San Fransisco and discussed what they believed the most important things to do were. This seems to have ben successful.
+- Analogies
+	- Heat. Opinions are like heat. On any issue, some are hot, some are cold. Some environments are like conductors, where people converge on the average opinion. Some are like insulators, where people don't. (Also, confusingly for the analogy in some environments all participants end up hotter than they started, which isn't possible for temperature)
+- To change your mind, it's good to feel psychologically safe.
+	- People you know and trust
+	- Anonymity
+	- Strong unified norms
+	- Costs for being wrong
+- Questions
+	- What _is_ good discourse?
+	- What kind of discourse do I want to improve?
+- Suggestions
+	- Anon google doc
+	- Give everyone some points to pretend are their own, noone is expected to be giving their honest views
+	-

@@ -1,57 +1,56 @@
-- *Life is a work in progress*
+- _Life is a work in progress_
 - I build tools for [[Better Discourse]] and run a sofware development agency.
 - I am currently funded by [[Vitalik Buterin]] as well as private clients (depending on the work)
 - I work on
-	- Forecasting
-		- [Estimaker.app](https://estimaker.app/) - [Katja Grace’s AI model](https://estimaker.app/projects/10da8a56-634e-490d-8856-42c7954be2ac), [Scott Eastman’s Ukraine Model](https://estimaker.app/projects/9307d24b-af14-4e54-a827-9a62d827eb80)
-		- [[Estimaker]] is a tool for building visual models of probabilities. Then it's easier to figure out where experts disagree
-	- Viewpoint aggregation
-		- [https://viewpoints.xyz](https://viewpoints.xyz/) -
-		- [[Viewpoints]] is a survey tool where the statements change as users use it, aiming to move from uncertain statements to those people can clearly agree or disagree on
-	- Podcasts with experts on important issues
-		- [Odds and Ends](https://www.youtube.com/watch?v=K0rr7hDNWs4&list=PLAA8NhPG-VO_PnBm3EkxGYObLIMs4r2wZ)
+  - Forecasting
+    - [Estimaker.app](https://estimaker.app/) - [Katja Grace’s AI model](https://estimaker.app/projects/10da8a56-634e-490d-8856-42c7954be2ac), [Scott Eastman’s Ukraine Model](https://estimaker.app/projects/9307d24b-af14-4e54-a827-9a62d827eb80)
+    - [[Estimaker]] is a tool for building visual models of probabilities. Then it's easier to figure out where experts disagree
+  - Viewpoint aggregation
+    - [https://viewpoints.xyz](https://viewpoints.xyz/) -
+    - [[Viewpoints]] is a survey tool where the statements change as users use it, aiming to move from uncertain statements to those people can clearly agree or disagree on
+  - Podcasts with experts on important issues
+    - [Odds and Ends](https://www.youtube.com/watch?v=K0rr7hDNWs4&list=PLAA8NhPG-VO_PnBm3EkxGYObLIMs4r2wZ)
 - You can find me on
   id:: 64b8134e-4368-458f-86c3-556d791edc99
-	- nathan[@]frostwork.io
-	- [[Twitter]] - [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)
-	- Say hi in this [WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/Lr2cFoiYYnHAO8JR3jNFHL&sa=D&source=editors&ust=1689718329577971&usg=AOvVaw12NVmgFsKP23VUS1vlVUGh) group
-	- [[Reply]] to something I’ve [tweeted](https://www.google.com/url?q=https://twitter.com/NathanpmYoung&sa=D&source=editors&ust=1689718329578428&usg=AOvVaw0YCWqOK1UfNqV443zkcmQq), or DM me
-	- [Substack](https://www.google.com/url?q=https://nathanpmyoung.substack.com/&sa=D&source=editors&ust=1689718329578859&usg=AOvVaw1nTUher5aR39DGaFEVyyOs)
-	- [Parody rap](https://www.google.com/url?q=https://www.youtube.com/user/deltaTtv&sa=D&source=editors&ust=1689718329579255&usg=AOvVaw0QDIei16jecJdhRkXm2USe)
+  - [[Twitter]] - [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)
+  - Say hi in this [WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/Lr2cFoiYYnHAO8JR3jNFHL&sa=D&source=editors&ust=1689718329577971&usg=AOvVaw12NVmgFsKP23VUS1vlVUGh) group
+  - [[Reply]] to something I’ve [tweeted](https://www.google.com/url?q=https://twitter.com/NathanpmYoung&sa=D&source=editors&ust=1689718329578428&usg=AOvVaw0YCWqOK1UfNqV443zkcmQq), or DM me
+  - My blog - [blog.nathanpmyoung.com](https://blog.nathanpmyoung.com/)
+  - [Parody rap](https://www.google.com/url?q=https://www.youtube.com/user/deltaTtv&sa=D&source=editors&ust=1689718329579255&usg=AOvVaw0QDIei16jecJdhRkXm2USe)
 - ![image.png](../assets/image_1689785034652_0.png)
 - # CV
 - Request a full CV here ([WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/KOP4sqvL2oL4UA5yn7jxsF&sa=D&source=editors&ust=1689718329589648&usg=AOvVaw1zf3GGuIozEy5x-Jj-mg12), [mail@nathanpmyou](mailto:mail@nathanpmyoung.com)n[g.com](mailto:mail@nathanpmyoung.com) or [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329590353&usg=AOvVaw3j1fv7A3XZW4j4BFpiDFOo))
 - **Company Director** - Frostwork Media
-	- *2016 – Present*
-	- Software development and forecasting
-	- Projects
-		- [Viewpoints.xyz](https://www.google.com/url?q=http://viewpoints.xyz&sa=D&source=editors&ust=1689718329591258&usg=AOvVaw3zCxC4v7ihPsUJGBIwU8i8) - Aggregating community views and helping to understand uncertainty - Product managing for Goodheart Labs, funded by [[Vitalik Buterin]]
-		- Forecasting tools - [[Forecasting Question Generation]] ([doubtful.app](https://www.google.com/url?q=https://doubtful.app/&sa=D&source=editors&ust=1689718329591622&usg=AOvVaw2o1Z29d0DEmxtxjrEFFZlb)) and [visualising probabilistic models](https://www.google.com/url?q=https://probability-graph.predictionlab.org/&sa=D&source=editors&ust=1689718329591993&usg=AOvVaw0MSDUI6AstXxfaWzn34c8Q) - Product management, funded by the FTX Future Fund. *$10k of personal gain will go to **[FTX customers](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1625825225131626498&sa=D&source=editors&ust=1689718329592375&usg=AOvVaw12RinvRATH0KwNYpKJm-T9)** if there is a legal way to do this.*
-		- Professional forecaster - [Russian Mutiny](https://www.google.com/url?q=https://www.swiftcentre.org/russia-liveblog/&sa=D&source=editors&ust=1689718329592856&usg=AOvVaw0WFaW7Fzoz9HC-O4wE9iII), [US elections](https://www.google.com/url?q=https://www.swiftcentre.org/can-biden-win-in-2024/&sa=D&source=editors&ust=1689718329593152&usg=AOvVaw1jCchi3h5m0O5MLKcuLNb7) - for the [Swift Centre](https://www.google.com/url?q=https://www.swiftcentre.org/&sa=D&source=editors&ust=1689718329593441&usg=AOvVaw0XrbNU2e3NN4EcscAIarHd)
+  - _2016 – Present_
+  - Software development and forecasting
+  - Projects
+    - [Viewpoints.xyz](https://www.google.com/url?q=http://viewpoints.xyz&sa=D&source=editors&ust=1689718329591258&usg=AOvVaw3zCxC4v7ihPsUJGBIwU8i8) - Aggregating community views and helping to understand uncertainty - Product managing for Goodheart Labs, funded by [[Vitalik Buterin]]
+    - Forecasting tools - [[Forecasting Question Generation]] ([doubtful.app](https://www.google.com/url?q=https://doubtful.app/&sa=D&source=editors&ust=1689718329591622&usg=AOvVaw2o1Z29d0DEmxtxjrEFFZlb)) and [visualising probabilistic models](https://www.google.com/url?q=https://probability-graph.predictionlab.org/&sa=D&source=editors&ust=1689718329591993&usg=AOvVaw0MSDUI6AstXxfaWzn34c8Q) - Product management, funded by the FTX Future Fund. *$10k of personal gain will go to **[FTX customers](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1625825225131626498&sa=D&source=editors&ust=1689718329592375&usg=AOvVaw12RinvRATH0KwNYpKJm-T9)** if there is a legal way to do this.*
+    - Professional forecaster - [Russian Mutiny](https://www.google.com/url?q=https://www.swiftcentre.org/russia-liveblog/&sa=D&source=editors&ust=1689718329592856&usg=AOvVaw0WFaW7Fzoz9HC-O4wE9iII), [US elections](https://www.google.com/url?q=https://www.swiftcentre.org/can-biden-win-in-2024/&sa=D&source=editors&ust=1689718329593152&usg=AOvVaw1jCchi3h5m0O5MLKcuLNb7) - for the [Swift Centre](https://www.google.com/url?q=https://www.swiftcentre.org/&sa=D&source=editors&ust=1689718329593441&usg=AOvVaw0XrbNU2e3NN4EcscAIarHd)
 - **Head of Forecasting - **[Zeitgeist](https://www.google.com/url?q=https://zeitgeist.pm/&sa=D&source=editors&ust=1689718329593845&usg=AOvVaw3d46nW6pOlTZtkKvMthQi9)
-	- *June 2022 -** Jan 2023*
-	- Ensuring launch markets are high quality
-	- Supporting “Fire the CEO” markets to integrate [futarchy](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Futarchy%23:~:text%3DFutarchy%2520is%2520a%2520form%2520of,as%2520a%2520buzzword%2520of%25202008.&sa=D&source=editors&ust=1689718329594635&usg=AOvVaw34fYHZSvlTTW1gjT_SCc6G), a new governance mechanism built around prediction markets
-	- Managing question generation projects
+  - _June 2022 -\*\* Jan 2023_
+  - Ensuring launch markets are high quality
+  - Supporting “Fire the CEO” markets to integrate [futarchy](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Futarchy%23:~:text%3DFutarchy%2520is%2520a%2520form%2520of,as%2520a%2520buzzword%2520of%25202008.&sa=D&source=editors&ust=1689718329594635&usg=AOvVaw34fYHZSvlTTW1gjT_SCc6G), a new governance mechanism built around prediction markets
+  - Managing question generation projects
 - **Funding Delivery Manager - **Freeports, UK Civil Service
-	- *Sep 2021 - Jun 2022*
-	- UK infrastructure policy
-	- Reviewing guidance for full business case submission
-	- Forecasting on Government-wide platform, from Covid to geopolitics
+  - _Sep 2021 - Jun 2022_
+  - UK infrastructure policy
+  - Reviewing guidance for full business case submission
+  - Forecasting on Government-wide platform, from Covid to geopolitics
 - **Project, Community Management** — [Turing-RSS Joint Lab](https://www.google.com/url?q=https://www.turing.ac.uk/research/research-projects/new-partnership-between-alan-turing-institute-and-royal-statistical&sa=D&source=editors&ust=1689718329595911&usg=AOvVaw0VER7eyYez-_LSnqFLD2Td)
-	- *Jun 2021 – Aug 2021*
-	- Supporting community of 20 data scientists, with external talks
-	- Publicise work of the lab in government and epidemiological community
-	- Maintain knowledge between the laboratory and the Joint Biosecurity Centre within government
+  - _Jun 2021 – Aug 2021_
+  - Supporting community of 20 data scientists, with external talks
+  - Publicise work of the lab in government and epidemiological community
+  - Maintain knowledge between the laboratory and the Joint Biosecurity Centre within government
 - **Project, Founder and Director** — [The Coronavirus Tech Handbook](https://www.google.com/url?q=https://coronavirustechhandbook.com&sa=D&source=editors&ust=1689718329596948&usg=AOvVaw2aF2x6eh0uTZwREcftrhT7)
-	- *Mar 2020 – Aug 2020*
-	- The largest online library of resources around Coronavirus.
-	- 600k hits, 4000 projects, 130+ sections.
-	- “Inspiring...and well-organised” - [Dr Ben Goldacre](https://www.google.com/url?q=https://twitter.com/bengoldacre/status/1238517125318422529&sa=D&source=editors&ust=1689718329597717&usg=AOvVaw1cyR1qnMWx1newGu7kdiw9), author of Bad Science.
-	- Media:
-		- [https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026](https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026&sa=D&source=editors&ust=1689718329598323&usg=AOvVaw3WM8WTKwfZwjFZa-yXlKKi)
-		- [https://www.forbes.com/sites/bernardmarr/2020/04/15/heres-how-all-of-us-can-use-technology-to-help-tackle-coronavirus/](https://www.google.com/url?q=https://www.forbes.com/sites/bernardmarr/2020/04/15/heres-how-all-of-us-can-use-technology-to-help-tackle-coronavirus&sa=D&source=editors&ust=1689718329598820&usg=AOvVaw1YoNRaRu7dudvv2KBmEqvr)
-		- [https://www.vice.com/en_uk/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand](https://www.google.com/url?q=https://www.vice.com/en_uk/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand&sa=D&source=editors&ust=1689718329599292&usg=AOvVaw18QcFXosWjnb4pYIgFfusn)
+  - _Mar 2020 – Aug 2020_
+  - The largest online library of resources around Coronavirus.
+  - 600k hits, 4000 projects, 130+ sections.
+  - “Inspiring...and well-organised” - [Dr Ben Goldacre](https://www.google.com/url?q=https://twitter.com/bengoldacre/status/1238517125318422529&sa=D&source=editors&ust=1689718329597717&usg=AOvVaw1cyR1qnMWx1newGu7kdiw9), author of Bad Science.
+  - Media:
+    - [https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026](https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026&sa=D&source=editors&ust=1689718329598323&usg=AOvVaw3WM8WTKwfZwjFZa-yXlKKi)
+    - [https://www.forbes.com/sites/bernardmarr/2020/04/15/heres-how-all-of-us-can-use-technology-to-help-tackle-coronavirus/](https://www.google.com/url?q=https://www.forbes.com/sites/bernardmarr/2020/04/15/heres-how-all-of-us-can-use-technology-to-help-tackle-coronavirus&sa=D&source=editors&ust=1689718329598820&usg=AOvVaw1YoNRaRu7dudvv2KBmEqvr)
+    - [https://www.vice.com/en_uk/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand](https://www.google.com/url?q=https://www.vice.com/en_uk/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand&sa=D&source=editors&ust=1689718329599292&usg=AOvVaw18QcFXosWjnb4pYIgFfusn)
 - # Media
 - [https://www.bbc.co.uk/programmes/p086xg5j](https://www.google.com/url?q=https://www.bbc.co.uk/programmes/p086xg5j&sa=D&source=editors&ust=1689718329603118&usg=AOvVaw0j5pNbPIHPZ42G8NKkPbfs)
 - [https://sifted.eu/articles/wikipedia-coronavirus/](https://www.google.com/url?q=https://sifted.eu/articles/wikipedia-coronavirus&sa=D&source=editors&ust=1689718329603532&usg=AOvVaw3slXqjTGSSsU0Dy7GBzJvq)
@@ -68,7 +67,7 @@
 - # Impact
 - Got [Dustin Moskovitz to sign](https://twitter.com/moskov/status/1645465885493297152) the Giving What We Can pledge
 - I think there was a 1-5% chance [Elon would respond to this](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1596559616359415808&sa=D&source=editors&ust=1689718329606921&usg=AOvVaw2Sj4pwYbEUOiMt7NqD82EO)
-- Emilé Torres and I raised [$300k for GiveDirectly](https://www.google.com/url?q=https://www.givingwhatwecan.org/fundraisers/emile-and-nathan-christmas-fundraiser&sa=D&source=editors&ust=1689718329607389&usg=AOvVaw1Grf1ZeQPjzNtAMyBubE9G) - hard to say what the counterfactual for this money was, but I don't *think* it was mostly EA money
+- Emilé Torres and I raised [$300k for GiveDirectly](https://www.google.com/url?q=https://www.givingwhatwecan.org/fundraisers/emile-and-nathan-christmas-fundraiser&sa=D&source=editors&ust=1689718329607389&usg=AOvVaw1Grf1ZeQPjzNtAMyBubE9G) - hard to say what the counterfactual for this money was, but I don't _think_ it was mostly EA money
 - I sense I made the Elon Musk slow AI post happen a bit earlier on expectation, perhaps by hours or a day
 - I sense I improved the UK AI Safety conference a bit
 - I hope one day I will be able to include either [[Estimaker]] or [[Viewpoints]] or some similar tool here.
