@@ -1,0 +1,8 @@
+- The other day, I wrote "Puerto Rico's lack of statehood strikes me as profoundly unamerican. It is full of American citizens... who get taxed... but don't get represented." This got viewed 130k times and even got [[Communnity Notes]]-ed.
+- Reading the comments it seems that I, and commenter, were mistaken about several aspects.
+- First, Puerto Rico isn't a state. I was correct about this.
+- Many people said that Puerto Rico had voted not to become a state. According to wikipedia, there have been 5 votes. The first two showed plurality support for options other than statehood. The next two showed, in my view, weak support for statehood (weak first because of a complicated quesiton, the second because statehood opponents boycotted) the final vote in 2020, was 52% for statehood. Puerto Rico has voted in favour of statehood.
+- It does seem like Puerto Ricans prefer a commonwealth. I am unsure what this means.
+- Similarly, Puerto Ricans do not get representation in Congress. They do not elect senators or representatives. If I understand correctly they do vote for Presidential electors, but this is just from their end. The election does not take them into account. They do not therefore have represenation in the federal government.
+- Puerto Ricans are US citizens. I was correct about this.
+- Finally then, taxation. Are Puerto Ricans federally taxed?
