@@ -23,6 +23,7 @@
   - What _is_ good discourse?
   - What kind of discourse do I want to improve?
   - Is discourse the space in which conversation happens, the act of discussing or something else?
+  - This whole discussion feels ungrounded somehow.
 - Suggestions
   - Anon google doc
   - Give everyone some points to pretend are their own, noone is expected to be giving their honest views

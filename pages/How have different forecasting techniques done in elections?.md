@@ -1,0 +1,1 @@
+- [[Kelsey Piper]] claims that Prediction Markets have ("often been wrong")[https://x.com/KelseyTuoc/status/1851427383070617709]in US elections? Is this accurate?
