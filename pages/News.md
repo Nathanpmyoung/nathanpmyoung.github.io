@@ -1,0 +1,2 @@
+- News site that uses bridging
+- News bot that you can ask questions to each day

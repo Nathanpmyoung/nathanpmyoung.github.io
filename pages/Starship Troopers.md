@@ -1,0 +1,2 @@
+- Everyone is extremely atractive in a certain kind of supermodel way
+- The human leadership is incompetent
