@@ -1,2 +1,6 @@
 - Everyone is extremely atractive in a certain kind of supermodel way
 - The human leadership is incompetent
+- On the surface fun, but thought provoking on a deeper level
+  - The rush to violence
+  - Only giving citizenship to those who have served in the military
+  -

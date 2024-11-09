@@ -11,6 +11,10 @@
   - **EA discussion in 2013**. Supposedly many early EAs met in 2013 in San Fransisco and discussed what they believed the most important things to do were. This seems to have ben successful.
 - Analogies
   - Heat. Opinions are like heat. On any issue, some are hot, some are cold. Some environments are like conductors, where people converge on the average opinion. Some are like insulators, where people don't. (Also, confusingly for the analogy in some environments all participants end up hotter than they started, which isn't possible for temperature)
+  - Energy surface. There is a big multi-dimensional energy surface. Discourse is like a ball sitting on this surface. Often it looks like it is in a stable equilibrium, but there is some previously hidden direction in which it can roll.  
+    - Examples:
+      - [[Brexit]] It turned out that there was a huge amount of support for Brexit, which had been discounted. This is equivalent to potential energy (like a ball on a hill) or some kind of fossil fuel discovery. Once the discussion happened, the Leave side became more and more powerful as this previously hidden support came to light.
+	- Is good discourse finding these hidden directions and making them visible?
 - To change your mind, it's good to feel psychologically safe.
   - People you know and trust
   - Anonymity
@@ -19,11 +23,20 @@
 - It is probably good to cut down the things disagreed on.
   - Figure out agreement
   - Find empirical questions and answer them
+- What is wrong with discourse?
+  - People are mistaken about reality
+  - People are discussing something as a leisure activity, rather than as a focused task
+  - Poor forecasting 
+  - The discussion is filled with with people who have bad discussion norms
+  - People are seeking status, not to be correct
+  - People have different discussion culture and rub one another up the wrong way
 - Questions
   - What _is_ good discourse?
   - What kind of discourse do I want to improve?
   - Is discourse the space in which conversation happens, the act of discussing or something else?
   - This whole discussion feels ungrounded somehow.
+
+
 - Suggestions
   - Anon google doc
   - Give everyone some points to pretend are their own, noone is expected to be giving their honest views

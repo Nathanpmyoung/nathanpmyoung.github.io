@@ -1,0 +1,4 @@
+- Graphs that are useful to have:
+	- ![image.png](../assets/image_1731114724043_0.png)
+	- ![image.png](../assets/image_1731114765330_0.png)
+	-
