@@ -1,4 +1,5 @@
 - Graphs that are useful to have:
+	- https://aella.substack.com/p/monogamous-men-in-long-term-relationships?utm_source=publication-search
 	- ![image.png](../assets/image_1731114724043_0.png)
 	- ![image.png](../assets/image_1731114765330_0.png)
 	-

@@ -1,2 +1,4 @@
 - {{video https://youtube.com/clip/Ugkx9fWZph1Dnn47UT15RVy6aX-RsNybv7cN?si=zQRtWB2o2hHVbyDi}}
--
+- Criticism of rationalism
+  - What things does LessWrong discuss "well" other than AI?
+  - Which rationalists have legible track records?

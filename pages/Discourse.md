@@ -38,7 +38,13 @@
 
 
 - Suggestions
-  - Anon google doc
-  - Give everyone some points to pretend are their own, noone is expected to be giving their honest views
-  - Have orgs to find out empircal questions - [[Our World In Data]] [[Epoch]]
+  - [[Prediction markets]]
+  - [[Community notes]]
+  - Leaderboards of the above
+  - [[Prize]]s
+  - Surveys of what people are wrong about and then public education campaigns
+    - Have orgs to find out empircal questions - [[Our World In Data]] [[Epoch]]
+  - Divorcing people from their views
+    - Anon google doc
+    - [[Ideological Turing Test]] eg Give everyone some points to pretend are their own, noone is expected to be giving their honest views
   - Figure out agreement between disagreeing parties - [[Viewpoints]]
