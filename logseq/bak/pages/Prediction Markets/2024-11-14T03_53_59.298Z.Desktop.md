@@ -1,0 +1,5 @@
+- FAQ
+	- Why are they useful
+	- Are they predictive? Or just a summary of what people currently think?
+	- Are they well calibrated?
+- Information vs. Calibration

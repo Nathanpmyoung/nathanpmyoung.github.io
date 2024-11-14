@@ -1,3 +1,3 @@
 - [[blog]]
 - [[Cate Hall]] and [[Sasha Chapin]] have a relationship concept of being the CEO of dinner. Or of travelling somewhere.
-- As soon as I heard this, it clicked. It is tiring to have to manage something and nearly as tiring
+- As soon as I heard this, it clicked. It is tiring to have to manage something, but nearly as tiring to be unsure of who is managing it and so sort of doing so anyway. This creates a lot of wasted effort if noone knows who is actually managing the thing.

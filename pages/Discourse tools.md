@@ -1,42 +1,48 @@
 - [[Prediction market]] - [[Kalshi]], [[Polymarket]],
   - Pull people into the discussion "If you think this price is wrong, you can bet on at a good price"[]
-- [[Fatebook]] 
-- [[Metaculus]]
+- [[Fatebook]] - Forecasting tool. People say "oh wow what's that"
+- [[Metaculus]] - Good forecasting tool, kind of clunky.
 - [[Kialo]]
-	- This seemed neat to me, but never really worked.
-	- I have tried looking there recently and it is a neat research tool.
-	- I don't currently use it in order to have better discussions. I guess I could try again
-	- Perhaps ask an AI to summarise all the arguments beneath a certain point
-	- Get AI's to write up arguments like this
+  - This seemed neat to me, but never really worked.
+  - I have tried looking there recently and it is a neat research tool. I could scrape whole questions and put them in text and then put them in NotebookLM
+  - I don't currently use it in order to have better discussions. I guess I could try again
+  - Perhaps ask an AI to summarise all the arguments beneath a certain point
+  - Get AI's to write up arguments like this
 - [[Viewpoints]] - Neat tool
 - [[AllOurIdeas]] - Neat tool
 - [[LessWrong]]
-	- Upvote and disagreevote - It feels very good to delineat between "this is worthy of attention" and "this is true"
-	- Dialogues - Doen't feel great
-	- I don't think that it's actually a good place to figure out the truth about things I care about.
-- [[FindingConsesus.AI]] - felt okay but hardly anyone loved it
+  - Upvote and disagreevote - It feels very good to delineat between "this is worthy of attention" and "this is true"
+  - Dialogues - Doen't feel great
+  - I don't think that it's actually a good place to figure out the truth about things I care about.
+- [[FindingConsesus.AI]] - felt okay but hardly anyone loved it. Didn't present a clear next step
 - [[Estimaker.app]] - Felt okay.
-- [[Reddit]] - The legitimacy of the top response seems important
+- [[Reddit]] - The legitimacy of the top response seems important and consensus
 - [[Twitter]] - Good place to throw something into the mix. Not a lot of longform reasoned discussion
-- [[Talk to the City]] 
-	- Mapping opinions from video interviews using LLMs
-	- Can they do this for the [[Community Archive]]?
+- [[Talk to the City]]
+  - Mapping opinions from video interviews using LLMs
+  - Can they do this for the [[Community Archive]]?
+  - Can these transcripts be uploaded into [[NotebookLM]]
 - [[Manifold]]
-	- Sometimes the comment sections are very high quality.
-	- Could be better if those with high profit were more visible in discussions.
-- [[FindingConsesus.AI]]
-- [[ElectionBettingOdds.com]] - Is exactly the thing I want to see
+  - Sometimes the comment sections are very high quality.
+  - Could be better if those with high profit were more visible in discussions.
+- [[ElectionBettingOdds.com]] - Is exactly the thing I want to see - just works.
 - [[Our World In Data]] - Trusted
 - [[Wikipedia]]
 - [[AI Impacts]]
-- [[Rootclaim]] - Somehow doesn't feel very alive. Has interesting questions and bayesian breakdowns but I don't want to go there. 
+- [[Rootclaim]] - Somehow doesn't feel very alive. Has interesting questions and bayesian breakdowns but I don't want to go there.
 - [[Arbital]]
 - [[Change My View]] - seemed like a functional community
 - [[Metaculus]]
 - [[80000 Hours]]
 - [[Epoch]] - Trusted
+- [[Remesh]]
 - redacted
+- What are some classes of thing here?
+  - Information store
+  - Trusted
+  - Fun to use
+  - Building track record
 - Lists to go through
-	- [[Chris Laikin]] - https://chrislakin.blog/p/list-of-collective-intelligence-projects
-	- [[Katja Grace]]'s [[Workflowey]] list
- 	- [[Jason Benn]]
+  - [[Chris Laikin]] - https://chrislakin.blog/p/list-of-collective-intelligence-projects
+  - [[Katja Grace]]'s [[Workflowey]] list
+  - [[Jason Benn]]

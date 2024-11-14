@@ -1,0 +1,5 @@
+- Things that are high status
+  - Being humble
+  - Agreeing
+  - Talking about restaurants
+  - Talking about your business

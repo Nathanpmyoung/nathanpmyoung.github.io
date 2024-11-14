@@ -1,5 +1,10 @@
 - FAQ
-	- Why are they useful
-	- Are they predictive? Or just a summary of what people currently think?
-	- Are they well calibrated?
+  - Why are they useful
+  - Are they predictive? Or just a summary of what people currently think?
+  - Are they well calibrated?
 - Information vs. Calibration
+- Resources
+  - https://electionbettingodds.com/about.html
+  - https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google
+  - https://firstsigma.substack.com/p/midterm-elections-forecast-comparison-analysis
+  - https://forecasting.substack.com/

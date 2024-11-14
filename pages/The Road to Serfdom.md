@@ -1,0 +1,3 @@
+- There is not some "pattern of the world" in which communism is on the left, and fascism on the right. Instead both are the increased power of the state in people's lives, either by ownership or by power.
+- Which is the worst escess in terms of cost to wellbeing
+-
