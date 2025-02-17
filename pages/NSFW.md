@@ -1,0 +1,2 @@
+- I am pretty uncertain whether to have this section on my website.
+- If you wish for NSFW writing, message me somehow

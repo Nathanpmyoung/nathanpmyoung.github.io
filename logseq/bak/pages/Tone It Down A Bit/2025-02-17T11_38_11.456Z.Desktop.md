@@ -1,0 +1,17 @@
+- A little after I left Christianity, I went to a party of some of the high status[^1] group at uni.
+- I recall talking to one of the guys - handsome, self-deprecating, consultant - about my struggles dating. He said, "Don't worry, you're not too late, you just have to tone yourself down a bit"
+- I didn't like this advice. And before we start, it was generous and I guess well meant. But what did he mean?
+- "I find you a bit cringe"
+- "You'll need to be able to credibly display that you can be normal"
+- "You want people to warm to you"
+- Something else/ I'm misremembering.
+- I disliked the advice. It was like lukewarm water. I like being myself. I like saying what I think is true. I dislike faking and pretending, unless that's the game in itself. I don't want a first date to be the meeting of two socially sanctioned automatons, I want us to be two agents of chaos, flung together, however briefly.
+- My weirdness has costs and benefits. The costs are that people get upset. They think it's malicious and, to the extent I have predictable patterns of behaviour, it *is* my responsibility to predict the outcomes and avoid bad ones. But there are benefits too - I have had a lot of bizarre conversations, a lot of fun romances, a lot of jokey suggestions that ended up happening. I try and take both the costs and benefits seriously, but I think many miss out on the benefits of a life lived more transparently.
+- The key benefit is self-correction. If you give a hidden, socially palatable version of yourself to everyone then you don't get feedback on how the actual stuff you think and want to do is good and bad. Your hidden understanding of how government works, that's too arrogant to share, is actually pretty flawed and you'd figure that out if you shared it with anyone but your cronies. I am cringe and stupid. I get that. I get it shoved in my face on a daily basis. But you are cringe and stupid too, and either you can learn from that or not. It's up to you.
+- In the original advice "tone yourself down a bit" (I'm paraphrasing) there was also a note of pity. I guess he thought I was clever but was a bit sad I hadn't figured out something fundamental and that it was gonna cost me. He perhaps, if pressed, might have pointed out that the women he fancied wouldn't date me and that I wouldn't be invited to his parties.
+- Honestly, I felt some pity too. That he wouldn't see the world for as wild and beautiful as it is. That in *knowing how this place really works* he might in fact miss out on how it works. That, at some point, the world would pass him by because reality was weirder than he had built himself to tolerate.
+- What are some concrete examples of this?
+	-
+-
+-
+- [^1]: People hate being described as high status, mainly because it's a low status thing to do and everyone high status knows that. Regardless, this was the group which, if you'd polled everyone at my college of who was "high status", they'd have got the most votes. Status is a schelling point

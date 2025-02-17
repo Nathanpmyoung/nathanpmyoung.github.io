@@ -1,6 +1,0 @@
-- [[NSFW]]
-- Masturbation is party bad because connection is good and it feels more alive to be connected to someone who can suprise me.
-- But also I can connect to and be suprised by myself.
-- Were I better at it, I am sure that masturbation could be kind of meditative - seeing what arises, literally playing with myself.
-- It's also bad because it's low fidelity - my visual field is smack bang in the centre of my consciousness, my body is more dispersed. It matters that I can see my partners.
-- This second point seems open to change. What will masturbation look like in 100 years?
