@@ -1,0 +1,3 @@
+- Possible [[Fascism]] [[Dogwhistles]]
+	- The 'from my heart' Roman salute
+	- ![Image](https://pbs.twimg.com/media/GkABz6Sa8AASw3_?format=jpg&name=medium)

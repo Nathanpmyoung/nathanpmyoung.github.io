@@ -1,3 +1,5 @@
 - [[Blog]]
 - It's tempting to label people good and bad, but it explains too much.
 - Better to focus on actions.
+- First of all, this avoids the whole discussion of what someone intended. I generally find that to be good. Intention is hard to understand, and often people don't even know what they intended. Did Stalin intend to kill millions in famines? I don't know, and I don't deeply care. He did it. That's the bad thing.
+- If anyone is bad, it is someone who repeatedly and predictably does bad actions, and perhaps someone who does predictably very high variance actions without working to avoiding the downside.
