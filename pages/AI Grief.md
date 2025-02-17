@@ -1,3 +1,6 @@
 - [[AI]][[Grief]]
 - Inspired by [[Katja Grace]]'s article, some things I might grieve when they are gone.
 - My rapping impressing people
+- Chat up lines working
+- Feeling like the future is likely to look relatively similar to the near past
+-
