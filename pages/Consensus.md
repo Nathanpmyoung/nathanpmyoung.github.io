@@ -1,0 +1,5 @@
+- Why do I hunger for consensus?
+- Thoughts
+  - To update towards those I respect
+  - Truthseeking communties generally move towards truth.
+  - Not having to track everything

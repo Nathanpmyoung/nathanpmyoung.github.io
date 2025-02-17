@@ -1,0 +1,2 @@
+- Are they cartels?
+- should people be able to scab?

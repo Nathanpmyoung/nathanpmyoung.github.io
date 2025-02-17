@@ -1,0 +1,7 @@
+- I think that grinds my gears is when someone feels the need to tell me they disagree with something even though I know this.
+- "Just so you know, I have issues with this" "As you know, I'm a Christian and I"
+- Yes I know, you don't agree, so can we get past that?
+- I think it feels like a desire to shove that disagreement in my face, or that I'm too dumb to remember where the discussion curently stands between us.
+- Places this annoys me
+  - Christian friends and relatives prefacing conversaions about relationships with comments about marriage. Makes me not want to tell them things about my life.
+  -

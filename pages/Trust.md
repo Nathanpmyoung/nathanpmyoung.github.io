@@ -1,0 +1,22 @@
+- Features of trust
+
+  - Depends on norms of culture it exists in
+  - Often need to be costs for breaking it - doesn't work in one-off situations
+  - Cheap to set up - trust, by virtue of being an ephemeral resource can be called upon quickly
+  - Imprecise - different parties might have different views on what the norm is
+
+- Trust is overrated.
+  - In my life, people have treated trust as a virtue. But there are also clearly times where it is unwise. How do we negotiate them and how can we get past the need for trust?
+  -
+  - I used to trust people I dated a lot. If they said they would be fine with dating casually, I believed them. This ended badly several times, with hurt feelings and worse. Since then I am more cautious with who I casually date. I perhaps ask more questions or make different choices then I would have otherwise. The environment turned out not to be one of easy trust.
+  -
+  - For both parties in this example, my trust was a liability.
+  -
+  - There are some other examples where this is the case:
+    - Two friends agree to start a company together, trusting that resources will be shared properly if it is successful. They make no contract. One works many hours, the contributes key skills. At the end, both feel like they deserve more than half. It would have been better if they had made a contract.
+  -
+  - It is clear to me that trust is cheaper than contracts. Rather than negotiating many cases, you can just say "trust me".
+  -
+  - But this means trust is sometimes overly flexible. In the business example above, the friends could have made a contract. That would have suited them as they and their business changed. Trust didn't ensure that they both had the same picture of events.
+  -
+  - But Trust is a resource. The point is that once it's burned up it's gone. That's the reason not to break it (though as above sometimes people get different opinions over)

@@ -1,0 +1,14 @@
+- There are many things to care about and most of us aren't good at thinking about all of them
+- Politics has many many such things.
+- Do you know about
+  - Crime stats
+  - Energy generation
+  - Hiring law
+  - University entrance
+  - Politicians' political beliefs
+  - Politicians' personal lives
+  - Healthcare
+  - Immigration
+- And for all of these do you have a surface level $100 understanding? Or can you actually confidently think that things you say are actually the case.
+- Poltics may or may not be the mindkiller, whatever Yud meant by that, but for me it is the mindfiller, it's just a huge amount of work to stay on top of.
+- It would be healthier for me to focus on a few areas and then say I don't know about the rest.

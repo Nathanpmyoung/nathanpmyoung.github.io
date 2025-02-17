@@ -1,0 +1,7 @@
+- Having left a community and not died, my body has learned that I can survive it.
+- A friend (need permission to say who) framed this nicely for me. She said "Some people think about being cancelled the way they think about dying."
+- This felt like a good way to put it. For me, the (self-imposed) exile has happened. The death has not.
+- Pros
+  - I can take stances I might fear to take otherwise
+- Cons
+  - I lack the community regulation that would come with this fear. Friends warn me that I might be cancelled, but deep down, I find I don't care. I will be fine. My body knows this. It isn't going to pay close attention to the microexpressions of the cancellation squad. It isn't a priority.

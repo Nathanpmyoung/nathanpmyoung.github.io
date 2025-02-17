@@ -1,1 +1,8 @@
-alias:: Libertarian, Libertarians
+- alias:: Libertarian, Libertarians
+-
+- It's fine and if I had to make a choice with a gun to my head, I'd often go for the libertarian answer, but I don't.
+-
+- Libertarian counter examples
+  - Food labelling is good actually
+  - Minimum wages seem fine
+  -

@@ -42,6 +42,8 @@
   - Trusted
   - Fun to use
   - Building track record
+  - Specific single thing people look for
+  - Making friends across divides
 - Lists to go through
   - [[Chris Laikin]] - https://chrislakin.blog/p/list-of-collective-intelligence-projects
   - [[Katja Grace]]'s [[Workflowey]] list

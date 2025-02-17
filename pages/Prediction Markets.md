@@ -3,6 +3,28 @@
   - Are they predictive? Or just a summary of what people currently think?
   - Are they well calibrated?
 - Information vs. Calibration
+- As activist coordination
+  - Prediction markets can enhance trust and coordination between activist groups.
+    - They provide a mechanism for groups who might struggle to trust each other to establish credible commitments without formal contracts.
+    - When different factions disagree about potential outcomes, prediction markets create accountability through financial stakes.
+  - Case Study: California AI Bill (SB 1047)
+    - During discussions, proponents and opponents had key disagreements about:
+      - The bill's direct effects (e.g., number of companies affected)
+      - Broader implications and unintended consequences
+      - Future regulatory environment
+    - Prediction markets could have helped resolve these disputes by:
+      - Allowing parties to bet on specific outcomes
+      - Creating financial incentives for accurate predictions
+      - Forcing honest belief revelation through "skin in the game"
+  - Key Benefits
+    - Transforms vague promises into measurable commitments
+    - Works across social groups where traditional trust mechanisms fail
+    - Creates ongoing incentives for continued advocacy
+    - Provides transparency in forecasting
+  - Growing Viability
+    - Legal barriers are decreasing (e.g., Polymarket likely becoming US-legal)
+    - Could become a standard tool for policy advocacy
+    - Helps normalize the practice of betting on beliefs for accountability
 - Resources
   - https://electionbettingodds.com/about.html
   - https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google

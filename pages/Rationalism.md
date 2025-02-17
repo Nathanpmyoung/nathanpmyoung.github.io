@@ -2,3 +2,4 @@
 - Criticism of rationalism
   - What things does LessWrong discuss "well" other than AI?
   - Which rationalists have legible track records?
+  - Rationalism is about transparency rather than accuracy - this is what their concept of [[Lawful]]ness is, when it comes down to it.

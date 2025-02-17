@@ -1,0 +1,83 @@
+- A pair of blogs on English politics and [[Christianity]]
+- [[UK]]
+- First blog
+  - The English Conservative Evangelical Worldview
+  - A study of one of the worldviews of my family and friends
+  - Theory
+    - The country is going to the dogs
+  - Evidence
+    - mental illness/anxiety,
+    - no national identity
+    - less focus on family
+    - LGBT+
+    - Low growth
+  - Counter evidence
+    - Britain is still a safe wealthy country
+  - Theory
+    - Nations that turn away from God suffer.
+  - Evidence
+    - Bible
+    - Selective reading of history
+  - Counter evidence
+    - Perhaps an acknowledgement that God's plans are mysterious
+  - If Christianity is better, why don't people believe it?
+  - Theory
+    - People don't want the hard medicine
+  - Evidence
+  - Counter evidence
+    - Some notion that in some way non-Christians lives are harder
+  - Some similarities to hard times weak mean analogy
+  - Context
+    - God loves us and has created a way for us ot live
+    - Humanity is sinful
+    - Jesus died to forgive sin
+    - There are laws for a good nation
+    - Not following them leads to the world we see
+    - A christian remnant survives
+  - Weaknesses of the argument
+    - Circular reasoning on what is good - LGBT+ is bad because of the bible but this is evidence that Britian is doing badly because it has turned away
+    - Little actual scholarship of what causes nations to succeed. Is the US very Christian, or China? They are doing well. Not clear there is an actual standard here.
+    - Much of this isn't load bearing, seems like they would believe this even in a very successful non-Christain country
+    - Doesn't deal with harms created
+    - More general issues with Christianity
+- Second blog
+  - A comparison between evangelical Christianity and [choose a name for my thoughts]
+  - To me it's about which story better explains the world I see
+  - Evolution
+    - Unlikely, clear steps
+    - Genetic selection
+    - Humans coordinating and competing
+    - Complex social structures and technology
+    - Requires trust in many steps and institutions
+  - Christianity
+    - God can't abide by sin
+    - God creates humans
+    - God give free will
+    - Humans choose sin
+    - Jesus died to forgive sin and bring humans back into relationship with God
+    - Some accept
+    - Some refuse and suffer eternal torment
+    - Focuses on personal faith
+  - Conflict
+    - Prefer falsifiable things
+      - when I check evolution I find it makes sense
+      - When I check Christianity I find more confusion
+      - Do you choose something falsifiablewith like a 0.00001% chance or something unfalsifiable with a only 1 huge question
+    - We don't have good concepts for likelihood
+      - Evolution feels unlikely because our brains perform well at imagining people, but under a scientific worldview evolution is simpler than imagining some all powerful conscious deity
+    - God's justice doesn't make sense to me
+      - God builds pit with a weak edge and says don't stand near it
+      - I do
+      - I fall in
+      - Jesus comes across the sea and saves me
+      - I am expected to be grateful
+      - There are two way to look at this story, either it's obvious I should be grateful or it's cosmic guilt tripping on the part of God.
+      - And this is before we get into adam and eve (why am I punished for their sin?) or creation (I didn't decide to be born?)
+    - I am not sure what Chrisitanity explains that evolution doesn't
+      - Evolution explains why we see many of the specific thigns we do - differences between creatures
+      - What does chrisitanity explain above this?
+      - Already have explanations for selfishness and hope, and I don't find the gospels particularly hard to explain
+    - If I imagine that this weren't the case, that the bible formed a single self-consistent moral account, would i be more intrested? A bit.
+      - In some sense I am oopen to the idea that a god is real and one day I will face judgement, but I can't say I respect the guy.
+      - If the moral calculus made sense then maybe I would feel more like taking a punt on christianity?
+      - But I think I'd still say, what needs to be explained here?

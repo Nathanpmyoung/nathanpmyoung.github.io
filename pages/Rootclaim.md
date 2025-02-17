@@ -1,0 +1,11 @@
+-The platform has significant unrealized potential in facilitating Bayesian analysis and debate.
+
+- Either
+  - The platform could be a simple reference document
+  - The platform could be an interactive analytical tool
+  - The platform could be a way to search the debates
+- Currently it does none of these and is frustrating for this reason
+- I expect any of the following
+  - to be able to search the debates
+  - to be able to input my own probability estimates to the current bayesian framework
+- Failing this, I would prefer to just have a reference document which doesn't promise these

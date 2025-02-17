@@ -1,3 +1,6 @@
 - [[blog]]
 - [[Cate Hall]] and [[Sasha Chapin]] have a relationship concept of being the CEO of dinner. Or of travelling somewhere.
 - As soon as I heard this, it clicked. It is tiring to have to manage something, but nearly as tiring to be unsure of who is managing it and so sort of doing so anyway. This creates a lot of wasted effort if noone knows who is actually managing the thing.
+- When we travel together, [[Katja Grace]] plans where we go and I carry all the bags. This is our division of labour and it works really well. She likes to plan and book (and I loathe it) and we are much happier if I am carrying a backpack and two carry on suitcases than if the luggage is equally split.
+- In economics, this is called labour specialisation. One country produces bolts and another turns the bolts into widgets. This is better than them both doing both. And it's way better than neither knowing who is really in charge and so partly doing both and stepping on eachother's toes.
+- Has anyone written this up?

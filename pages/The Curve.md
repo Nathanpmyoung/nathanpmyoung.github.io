@@ -1,0 +1,60 @@
+- Notes from the Curve, a conference trying to create good discourse around AI
+- Different from other conferences
+  - Rather than meeting of a tribe or cluster of tribes around shared idea, it was two conflicting tribes
+  - I would like to see more events like this
+- Connections made
+  - Best part was people making friends across different tribes
+  - Great conversations with @deanwball and @elidourado
+  - ht @mishagloubermaz for this point
+- Event organization
+  - Run by Rachel Weinberg
+  - Real value will come from running 10-100 events and seeing improvement
+  - Hope for future funding
+  - Organizers (Rachel, Anna, @akrolsmir) focused on good discourse:
+    - Only invited people of good faith
+    - Good balance between pro and anti-regulation factions
+    - Many experimental choices
+- Debates
+  - Ran 2 debates
+  - Current theory: people defend status more than they realize
+  - No one wants to look wrong in front of crowd (especially men)
+  - Goal: create low stress environment for navigating different opinions
+  - Thanks to @KatjaGrace and Rebecca for thoughts
+- Venue
+  - Lighthaven is great space
+  - Recommended for Berkeley/SF conferences
+  - Managed by @RatOrthodox
+  - https://www.lighthaven.space/
+- Mind-changing moments
+  - The marginal bill
+    - @elidourado: Consider bills in context of other bills
+    - Many AI bills may slow AI without improving safety
+  - The median isn't the message
+    - UK weather example: 100% say overcast but all know sun is possible
+    - AI discussions focus on median outcomes, miss shared views
+  - Economic models
+    - Economists not backing own growth models
+    - If AI automates thinking, should see returns from scale
+  - Process complexity
+    - @elidourado on AGI 2027 timeline
+    - Many bottlenecks: systems, regulation, unforeseen problems
+    - X-risk severity justifies regulation even with low probability
+  - Theory vs practice
+    - @deanwball: Legal system will slow AI significantly
+    - Neat mechanisms may not survive US government
+  - Liability issues
+    - @ketanr: Strict liability puts negative externalities on AI companies
+    - Companies don't capture all positive externalities
+    - @gabriel_weil and @deanwball: Insurance markets valuable
+    - Question: What exactly would insurers insure against?
+- Building trust
+  - Anti-regulation side's distrust of "last bill" promises
+  - Mechanisms to build trust:
+    - Friendship
+    - Betting on outcomes
+    - Sunset and sunrise provisions
+- Conclusion
+  - Too early to judge success
+  - Grateful to Rachel Weinberg and team
+  - Hope for more cross-divide conferences
+  - Contact @TheCurveConf to sponsor future events

@@ -1,0 +1,3 @@
+- The [[Body]] sets priorities.
+- When my mind wants to focus on something that feels like a push.
+- When my body does, it is so easy.

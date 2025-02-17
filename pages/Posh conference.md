@@ -3,3 +3,5 @@
   - Agreeing
   - Talking about restaurants
   - Talking about your business
+- Things that are awkward
+  - Actually challenging people

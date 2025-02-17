@@ -1,5 +1,5 @@
 - [[Blog]] [[Effective Altruism]]
-- *Content warning, hard advice*
+- _Content warning, hard advice_
 - Do you think your charity is literally the best thing you could be doing?
 - Do you and your staff have a reasonable quality of life?
 - Yes yes - great
@@ -9,3 +9,4 @@
 - If a business can't afford to pay their staff, we think it's okay if that business goes bankrupt. Why isn't this true for charities too? If you can't pay your self and you staff, and you can't convince someone else to, maybe that's a sign.
 - And sure, if you don't help perhaps noone will. But that was already true.
 - But I have to solve this problem. Okay find your best employee and ask them if they would work somewhere high paying and donate the difference. Or fire some other employees. If you aren't willing to at least consider these options is it really about helping? Or is it about maintaining your org?
+- Has anyone written this case up?

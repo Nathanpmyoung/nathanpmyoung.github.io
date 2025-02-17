@@ -10,6 +10,7 @@
     - [[Viewpoints]] is a survey tool where the statements change as users use it, aiming to move from uncertain statements to those people can clearly agree or disagree on
   - Podcasts with experts on important issues
     - [Odds and Ends](https://www.youtube.com/watch?v=K0rr7hDNWs4&list=PLAA8NhPG-VO_PnBm3EkxGYObLIMs4r2wZ)
+  - Writing forecasting questions. If you'd like to have markets created, send them in [here](https://forms.fillout.com/t/sSurR8maEUus)
 - You can find me on
   id:: 64b8134e-4368-458f-86c3-556d791edc99
   - [[Twitter]] - [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329577483&usg=AOvVaw3Wefpf9_J5d-IEe56dgCOv)

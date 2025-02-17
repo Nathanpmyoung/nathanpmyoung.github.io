@@ -1,0 +1,10 @@
+- I would like to see more delineation between theories and observations
+  - Often I'll see a post like [] and I'll think "Is that something you've seen or is it a suggestion"
+- Similar to my thoughts on [[Journalism]] where I think there is a difference between reporters and commentators.
+- Theories:
+  - Not necessarily true
+  - Have sharp edges
+- Observations:
+  - Clear about what you've seen
+- Studies
+  - Take a theory and test it properly

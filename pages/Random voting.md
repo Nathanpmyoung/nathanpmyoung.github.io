@@ -1,0 +1,20 @@
+- In the last election. I randomised a number and voted that way
+- Random between 1 and 100.
+  - 1 - 90 -> vote Labour
+  - 91 - 99 -> vote Tory
+  - 100 -> vote Reform
+- Felt pretty good to be honest.
+- Pros
+  - Expressed my actual uncertainty over who I would later wish I had voted for
+  - Would work great if scaled, especially if we coordinate on the random number
+    - Imagine that a load of people say they will vote for a party 99% of the time and coordinate. Then in most worlds that party still has the same chance of winning as if they had voted all the time, but that block still has negotiating capital.
+    - Provides negotiation power. Normally with a bad choice and a terrible choice, you have to take the lesser of two evils. But this provides terrible incetives. You are encouraged to only have a slightly better candidate than the terrible choice. With the % you can increase the chance of a better candidate whilst not handing things to the terrible side. It's a credible threat.
+- Cons
+  - I predict many will find this a bit repulsive
+  - Felt a bit "pick me"
+- Two things that really annoy me in voting:
+- First, that when looking back, it's hard to tell if I was overconfident. Lets say I vote Labour here. In 5 years, how do we dicide if this was the right choice. There is a reason that when forecasting I am allowed more options than 0 or 100%.
+- Second, I hate having such poor negotiating options. If Labour already know they are getting my vote, whey should they do anything for me. And why should the Tories. But here, I can say credibly say that each side can eek out percentage poins of vote. If many people did this then event quite left or right wing commmunities would be a case to all parties. S
+
+- So who did I vote for? 90% Labour, 9% Tories, 1% Reform?
+- But who did I actually vote for? I don't intend to say.
