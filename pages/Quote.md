@@ -51,5 +51,5 @@
 - [[Spike Milligan]] - https://www.youtube.com/watch?v=v1iVdLSoIRY
 	- Joanna Lumley: What makes a good soldier
 	- Spike Milligan: Fear
-- [[The Bible]] "Deep calls to deep" [[Psalm/42]] :7
+- [[The Bible]] "Deep calls to deep" [[Bible/Psalm/42]] :7
 -
