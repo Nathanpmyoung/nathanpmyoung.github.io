@@ -1,0 +1,2 @@
+- An entourage is the group of people who surround a wealthy person.
+- Wealthy people
