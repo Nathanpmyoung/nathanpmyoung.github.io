@@ -1,0 +1,3 @@
+- [[Lawrence Newport]] Crush crime
+- [[Aveek Bhattacharya]] https://aveekbhattacharya.substack.com/p/does-britain-put-too-many-or-too
+- [[Sam Ashworth-Hayes]] https://forum.effectivealtruism.org/posts/cPDptuFTiCLr8XXkL/cause-exploration-prizes-crime-reduction

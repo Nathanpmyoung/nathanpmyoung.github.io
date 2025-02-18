@@ -1,5 +1,5 @@
 - https://es.ircwash.org/sites/default/files/Ramalingam-2008-Exploring.pdf
 	- bridging aid and [[Business]] [[Complexity Science]]
 - How much ineffective aid does [[PEPFAR]] justify
-- How much is sof
+- How much is soft power worth?
 	-

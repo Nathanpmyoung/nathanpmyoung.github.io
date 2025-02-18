@@ -1,4 +1,4 @@
-- [[The Bible]] [[Job]] - _I have changed the translation for poetic license_
+- [[The Bible/Job]] - _I have changed the translation for poetic license_
 	- Then the Lord answered Job out of the whirlwind:
 	- “Who is this that darkens my counsel
 	    with words without knowledge?
