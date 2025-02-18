@@ -9,10 +9,12 @@
 	- Very few people want to kill everyone, even if it is very easy, suicide bombers are pretty rare
 	- The technologies could get replaced - eg glass with perspex
 	- Humans are good at banning even very beneficial technologies [[Slowed technologies]]
+	- It is very easy to blow up planes, and so we have developed a huge amount of technology around stopping that - and people still fly
+	- This isn't a good analogy to AI - AI tools are very expensive to build and likely to be so for a while. Even then surveillance could monitor some things without monitoring everything.
 - Bostrom looks at some options, dismissing the first 2:
 	- Restrict technological development.
 		- Bostrom finds this both hard and tragic.
-		- Seems wrong, we have narrowly restricted technologies - [[Slowed technologies]]
+			- Seems wrong, we have narrowly restricted technologies - [[Slowed technologies]]
 		- Establish extremely effective preventive policing.
 		- Establish effective global governance.
 	- Ensure that there does not exist a large population of actors representing a wide and recognizably human distribution of motives.

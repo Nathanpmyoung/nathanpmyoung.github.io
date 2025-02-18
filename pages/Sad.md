@@ -1,4 +1,5 @@
 - I have depressive moods, there is some depression in my family. I don't consider myself to have depression, though tests usually find I have moderate depression. *Brutal*
 - For me, sadness is a resistance in all I do. Not wanting to get up, not wanting to see people.
 - Relatedly it's not uncommon for it to take 90 minutes for me to leave the house to go see a friend
+- That said, I don't really see in myself what I see in depressed people. I am pretty good at getting some work done each week, pretty good a seeing people, pretty good at ensuring I am staying in touch. It seems hard to say "I have depression" when I don't see the lifestyle I see in depressed people.
 - Often I need to check whether I am [[Hungry]] or [[Underslept]] (see [[Order]])
