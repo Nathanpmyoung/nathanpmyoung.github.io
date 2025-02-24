@@ -1,0 +1,4 @@
+- [[Joe Biden]] being fit to run again
+- AI is not great
+	- ![image.png](../assets/image_1740406632200_0.png)
+-

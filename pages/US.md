@@ -1,5 +1,6 @@
 - How is the US going?
 - Relevant questions
-	- Will there be US elections
+	- Will there be US elections?
 	- US democracy rating
-	-
+	- Will the Trump admin ignore a legal requirement
+	- Will the Supreme court rule in favour of them in a big way
