@@ -1,3 +1,3 @@
-- [[Josh Hart]] [[comic]]
+- [[Comic]] inspired by comment from [[Josh Hart]] [[Midjourney]]
 - ![image.png](../assets/image_1740572038253_0.png)
 -
