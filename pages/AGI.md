@@ -1,8 +1,18 @@
 - [[Definition]]
-	- [[Google]] Artificial general intelligence (AGI) refers to the hypothetical intelligence of a machine that possesses the ability to understand or learn any intellectual task that a human being can. It is a type of [artificial intelligence](https://cloud.google.com/learn/what-is-artificial-intelligence)(AI) that aims to mimic the cognitive abilities of the human brain. [source](https://cloud.google.com/discover/what-is-artificial-general-intelligence)
-	- [[UK/Parlaiment]] Sometimes known as general AI, strong AI or broad AI**, **this often refers to a theoretical form of AI that can achieve [human-level or higher performance](https://assets.publishing.service.gov.uk/media/653bc393d10f3500139a6ac5/future-risks-of-frontier-ai-annex-a.pdf) across most cognitive tasks. See also Superintelligence. [source](https://post.parliament.uk/artificial-intelligence-ai-glossary/)
+	- [[Google]]
+		- Artificial general intelligence (AGI) refers to the hypothetical intelligence of a machine that possesses the ability to understand or learn any intellectual task that a human being can. It is a type of [artificial intelligence](https://cloud.google.com/learn/what-is-artificial-intelligence)(AI) that aims to mimic the cognitive abilities of the human brain.
+		- [source](https://cloud.google.com/discover/what-is-artificial-general-intelligence)
+	- [[UK/Parlaiment]]
+		- Sometimes known as general AI, strong AI or broad AI**, **this often refers to a theoretical form of AI that can achieve [human-level or higher performance](https://assets.publishing.service.gov.uk/media/653bc393d10f3500139a6ac5/future-risks-of-frontier-ai-annex-a.pdf) across most cognitive tasks. See also Superintelligence.
+		- [source](https://post.parliament.uk/artificial-intelligence-ai-glossary/)
 	- [[OpenAI]]
-		- Our mission is to ensure that artificial general intelligence—AI systems that are generally smarter than humans—[benefits all of humanity⁠](https://openai.com/charter/). [source](https://openai.com/index/planning-for-agi-and-beyond/)
-		-
-		-
+		- Our mission is to ensure that artificial general intelligence—AI systems that are generally smarter than humans—[benefits all of humanity⁠](https://openai.com/charter/).
+		- [source](https://openai.com/index/planning-for-agi-and-beyond/)
+	- [[IBM]]
+		- Artificial general intelligence (AGI) is a hypothetical stage in the development of [machine learning](https://www.ibm.com/topics/machine-learning) (ML) in which an artificial intelligence (AI) system can match or exceed the cognitive abilities of human beings across any task. It represents the fundamental, abstract goal of [AI](https://www.ibm.com/topics/artificial-intelligence) development: the artificial replication of human intelligence in a machine or software.
+		- [source](https://www.ibm.com/think/topics/artificial-general-intelligence)
+	- [[Wikipedia]]
+		- **Artificial general intelligence** (**AGI**) is a type of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI) that matches or surpasses human cognitive capabilities across a wide range of cognitive tasks. This contrasts with [narrow AI](https://en.wikipedia.org/wiki/Narrow_AI), which is limited to specific tasks.[[1]](https://en.wikipedia.org/wiki/Artificial_general_intelligence#cite_note-1) [Artificial superintelligence](https://en.wikipedia.org/wiki/Artificial_superintelligence) (ASI), on the other hand, refers to AGI that greatly exceeds human cognitive capabilities. AGI is considered one of the definitions of [strong AI](https://en.wikipedia.org/wiki/Strong_AI_(disambiguation)).
+		- [source](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 	-
+-
