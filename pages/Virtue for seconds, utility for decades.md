@@ -1,0 +1,5 @@
+- [[blog]]
+- Different philosophies make sense over different timescales.
+- [[Utilitarianism]] counter examples are often on very short timescales
+    - if you find $5 laying around while your friend is out of the room and give to charity, is that good?
+    - Should you siphon money from your grandmother to give away rather than leave to her heirs

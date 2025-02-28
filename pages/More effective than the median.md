@@ -1,0 +1,4 @@
+- Examples
+    - Charities
+    - Netflix firing 10%
+    - Are google doing the right thing by letting go lots of services?
