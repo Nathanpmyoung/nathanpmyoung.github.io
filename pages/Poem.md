@@ -1,6 +1,5 @@
 - *By me*
 - The Yeti
-  collapsed:: true
 	- The yeti is a thoughtful beast,
 	  A truly solemn creature,
 	  He’ll hear to your views, before he chews,
@@ -264,7 +263,6 @@
 	  So this must end
 	  As if it had never began
 - Monster
-  collapsed:: true
 	- *I guess I wrote this, I have a load of notes for it, but I don't remember it at all*
 	- We are a normal family,
 	  A father and a mother,
@@ -274,7 +272,7 @@
 	  But we have a curious secret,
 	  Something quite bizarre,
 	  Someone lives inside our house,
-	  You guess what they are
+	  You not guess what they are
 	  
 	  He is the food devourer,
 	  Eating leftovers with haste,
@@ -331,7 +329,7 @@
 	  Hardy feel the hypothermia, as the uni flashes past,
 	  Now no inkling of our sinking as we slide across the top,
 	  Unless we vent all our momentum in a sodden, sudden stop.
-- ChristmasÌ
+- Christmas
   collapsed:: true
 	- If Christmas were a particle,
 	  Which one would it be?
