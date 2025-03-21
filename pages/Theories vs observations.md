@@ -8,3 +8,6 @@
   - Clear about what you've seen
 - Studies
   - Take a theory and test it properly
+  -
+- To add
+- My dance article

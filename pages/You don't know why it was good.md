@@ -1,0 +1,48 @@
+- Things where people didn't seem to know why the thing was actually good
+- Star Wars was very good. But the prequels and sequels seem both to have theories of why (and both were wrong, imo)
+  - The prequels theory seems to have been:
+    - Lightsaber
+    - Space battles
+    - Animated characters
+    - Quips
+  - The sequels theory seems to have been:
+    - A New Hope. Literally the whole film, hence they rip it off for The Force Awakens.
+    - The original characters and actors
+    - Twists
+  - What these both missed out:
+    - Solid world building. The prequels have a lot, but it isn't well integrated. The sequels have little.
+    - Solid plots. The plots of the prequels are confusing as are 8 and 9. Honesty, the plot of The Return of the Jedi isn't great but the previous two films hold it together. The original two films had rompy plots in a universe that felt both lived in and coherent.
+    - Characters. Red letter media play a game where they ask people about the original series vs the prequels. They ask people to describe a character without reference to their appearance. What are they like. Try it with a friend. Describe Han Solo (trickster, heart of gold, sarcastic, lonley, friend) then compare this to Anankin (sullen, incel?). The characters in the original films are just so much broader.
+    - Actors with star power. Harrison Ford is spectacular and Mark Hamill and Carrie Fisher do well. Compare that to Hayden Christensen and Natalie Portman's non-chemistry or Rey (Daisy Ridley) who is bland. Her costars are handled even worse.
+- Sherlock Holmes, with Benedict Cumberbatch. The theory for what was good:
+  - Sherlock doing quips
+  - Sherlock and Watson's chemistry
+  - Twists
+  - Long clever plot arcs
+  - What this missed out:
+    - Mysteries! Sherlock Holmes is the greatest detective of all time [^1]. The first series had tight, standalone mysteries that the viewer could perhaps solve. This was quickly done away with - remember when the literally liken viewers trying to understand Sherlock's death to conspiracy theorists and decline to explain it? Bad!
+- [[Pirates of the Caribbean]]
+  - The first one is good. The sequels are not. But why? (the second film is fine)
+  - The theory for why the first one was good seems to have been:
+    - Captain Jack Sparrow
+    - Multiple parties in conflict
+    - Magical elements
+    - Romance
+    - Ships
+    - A complicated plot
+  - What this missed out:
+    - How tight the original plot is. Seriously, I rewatched these recently and there are so many good set pieces. #Spoilers. The way they steal the smaller, faster ship. How Jack plays the sides off against one another. Will changing sides. The final battle in light and darkness. The film doesn't have an inch of fat on it. The second film is messy and the third just bloated by comparison.
+    - The romance between Will and Elizabeth. We actually like Will and Elizabeth. And their romance adds balance to Jack's chaos. By the second film, it is just part of Jack's chaos.
+    - Wanting more of Jack. The reason you want more of Jack is because he is around so little. This is not remotely true by the second film. He's a caninbal god (why?) he is running, stealing, quipping.
+- What are the patterns here?
+  - The later films miss on having a solid plot, characters and writing. The common theme here seem to be that a film with a straightford or clever plot and iconic characters is followed by one with a convoluted plot and millions in animation. There seems to be little that one can do to replace good writing.
+  - The later films focus too much on previous characters. Often the good parts of the original films were balanced by other elements. Darth Vader has remarkably little screen time. Captain Jack is not the main character of the first film. Sherlock's first season isn't primarily about Sherlock. By the second season/film, all of these things that were good set pieces have become the main thing, and been cheapened in the process.
+  - There was something workaday about the original thing. Whether it was Will and Elizabeth's romance, Sherlock solving mysteries or the standard caper of Star Wars, there was something we understood that grounded the film. By the second entry, the writers had decided we were too grown up for this - we understood what a mystery was, now we needed a twist on it. No! The original thing was good. Entry 2 is not the time for the twist, save that for 3 or 4. Entry 2 is the time for carrying on enjoying the thing we already liked. Do the hard work of making that thing good.
+- Ulitmately, I think that writers often want to avoid the hard work of creating good plots, characters or mystery and instead do quips, fan service and flashy animation. But this leads to the downfall of their series. You might say "well didn't these films make a lot of money?" Sure. But Marvel managed to uphold a level of quality for the entire of phase 1 to 3. That was like 10 years of films. You know what's more than a lot of money? Like 10 times as much more than that. Imagine how much money Star Wars could have made if the prequels and sequels were considered as unambiguously good as the all the films between Avengers: Age of Ultron and Endgame. Imagine how many spin offs we could have seen for Pirates of the Caribbean.
+- People think studio execs are too greedy. I am not sure they are greedy enough. And ultimately I don't think they understand why their best films were good.
+- Other things to add:
+  - Batman trilogy
+  - Toy Story trilogy
+  - Shrek and Shrek 2
+
+[1]: Perahps the other contender is Batman, but I don't think that's true in the public consciousness. Who knows who Indians and the Chinese think the greatest detectve is.

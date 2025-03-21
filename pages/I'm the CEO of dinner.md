@@ -1,6 +1,48 @@
-- [[blog]]
+- [[blog]] [[unpublished]]
 - [[Cate Hall]] and [[Sasha Chapin]] have a relationship concept of being the CEO of dinner. Or of travelling somewhere.
 - As soon as I heard this, it clicked. It is tiring to have to manage something, but nearly as tiring to be unsure of who is managing it and so sort of doing so anyway. This creates a lot of wasted effort if noone knows who is actually managing the thing.
 - When we travel together, [[Katja Grace]] plans where we go and I carry all the bags. This is our division of labour and it works really well. She likes to plan and book (and I loathe it) and we are much happier if I am carrying a backpack and two carry on suitcases than if the luggage is equally split.
 - In economics, this is called labour specialisation. One country produces bolts and another turns the bolts into widgets. This is better than them both doing both. And it's way better than neither knowing who is really in charge and so partly doing both and stepping on eachother's toes.
-- Has anyone written this up?
+- At home, my housemate Joe manages the cleaner, I manage the bills and Jugal ensures the bins are taken out. For a while each of these was sort of everyone's job, but that meant that none of it got done and that when it didn't, we didn't know who to query. We just sort of felt bad, with overflowing bins.
+- I think Feminism went a bit far, but in the main had a lot of good points. One such is that much of the "being CEO" of home life falls on women. And this was one thing when men mainly worked and women stayed at home [^1]. But now that both men and women work, it seems reasonable to split home work. But not just home work, but the "being the CEO" bit. Who lies in bed and realises the bins haven't been taken out? Who gets up to hoover rather than leaving things a state? Who ensures the children are fed (even if they don't cook)
+- Here then are some tasks that one can be the CEO of:
+
+  - At home:
+    - Planning meals
+    - Doing the washing up/ filling, emptying the dishwasher
+    - Resetting private/public space
+    - Managing the cleaner
+    - Managing the bills
+    - Doing the laundry
+  - Travelling:
+    - Planning where to go
+    - Booking
+    - Packing
+    - Carrying lugging
+    - Navigating when out
+  - I don't have children, but I've lived with families:
+    - Babies
+      - Changing nappies
+      - Breastfeeding can only by done by women, but bottle feeding, cleaning bottles etc
+      - Noting down whatever complex set of data you have decided to track
+    - Children
+      - Getting up
+      - Morning food
+      - Dressing
+      - Getting to school on time
+      - Managing kids if they are sick
+      - Perhaps home schooling
+      - Tracking educational attanment
+      - Managing emotions
+  - More out there:
+    - Managing the emotional health of your relationship
+    - Planning interesting sex
+    - Planning days out
+    - Finding partners for your single friends.
+    - Like 60 other things
+
+- The point is that if a task has no CEO then noone is going to bolt upright in the middle of the night and do it (or if someone is it's always going to be the same person). But if a task is important, its important enough to have a CEO.
+- And being responsible for something is a bit like being on call. People are paid for being on call even if they don't get called. Even if the everyone always tidies up, it's very different to knwo that if they don't, you'll have to do it. Again, I think that women probably feel this a lot in relatinships.
+- Next time a task isn’t done, perhaps consider offering to be the CEO of it.
+
+-[^1]: I think this was fairish as a division of labour, but now that there are easy pathways for women to work, their revealed preference are that many didn't want to stay at home. Though contrary to feminism, Norways inequality shows that many does not mean all - women really do much prefer childcare to men.

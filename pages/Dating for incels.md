@@ -1,0 +1,67 @@
+- [[Blog]] [[Dating]]
+-
+- I don't understand women well, but I understand better than some of you.
+-
+- First of all, my credentials. I am not in a long term committed relationship. I do however have 10 or more close female friends, both single and married. I have been to like 40 weddings. And yes, I have slept with like 40 women, most of whom I am still on good terms with. I have a number of long term romantic partners. I have had a lot of good romantic and sexual experiences and the women with whom I have had them mostly like and respect me. I am not remotely perfect, but I think I have learned a few things, compared to the typical internet anon.
+-
+- So, slightly angry man on the internet, what are my tips to you?
+-
+- 1. If you are angry or sad, acknowledge it.
+- 2. Create space for improvement
+- 3. Learn to trust your future self
+-
+- 1. If you are angry or sad, acknowledge it.
+-
+- Most people are not dumb. Women are most poeple. They can smell resentment a mile away and it smells bad.
+-
+- I see a lot of anon/incel guys writing about topics adjacent to dating and all I can say is "given that you write like that, I am unsurprised".
+-
+- I posted a picture of two of my friends who I set up who recently got engaged. Here is whan an anonymous poster wrote:
+-
+- I, personally, have never been "set up", but have had several times when someone tried to break up a long-term relationship I was in.
+-
+- Funny enough, each time it was a woman, trying to destroy my relationship to "rescue" another woman. (in the majority of cases, it was a genuinely morbidly obese, depressive, and spiteful woman who somehow still had a ton of friends, trying to break up my relationship with a fit, attractive, and also socially connected woman).
+-
+- And no, this isn't just about me, because what I'm describing fits a pattern that happens to quite a few people.
+-
+- As does the "my friends hook me up with people who are good to me" pattern!
+-
+- And funny enough, these usually happen within the same friend circles, which means that people like Nathan _know who to help and who to hurt_.
+-
+- "How do they know?" is the question that has always fascinated me. Unfortunately, whenever I ask it, people think I'm just asking "why me?".
+-
+- Let's spend a moment considering the mental state of someone who sees a happy couple being set up and thinks 'People like Nathan are judging who to help and who to hurt and it's unjust'. Note there is some reasonable point here - I do actually judge who I want to help. But one criteria I judge on is if you see picture of a happy couple and decide to tweet that this is some kind of personal attack, that's a red flag.
+-
+- I don't know this person or what is going on in their life. But they could have asked this question in a way that wasn't so hostile. But I think that would have required them first to admit that they were sad and hurt. That perhaps they weren't in a good state of mind for asking hard questins about relationships.
+-
+- To me this kind of content doesn't read as someone who wants answers. It reads as someone who wants to have a reason to blow up and hate everyone involved. Incel discourse often looks like this to me. It's not "why am I unhapy" it's "why have those b\*tches wronged me?".
+-
+- 2. Create space for improvement
+-
+- I am not perfect. But I cannot improve all at once. And a lot of improvement is about acknowledging that it can happen. That I will be safe if I improve.
+-
+- Here are some ways I have improved recently:
+
+  - I have learned to dance
+  - I get more work done
+  - I listen better, by jumping in less, noticing when I want to ignore someone
+  - I am kinder, noticing when I want to tell someone something they don't want to hear and then not necessarily doing it
+  - I am less distracted, often by putting my phone some distance from me while I'm working
+  - I go to the gym more often
+  - I can cook more meals
+  - I host more dinners
+
+- These things didn't happen all at once. And if I had decided to do them all at once it would have felt insurmountable. Instead I looked at the options and slowly improved.
+-
+- You probably know ways in which you could be a more suitable partner. Maybe you could gain some muscle, have a steadier job, drink less. Perhaps consider writing down a list of such things. Perhaps ask a kind trusted friend what they think the highest priority thing should be. And before you come up with a plan, just sit with the idea that this thing can be worked on. Not everything, just one thing. It can probably improve.
+-
+- 3. Learn to trust your future self
+-
+- I have [[ADHD]] tendencies. I struggle to get tasks done on time. And the worst part of this is that it's hard to say "I'll do that" becuase I probably won't.
+-
+- One way to grow is to actually build that trust with myself. To promise far fewer things but actually become the person who does the things they say they will.
+-
+- I think the same is true of dating. For a few years I had a set of bad relationships. I was distracted. They got hurt. I got hurt. It was bad. And so I resolved to build trust with myself that we would have a better time. Both for the other person and for me.
+-
+- As a result I have built up a set of strategies to help me be a better partner:
+  - Do not date people when I think it's a bad idea. For a while I dated a woman who I felt wasn't having a great time. But whenever I asked she said she realy wanted to stay together. Later she regretted it and was deeply upset. I don't think that was my fault per se, but it was my responsibility. I predicted it would happen. I don't date people when I predict it will go badly, no matter their protestations.

@@ -1,0 +1,1 @@
+- Benefits fall across time rather than with earnings

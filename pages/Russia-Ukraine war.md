@@ -1,3 +1,50 @@
 - ![Image](https://pbs.twimg.com/media/GaPjvZ-WkAAPQG7?format=jpg&name=large)
--
+- Actors and theories
+  - Russia
+    - Will stop after some Ceasefire
+      - Accepts a ceasefire
+      - Doesn't break ceasefire
+      - Accepts UK/US/EU/NATO boots on ground as guarantee of ceasefire
+    - Is on the brink of collapse
+      - The final deal includes sanctions relief
+    - Is militarily much stronger now
+      - Will not take deals that don't include sanctions relief
+      - Will not take deals with Western boots on the ground
+    - Will try and take a few more balkan countries
+    - Will try and rampage through Europe
+  - Ukraine
+    - On the brink of collapse
+      - Accepts a deal with territorial losses, no Western boots on the ground, Russian sanctions relief
+    - Can carry on
+      - Won't accepts a deal with territorial losses, no Western boots on the ground, Russian sanctions relief
+      - Gets a US/EU relief package
+  - US
+    - US is on Russia's side now
+      - Doesn't pressure russia even though they don't agree ceasefire
+    - US is trying to end the war
+      - US does pressure Russia
+    - US wants Europe to spend more on defence
+      - Trump is positive after increase in defence spending
+      - Less AFD stuff
+    - US wants to align against China
+    - US wants tCo keep Russia weak
+      - US maintains sactions until Russia pays for conflict
+  - EU
+    - About to pony up
+    - More empty words
+    - Some weak security guarantees
+  - China
+    - Pushing for multipolar world
+    - Push for European influence
+  - Saudi Arabia
+    - Seeks to have balanced relations with Russia and China
+    - Seeks to have Ukraine focused relationship
+    - Seeks to have US focused relationship
+- Write a set of markets on these.
+- Find some way to display and analyse them.
+
+  - [[Estimaker.app]]
+  - What would be the simpler way here?
+  - I guess put all these markets in a spreadsheet, build the index, and then use that.
+
 -

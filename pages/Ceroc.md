@@ -1,140 +1,162 @@
-- *Ceroc is a simple dance style that provides a fun evening. There are a number of places across [[London]] that run it. I was inspired by [[Richard Ngo]] to take up dancing as fun [[Cardio]]. If you're interested, check out [ceroc.com](https://www.ceroc.com/)*
-- What the classes are like
-	-
+- _Ceroc is a simple dance style that provides a fun evening. There are a number of places across [[London]] that run it. I was inspired by [[Richard Ngo]] to take up dancing as fun [[Cardio]]. If you're interested, check out [ceroc.com](https://www.ceroc.com/)_
+- ## What the classes are like
 - Preamble
-	- IIUC there are a number of styles of dance that use these same moves, but Ceroc is laxer on footwork and the "basic" which is the step you can do when you aren't doing a move.
+  - IIUC there are a number of styles of dance that use these same moves, but Ceroc is laxer on footwork and the "basic" which is the step you can do when you aren't doing a move.
 - Moves
-	- Basic moves
-		- Shoulder slide
-			- Man spin but with right hand under rather than over
-			- Ends right holding left
-				- {{video https://www.youtube.com/watch?v=ZVcSYLMsYLI}}
-		- Shoulder spin
-			- Spin her anticlockwise
-			- Spin clockwise
-			- Out
-			- She comes across body
-			- Anticlockwise
-		- Simple ceroc spin
-		  id:: 4d08e5ac-76be-4c3a-a733-b71e25049e3f
-			- Right holding their right
-			- Pull her hand sideways with my right
-			- Grip wrist with left hand
-			- spin round
-			- catch with left
-			- Spin her anticlockwise
-		- Step across
-			- Lift handand step under
-			- spin her anticockwise
-		- Arm switch
-		- Travelling return
-		  id:: 4948dce7-de57-4a1a-a97e-7fe15f2719ad
-			- Left holding their right
-			- Step into [[Lane 1]]
-			- Lift their hand above their face
-			- Step back into [[Lane 2]]
-		- Low first
-			- Hand on hip
-		- Man spin
-			- Lift my right hand
-			- Spin at end?
-			- Ends right holding their left
-		- Mambo
-			- Starts swapped
-				- Octopus
-				  id:: fc1aa463-d23c-4ca4-8386-93b21a200fe3
-					- Both hands holding standard way
-					- Step into [[Lane 1]] facing away from [[Lane 2]]
-					- Spin and lift right hand over head, pulling follower into a half spin across your back
-					- Release left hand and complete spin
-					- ((4948dce7-de57-4a1a-a97e-7fe15f2719ad)) with the right hand held, releasing only at the last moment
-					- 3 times?
-		- High first
-			- Unsure if they did this right tbh
-		- Arms on shoulders
-			-
-	- Intermediate moves
-		- Basketwhip
-			- Basket
-			- Flick out to right
-		- Head duck
-			- Flick back across
-			- lane 1 to 3
-			- spin round togeter
-			- flick and avoid their head
-		- Waltz hold
-		- Flick behind
-			- Right to right
-			- Into [[Lane 1]]
-			- Something about being behind me
-			- Reach left hand behind
-			- Flick them forward
-			- Catch with left and spin
-			- Release and catch again with left
-		- Push spin
-			- Step forward slightly
-			- Pull towards
-			- Raise hand and stop
-			- spin them back round
-			- something about lifting their hand up
-			- spin them back toward
-			- grab
-			- release
-		-
-	- Advanced moves/ ones I found on the internet
-	- Classic moves I am learning
-		- Basket
-			- ![306b61e9-6227-463b-ad84-1046ea2a2764.MP4](../assets/306b61e9-6227-463b-ad84-1046ea2a2764_1699290043974_0.MP4)
-	- More complex moves I am learning
-		- Right hand holding left Yoyo
-			- ![IMG_7571.MOV](../assets/IMG_7571_1699290494003_0.MOV)
-			-
-			- anticlockwise spin
-			- then flick for second spin
-			- grab, pull hold
-			- release
-		- Nelson
-		- ![498c4767-f9e0-4a71-bd63-2d60248216cb.MP4](../assets/498c4767-f9e0-4a71-bd63-2d60248216cb_1699290051237_0.MP4)
-		- Arm switch with flip and then break and spin
-		-
-		- Left handed 8
-			- /u
-		- Hand switch
-			- Not feeling great
-		- ![IMG_7536.MOV](../assets/IMG_7536_1699290657992_0.MOV)
-		-
-		- Ceroc spin
-		  id:: 3343286a-eded-4bc1-8ac0-636503c196f7
-			- Right holding their right
-			- Step back
-			- Step into [[Lane 1]]
-			- Flick the follower's hand to your right, so they spin as you walk
-			- Catch with your left hand
-		- Embrace and release
-			- Pull the follower in and step back,
-			- bring them round to my hip
-		- Simple Arial yoyo clockwise starting from right into left
-			- {{video https://www.youtube.com/watch?v=9toL6bfT63E&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=3}}
-		- Blind
-			- {{video https://www.youtube.com/watch?v=sCttAvR-LHU&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=7}}
-		- Accordion neck break
-			- {{video https://youtu.be/xQGdllcrSao?si=aPdREaw6vAO0Crvm}}
-		- Beginning figure of 8
-			- {{video https://www.youtube.com/watch?v=rGLJKHNxLlA&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=9}}
-		-
-		-
-		- Follower knows what they are doing switch
-			- {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
-		- 3x Switch sides spin
-			- Somehow taking hands at the end of each
-			- {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
-		- Octopus
-		- Hand switch and waltz
-			- start on off hand
-			- spin in place
-			- hand over head onto right shoulder
-			-
-			-
-		-
-		- {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
--
+  - Basic moves
+    - Shoulder slide
+      - Man spin but with right hand under rather than over
+      - Ends right holding left
+        - {{video https://www.youtube.com/watch?v=ZVcSYLMsYLI}}
+    - Shoulder spin
+      - Spin her anticlockwise
+      - Spin clockwise
+      - Out
+      - She comes across body
+      - Anticlockwise
+    - Simple ceroc spin
+      id:: 4d08e5ac-76be-4c3a-a733-b71e25049e3f
+      - Right holding their right
+      - Pull her hand sideways with my right
+      - Grip wrist with left hand
+      - spin round
+      - catch with left
+      - Spin her anticlockwise
+    - Step across
+      - Lift handand step under
+      - spin her anticockwise
+    - Arm switch
+    - Travelling return
+      id:: 4948dce7-de57-4a1a-a97e-7fe15f2719ad
+      - Left holding their right
+      - Step into [[Lane 1]]
+      - Lift their hand above their face
+      - Step back into [[Lane 2]]
+    - Low first
+      - Hand on hip
+    - Man spin
+      - Lift my right hand
+      - Spin at end?
+      - Ends right holding their left
+    - Mambo
+      - Starts swapped
+        - Octopus
+          id:: fc1aa463-d23c-4ca4-8386-93b21a200fe3
+          - Both hands holding standard way
+          - Step into [[Lane 1]] facing away from [[Lane 2]]
+          - Spin and lift right hand over head, pulling follower into a half spin across your back
+          - Release left hand and complete spin
+          - ((4948dce7-de57-4a1a-a97e-7fe15f2719ad)) with the right hand held, releasing only at the last moment
+          - 3 times?
+    - High first
+      - Unsure if they did this right tbh
+    - ## Arms on shoulders
+  - Intermediate moves
+    - Basketwhip
+      - Basket
+      - Flick out to right
+    - Head duck
+      - Flick back across
+      - lane 1 to 3
+      - spin round togeter
+      - flick and avoid their head
+    - Waltz hold
+    - Flick behind
+      - Right to right
+      - Into [[Lane 1]]
+      - Something about being behind me
+      - Reach left hand behind
+      - Flick them forward
+      - Catch with left and spin
+      - Release and catch again with left
+    - Push spin
+      - Step forward slightly
+      - Pull towards
+      - Raise hand and stop
+      - spin them back round
+      - something about lifting their hand up
+      - spin them back toward
+      - grab
+      - release
+    -
+  - Advanced moves/ ones I found on the internet
+  - Classic moves I am learning
+    - Basket
+      - ![306b61e9-6227-463b-ad84-1046ea2a2764.MP4](../assets/306b61e9-6227-463b-ad84-1046ea2a2764_1699290043974_0.MP4)
+  - More complex moves I am learning
+    - Right hand holding left Yoyo
+      - ![IMG_7571.MOV](../assets/IMG_7571_1699290494003_0.MOV)
+      -
+      - anticlockwise spin
+      - then flick for second spin
+      - grab, pull hold
+      - release
+    - Nelson
+    - ![498c4767-f9e0-4a71-bd63-2d60248216cb.MP4](../assets/498c4767-f9e0-4a71-bd63-2d60248216cb_1699290051237_0.MP4)
+    - Arm switch with flip and then break and spin
+    -
+    - Left handed 8
+      - /u
+    - Hand switch
+      - Not feeling great
+    - ![IMG_7536.MOV](../assets/IMG_7536_1699290657992_0.MOV)
+    -
+    - Ceroc spin
+      id:: 3343286a-eded-4bc1-8ac0-636503c196f7
+      - Right holding their right
+      - Step back
+      - Step into [[Lane 1]]
+      - Flick the follower's hand to your right, so they spin as you walk
+      - Catch with your left hand
+    - Embrace and release
+      - Pull the follower in and step back,
+      - bring them round to my hip
+    - Simple Arial yoyo clockwise starting from right into left
+      - {{video https://www.youtube.com/watch?v=9toL6bfT63E&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=3}}
+    - Blind
+      - {{video https://www.youtube.com/watch?v=sCttAvR-LHU&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=7}}
+    - Accordion neck break
+      - {{video https://youtu.be/xQGdllcrSao?si=aPdREaw6vAO0Crvm}}
+    - Beginning figure of 8
+      - {{video https://www.youtube.com/watch?v=rGLJKHNxLlA&list=PLKnXsOvMPyRO51uji8D1zQzrZ7hjDzqTK&index=9}}
+    -
+    -
+    - Follower knows what they are doing switch
+      - {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
+    - 3x Switch sides spin
+      - Somehow taking hands at the end of each
+      - {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
+    - Octopus
+    - Hand switch and waltz
+      - start on off hand
+      - spin in place
+      - hand over head onto right shoulder
+      -
+      -
+    -
+    - {{video https://www.youtube.com/watch?v=1VhavJlI1Yo&t=20s}}
+- Start
+  - Walz hold
+  - Swizzle
+  - Push spin wiht hand crossover
+  - Change to other hand
+    - Flip switch
+    - Yoyo where I switch
+    - Overhead
+  - Left hand
+    - Standard hand behind back with left hand spin at end
+  - Non-standard spin
+  - Wrist twirl
+  - From back of swizzle
+  - Release
+  - The simple push back thing
+  - Whatever steve actually does
+  - From walz hold
+  - Figure 8
+  - Could do with more
+  - Left arm flinging back
+  - Walk to join
+  - From left arm flung back
+  - Nelson
+- From right arm flung back
+  - Tuck in spin across

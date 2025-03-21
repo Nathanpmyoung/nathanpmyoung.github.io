@@ -1,0 +1,24 @@
+- [[Blog]] [[Unpublished]]
+- We have a notion that things are only good if they ended well. I disagree with this.
+-
+- What happened may be over, but that doesn't mean I can't enjoy it. I feel this way about the bad parts - feeling regret about a lost friendship long after it is passed. So why not feel the same way about the good parts? The laughs, the silences, the romance, they still happened.
+-
+- A friend of mine's partner passed away. And he talks about a notion called block time. This is the idea that the past isn't really gone. It's just somewhere else, somewhen else. I don't know if this is true.
+-
+- But as a philosophical point, it seems worth thinking about, considering that I really did experience those good memories and to the extent that I've caused harm in the past, people really did experience suffering from it. Our good choices and bad decisions are still there, like driving past a wedding in the centre of town. Or an arrest.
+-
+- To the extent that I value experiences now, I should treat with seriousness the experiences that have gone by. That one day the better part of my experiences will be done. And if at that point I am incapable of looking back with fondness, then what was it all for?
+-
+- Katja and I are secondary partners and our relationship probably looks more like a friendship than a romance. People often assume I am taking advantage of a her or that she doesn't have agency. But I think she views life as a thing to live and she likes our thing. [She is an adult woman, stop patronising her]. She doesn't seem to regret other relationships which weren't destined to last even now that they are over. I have pondered this.
+-
+- I think there is a wisdom in enjoying things that are good and avoiding things which are bad. And a short happy relationship is a good thing, even if it doesn't last. A one-night stand can be fun. Well so can a one-year stand. And even more so if one can remain friends afterwards.
+-
+- I feel pressure to be ashamed of things that end, especially if it's largely my fault. I have done many things I regret, over the years, mostly in relation to people I have cared deeply about. And there is a temptation to put them all in a black box under my bed, never to be spoken of.
+-
+- And so, this is a kind of love letter to my ex-friends.
+-
+- I still treasure what we had. I still enjoy those memories. We were happy once. I am not ashamed of that. The relationships were joyful. I enjoyed the jokes and the movies. I will read the love letters. [I have deleted the nudes though]. I will tell our stories. I will say that you are wise and generally, kind.
+-
+- And I am sorry for the times I was distracted or clumsy. If I could take back the hurts, I almost certainly would. I have probably thought about them. I may have an unsent letter somewhere.
+-
+- I want joy, whether it lasts a short time or long time. The party was still good if I get into a blazing row at the end. It is easy to remember the sorrow, but there is a richness to things that were good, too. I'm not going to shame you nor be ashamed of the enjoyment I take, even in things which are gone. Thank you.
