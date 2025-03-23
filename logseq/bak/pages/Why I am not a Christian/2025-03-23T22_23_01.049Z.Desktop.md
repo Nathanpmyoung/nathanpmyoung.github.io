@@ -1,0 +1,4 @@
+- I was sad
+- Sex/LGBT+ stuff
+- [[The Bible]] is ethically bad
+- Biblical incoherence
