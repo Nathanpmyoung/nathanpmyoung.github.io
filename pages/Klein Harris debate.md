@@ -1,0 +1,8 @@
+- Emails
+- Vox articles
+- Sam gets annoyed
+- Shares emails
+- Ezra recommends Ibram Kendi. That aged badly
+- Sam apologises
+- Ezra thinks the conversation lacks history
+- Ezra thinks that Murray is a policy entrepreneur

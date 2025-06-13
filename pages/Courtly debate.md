@@ -1,0 +1,51 @@
+- [[Debate]] format
+- Participant Roles
+- Upon arrival, attendees receive name badges/tags
+- Self-nomination stickers available for key roles:
+	- Monarch (King/Queen)
+	- Knight
+	- Fool
+	- Troubadour/Minstrel (optional)
+- Debate Format
+- ### Setup
+- Attendees submit debate questions upon entry
+- Question submissions include proposed topic and preferred monarch to address it
+- Submissions collected and curated by the Grand Vizier
+- ### Procedure
+- **Opening Ceremony** (2 minute)
+	- Grand Vizier welcomes the first Monarch to the stage
+	- Crowning ceremony with appropriate deference and fanfare
+	- Introduction of the debate question
+- **Knight Selection** (2 minutes)
+	- Grand Vizier solicits Knights to defend opposing positions
+	- Two Knights with contrasting views are selected
+- **Fool Appointment** (1 minute)
+	- Grand Vizier explains that the Monarch requires a royal questioner
+	- A volunteer is appointed as the Fool (receives fool's cap/symbol)
+- **Debate Proper** (6-7 minutes)
+	- Each Knight presents their position (1 minute each)
+	- The Fool questions both Knights and facilitates dialogue with the Monarch
+	- Knights respond to questions (timed responses)
+	- Monarch may interject with questions or observations
+- **Resolution** (1-2 minutes)
+	- The Monarch shares reflections on the arguments presented
+	- Rather than declaring a "winner," the Monarch identifies compelling points from both sides
+	- The Monarch may propose a synthesis or highlight unresolved tensions
+- **Creative Interlude** (Optional, 1 minute)
+	- If available, a Minstrel performs a brief musical summary of the debate
+- **Succession** (30 seconds)
+	- Grand Vizier announces the Monarch's successful reign
+	- Introduction and crowning of the next Monarch
+	- Transition to a new debate topic
+- ### Timing
+- Each complete debate cycle: approximately 12 - 20 minutes
+- Format allows for 3-4 debates per hour
+- Proposed schedule: 2 debates, intermission, 2 more debates
+- Total event duration: approximately 2 hours including intermission
+- ## Other requirement:
+- Crown
+- Fools hat
+- Swords?
+  
+  **
+-

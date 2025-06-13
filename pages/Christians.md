@@ -1,0 +1,3 @@
+What are Christians like? In most of the churches I've been a part of, which I guess is three in my adult life, four, there is a wide variety of wealth and relative poverty. You really do see people who have degrees, perhaps even PhDs, people who run businesses and are quite wealthy, mixing with people who are very poor, who live very dysfunctional lives. This seems unusual to me.
+
+The group chat from my church I ¥had growing up has survived now for maybe 10 or 15 years with a group of young adults, so 20s, 30s. It is a 50 person maybe group chat, and it manages pretty well. This seems pretty unusual to me.
