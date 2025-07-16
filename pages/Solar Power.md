@@ -1,0 +1,2 @@
+- Trying to understand [[Casey Handmer]]'s views on power.
+-

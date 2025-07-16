@@ -1,0 +1,6 @@
+- Massive consideratons
+  - Trump attempted to run a coup. Game theory suggests you can't let someone do this and still get into power again.
+  - AI policy under Biden was solid. Rerolling seemed likely on average to be worse
+  - Competence is real. Generally it's better to have competent governance.
+- Other considerations
+  - I didn't think [[DOGE]] would go well and bet accordingly

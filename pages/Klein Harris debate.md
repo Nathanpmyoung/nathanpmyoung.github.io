@@ -5,4 +5,10 @@
 - Ezra recommends Ibram Kendi. That aged badly
 - Sam apologises
 - Ezra thinks the conversation lacks history
-- Ezra thinks that Murray is a policy entrepreneur
+- Ezra thinks that Murray is a policy entrepreneur, serious actor
+- Harris thinks the policy and science are different
+- Harris thinks the specific articles were unacceptable
+- In some sense Harris is acting with boundaries - there are some things you can't say about someone
+- Whereas Ezra is being the relativist, if someone supports bad enough policy you can say bad things about them
+- Which performs better
+- Examine the claims?
