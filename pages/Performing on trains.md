@@ -1,0 +1,4 @@
+- I find it generally exceptionally selfish to perform on trains. 
+- Most of the time, people clearly want the performer to stop and the harm outweighs the joy.
+- Likewise it isn't that hard to tell if this isn't the case, I can see if a group of people generally enjoy what I'm saying.
+- I have actually performed on a train once, with a lot of prompting and it went really well, but it was clear that people were into it and a guy hyped me up a lot. 
