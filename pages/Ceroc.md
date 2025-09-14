@@ -160,21 +160,21 @@
 			- Wrist twirl
 			- Spin round and arm grip
 		- arm grip x thing
+		- Could do with one more here.
 	- From back of swizzle
 		- Release
 		- The simple push back thing
 		- Whatever steve actually does
-		- Could work on
 	- From not actaually walz hold
 		- Flip to other side
 		- Figure 8
 		- Could do with more
 	- Left arm flinging back
 		- Nelson?
-		- Walk to them and do the silc thing
-		- Pull back in with a standard starting move
+		- Could do with more
 	- From right arm flung back
 		- Tuck in spin across
+		- Could do with more here
 	- Waltz hold
 		- Step sideways
 		- Left arm flinging back
