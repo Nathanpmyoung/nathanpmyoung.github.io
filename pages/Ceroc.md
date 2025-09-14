@@ -174,7 +174,7 @@
 		- Could do with more
 	- From right arm flung back
 		- Tuck in spin across
-		- Could do with more here
+		- Whip -
 	- Waltz hold
 		- Step sideways
 		- Left arm flinging back
