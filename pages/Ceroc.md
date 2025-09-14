@@ -172,9 +172,10 @@
 	- Left arm flinging back
 		- Nelson?
 		- Could do with more
+		- Lean, though become much confident first
 	- From right arm flung back
 		- Tuck in spin across
-		- Whip -
+		- Whip - turn follow anticlockwise with left arm, into ballroom hold step acroos and release
 	- Waltz hold
 		- Step sideways
 		- Left arm flinging back
