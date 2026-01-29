@@ -3,7 +3,7 @@
 - I have been funded by the [[Future of Life Foundation]], [[Jaan Tallinn]], [[Vitalik Buterin]] and [[Other Funders]] .
 - I work on
 	- Automating [[X]] [[Community Notes]] in partnership with X
-		- [[Rob Gordon]] and I built a bot which delivered the world's first AI community note (note, blog post)
+		- [[Rob Gordon]] and I built a bot which delivered the world's first AI community note (note, [blog post](https://nathanpmyoung.substack.com/p/worlds-first-ai-community-note))
 	- Forecasting
 		-
 	- Podcasts with experts on important issues
