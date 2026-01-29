@@ -5,8 +5,7 @@
 	- Automating [[X]] [[Community Notes]] in partnership with X
 		- [[Rob Gordon]] and I built a bot which delivered the world's first AI community note (note, blog post)
 	- Forecasting
-		- [Estimaker.app](https://estimaker.app/) - [Katja Grace’s AI model](https://estimaker.app/projects/10da8a56-634e-490d-8856-42c7954be2ac), [Scott Eastman’s Ukraine Model](https://estimaker.app/projects/9307d24b-af14-4e54-a827-9a62d827eb80)
-		- [[Estimaker]] is a tool for building visual models of probabilities. Then it's easier to figure out where experts disagree
+		-
 	- Podcasts with experts on important issues
 		- [Odds and Ends](https://www.youtube.com/watch?v=K0rr7hDNWs4&list=PLAA8NhPG-VO_PnBm3EkxGYObLIMs4r2wZ)
 	- Writing forecasting questions. If you'd like to have markets created, send them in tag or DM me on [[X]] at [@NathanpmYoung](https://X.com/NathanPMYoung)
