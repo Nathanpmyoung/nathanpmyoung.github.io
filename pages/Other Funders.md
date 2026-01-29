@@ -1,0 +1,2 @@
+- I was given money by the [[FTX Future Fund]] for building a prediction market creation tool. I finished this work. My heart goes out to those defrauded by FTX
+-
