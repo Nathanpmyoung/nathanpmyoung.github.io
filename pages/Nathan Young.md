@@ -1,12 +1,16 @@
 - _Life is a work in progress_
 - I build bots for [[Forecasting]] and [[Fact Checking]] in order to create [[Better Discourse]].
 - I have been funded by the [[Future of Life Foundation]], [[Jaan Tallinn]], [[Vitalik Buterin]] and [[Other Funders]] .
+- I manage a small team working on these projects.
 - I work on
 	- Automating [[X]] [[Community Notes]] in partnership with X
 		- [[Rob Gordon]] and I built a bot which delivered the world's first AI community note ([note, ours is the one with the most views](twitter https://x.com/i/birdwatch/t/1963098125586808871), [blog post](https://nathanpmyoung.substack.com/p/worlds-first-ai-community-note), [recognition by X]({{twitter https://x.com/jaybaxter/status/1963244285664620947}}))
 		- Our [current note writer]({{twitter https://x.com/i/communitynotes/u/wholesome-raspberry-stilt}}) has 10 million views in notes and is about 100th in all time writing impact, despite being launched in October
+		- This work is funded by foundations.
 	- Forecasting
-		-
+		- Paid forecaster at [[The Swift Centre]]
+		- Main paid antagonist in the [[Metaculus]] [2026 sprint tournament](https://www.metaculus.com/tournament/metaculus-cup-spring-2026/). If the community beats my predictions they get a much larger prize.
+		- Building forecasting bots.
 	- Podcasts with experts on important issues
 		- [Odds and Ends](https://www.youtube.com/watch?v=K0rr7hDNWs4&list=PLAA8NhPG-VO_PnBm3EkxGYObLIMs4r2wZ)
 	- Writing forecasting questions. If you'd like to have markets created, send them in tag or DM me on [[X]] at [@NathanpmYoung](https://X.com/NathanPMYoung)
@@ -60,7 +64,7 @@
   id:: 64b70037-671d-4199-ae7e-f4759d4be8a8
 - Took a long time to realise the bible is incoherent - ((64d934c5-a082-483e-9fbf-85c1fbe79e9d))
   id:: 64b70037-7ac7-4cb0-af1b-4e885e9e54ab
-- There are a set of mistakes around not spotting the [[FTXcrisis ahead of time. I did think something was fishy. But I didn’t get there in time ([will there be a firestorm about FTX](https://www.google.com/url?q=https://manifold.markets/NathanpmYoung/media-firestorm-about-sbf-before-20&sa=D&source=editors&ust=1689718329605338&usg=AOvVaw28KzK22RcWJ4xX05Xgy_Bv), set up a week beforehand) ([will FTX go bankrupt](https://www.google.com/url?q=https://manifold.markets/NathanpmYoung/will-ftx-go-bankrupt-before-2024&sa=D&source=editors&ust=1689718329605735&usg=AOvVaw3Ris7DqkQLzKmB41EugPCh), set up a month beforehand)
+- There are a set of mistakes around not spotting the [[FTX]] crisis ahead of time. I did think something was fishy. But I didn’t get there in time ([will there be a firestorm about FTX](https://www.google.com/url?q=https://manifold.markets/NathanpmYoung/media-firestorm-about-sbf-before-20&sa=D&source=editors&ust=1689718329605338&usg=AOvVaw28KzK22RcWJ4xX05Xgy_Bv), set up a week beforehand) ([will FTX go bankrupt](https://www.google.com/url?q=https://manifold.markets/NathanpmYoung/will-ftx-go-bankrupt-before-2024&sa=D&source=editors&ust=1689718329605735&usg=AOvVaw3Ris7DqkQLzKmB41EugPCh), set up a month beforehand)
 - Took too long to get [[ADHD]] diagnosis
   id:: 64b70037-06fc-4624-bdeb-bf79ac526860
 - See [[Mistakes]]
@@ -68,6 +72,4 @@
 - Got [Dustin Moskovitz to sign](https://twitter.com/moskov/status/1645465885493297152) the Giving What We Can pledge
 - I think there was a 1-5% chance [Elon would respond to this](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1596559616359415808&sa=D&source=editors&ust=1689718329606921&usg=AOvVaw2Sj4pwYbEUOiMt7NqD82EO)
 - Emilé Torres and I raised [$300k for GiveDirectly](https://www.google.com/url?q=https://www.givingwhatwecan.org/fundraisers/emile-and-nathan-christmas-fundraiser&sa=D&source=editors&ust=1689718329607389&usg=AOvVaw1Grf1ZeQPjzNtAMyBubE9G) - hard to say what the counterfactual for this money was, but I don't _think_ it was mostly EA money
-- I sense I made the Elon Musk slow AI post happen a bit earlier on expectation, perhaps by hours or a day
-- I sense I improved the UK AI Safety conference a bit
-- I hope one day I will be able to include either [[Estimaker]] or [[Viewpoints]] or some similar tool here.
+- World's first AI written community note, perhaps bringing that forward by a week or two (including due to helping the team at X)
