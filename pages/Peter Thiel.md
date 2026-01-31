@@ -1,0 +1,17 @@
+- Peter Thiel
+- Perplexity estimates of yearly spending 2021
+	- Political Spending: $10 million (Protect Ohio Values PAC), $10 million (Saving Arizona PAC), plus smaller donations totaling several thousand to Republican candidates and PACs.
+	- Philanthropy: Continued giving through the Thiel Foundation (an estimated $4-8 million range).
+- 2022
+	- Political Spending: More than $13 million directly to Republican-aligned PACs (multiple $2M+ donations), with total political spending estimates for the 2022 cycle reaching approximately $35 million to support Blake Masters and JD Vance.
+	- Palantir Stock Sales: Not reported as a significant outlier.
+- 2023
+	- Political Spending: Effectively zero (Thiel took a public "hiatus" from politics).
+	- Asset Sales/Investments: No major public stock sales or asset moves reported.
+- 2024
+	- Political Spending: Zero—Thiel confirmed (in interviews) he would not make any donations to political candidates or PACs in 2024.
+	- Asset Sales: Sold over $1.5 billion in Palantir stock (primary liquidity event).
+- 2025 (to date)
+	- Political Spending: $852,200 (donation to House Republican committees and distributed to various competitive races in early 2025).
+	- Major Asset Sales: Over $1 billion in Palantir stock sold by September 2025.
+	- Philanthropy: Ongoing low millions through the Thiel Foundation.

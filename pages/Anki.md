@@ -1,0 +1,4 @@
+- Somewhat inspired by [[Dwarkesh Patel]]
+- I don't expect to remember things I don't anki unless the come up exceedingly often
+- I have a daily anki practice
+- I try to think as I am doing the cards of my world model, searching things that don't make sense to me and making additional cards.

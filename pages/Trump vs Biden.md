@@ -1,7 +1,0 @@
-- Record
-	- Economy
-	- Inflation
-	- Russia
-	- Afganistan
-	- Israel
-	- Warp speed
