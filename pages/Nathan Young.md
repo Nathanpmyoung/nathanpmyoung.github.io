@@ -23,7 +23,7 @@
 	- [Parody rap](https://www.google.com/url?q=https://www.youtube.com/user/deltaTtv&sa=D&source=editors&ust=1689718329579255&usg=AOvVaw0QDIei16jecJdhRkXm2USe)
 - ![image.png](../assets/image_1689785034652_0.png)
 - # CV
-- Request a full CV here ([WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/KOP4sqvL2oL4UA5yn7jxsF&sa=D&source=editors&ust=1689718329589648&usg=AOvVaw1zf3GGuIozEy5x-Jj-mg12), [mail@nathanpmyou](mailto:mail@nathanpmyoung.com)n[g.com](mailto:mail@nathanpmyoung.com) or [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329590353&usg=AOvVaw3j1fv7A3XZW4j4BFpiDFOo))
+- Request a full CV here ([WhatsApp](https://www.google.com/url?q=https://chat.whatsapp.com/KOP4sqvL2oL4UA5yn7jxsF&sa=D&source=editors&ust=1689718329589648&usg=AOvVaw1zf3GGuIozEy5x-Jj-mg12), [mail@nathanpmyoung.com](mailto:mail@nathanpmyoung.com) or [@NathanpmYoung](https://www.google.com/url?q=https://twitter.com/NathanPMYoung&sa=D&source=editors&ust=1689718329590353&usg=AOvVaw3j1fv7A3XZW4j4BFpiDFOo))
 - **Company Director** - Frostwork Media
 	- _2016 – Present_
 	- Software development and forecasting
@@ -32,7 +32,7 @@
 		- Forecasting tools - [[Forecasting Question Generation]] ([doubtful.app](https://www.google.com/url?q=https://doubtful.app/&sa=D&source=editors&ust=1689718329591622&usg=AOvVaw2o1Z29d0DEmxtxjrEFFZlb)) and [visualising probabilistic models](https://www.google.com/url?q=https://probability-graph.predictionlab.org/&sa=D&source=editors&ust=1689718329591993&usg=AOvVaw0MSDUI6AstXxfaWzn34c8Q) - Product management, funded by the FTX Future Fund. *$10k of personal gain will go to **[FTX customers](https://www.google.com/url?q=https://twitter.com/NathanpmYoung/status/1625825225131626498&sa=D&source=editors&ust=1689718329592375&usg=AOvVaw12RinvRATH0KwNYpKJm-T9)** if there is a legal way to do this.*
 		- Professional forecaster - [Russian Mutiny](https://www.google.com/url?q=https://www.swiftcentre.org/russia-liveblog/&sa=D&source=editors&ust=1689718329592856&usg=AOvVaw0WFaW7Fzoz9HC-O4wE9iII), [US elections](https://www.google.com/url?q=https://www.swiftcentre.org/can-biden-win-in-2024/&sa=D&source=editors&ust=1689718329593152&usg=AOvVaw1jCchi3h5m0O5MLKcuLNb7) - for the [Swift Centre](https://www.google.com/url?q=https://www.swiftcentre.org/&sa=D&source=editors&ust=1689718329593441&usg=AOvVaw0XrbNU2e3NN4EcscAIarHd)
 - **Head of Forecasting - **[Zeitgeist](https://www.google.com/url?q=https://zeitgeist.pm/&sa=D&source=editors&ust=1689718329593845&usg=AOvVaw3d46nW6pOlTZtkKvMthQi9)
-	- _June 2022 -\*\* Jan 2023_
+	- _June 2022 - Jan 2023_
 	- Ensuring launch markets are high quality
 	- Supporting “Fire the CEO” markets to integrate [futarchy](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Futarchy%23:~:text%3DFutarchy%2520is%2520a%2520form%2520of,as%2520a%2520buzzword%2520of%25202008.&sa=D&source=editors&ust=1689718329594635&usg=AOvVaw34fYHZSvlTTW1gjT_SCc6G), a new governance mechanism built around prediction markets
 	- Managing question generation projects
