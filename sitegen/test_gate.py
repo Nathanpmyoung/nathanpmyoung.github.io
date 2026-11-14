@@ -6,14 +6,12 @@ OK_NOTE = '<meta name="source" content="pages/AI.md"><article>fine</article>'
 
 
 def run(files, private=None):
-    with tempfile.TemporaryDirectory() as out:
+    with tempfile.TemporaryDirectory() as out, tempfile.TemporaryDirectory() as pdir:
         for rel, text in files.items():
             os.makedirs(os.path.dirname(os.path.join(out, rel)) or out, exist_ok=True)
             open(os.path.join(out, rel), "w").write(text)
         args = [sys.executable, GATE, "--out", out]
         if private:
-            pdir = os.path.join(out, "..", os.path.basename(out) + "-private")
-            os.makedirs(pdir, exist_ok=True)
             open(os.path.join(pdir, "secret.md"), "w").write(f"- {private}\n")
             args += ["--private", pdir]
         r = subprocess.run(args, capture_output=True, text=True)
@@ -32,6 +30,8 @@ class Gate(unittest.TestCase):
             "no source tag": {"notes/x/index.html": "<article>hi</article>"},
             "unexpected file": {"private/notes.md": "x"},
             "stub with content": {"notes/x/index.html": '<meta name="source" content="stub"><ul class="blocks"><li>x</li></ul>'},
+            "stub with prose": {"notes/x/index.html": '<meta name="source" content="stub"><article><h1>x</h1><p>diary</p></article>'},
+            "hidden file": {"notes/.x.html": "diary"},
             "post without substack": {"posts/x/index.html": '<meta name="source" content="pages/AI.md">'},
         }
         for name, files in cases.items():

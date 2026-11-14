@@ -28,9 +28,11 @@ def ordinal(d):
 
 
 def graph_files():
-    out = subprocess.run(["git", "-C", ROOT, "ls-files", "-z", "--", "pages", "journals", "*.md"],
+    out = subprocess.run(["git", "-C", ROOT, "ls-files", "-s", "-z", "--", "pages", "journals", "*.md"],
                          capture_output=True, text=True, check=True).stdout
-    return sorted({p for p in out.split("\0") if p.endswith(".md") and (p.startswith(("pages/", "journals/")) or "/" not in p)})
+    files = (entry.split("\t", 1) for entry in out.split("\0") if entry)
+    return sorted({p for meta, p in files if not meta.startswith("120000") and p.endswith(".md")
+                   and (p.startswith(("pages/", "journals/")) or "/" not in p)})
 
 
 def git_dates():
