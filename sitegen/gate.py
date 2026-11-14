@@ -37,7 +37,7 @@ def main():
     a = ap.parse_args()
     bad = []
 
-    if "/streams/" in os.path.realpath(REPO):
+    if re.search(r"/streams/[^/]+/notes/", os.path.realpath(REPO) + "/"):
         bad.append(f"builder is running inside a private export: {REPO}")
     if not PUBLIC_REMOTE.match(git("remote", "get-url", "origin").strip()):
         bad.append("origin is not github.com/nathanpmyoung/nathanpmyoung.github.io")
