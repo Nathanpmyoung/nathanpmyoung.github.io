@@ -136,7 +136,9 @@ def fetch_posts():
         cursor = d.get("nextCursor")
         if not cursor or not d["posts"]:
             break
-    return [p for p in posts if p.get("audience") == "everyone" and p.get("body_html") and p.get("is_published", True)]
+    keep = ("slug", "title", "subtitle", "post_date", "updated_at", "canonical_url", "body_html")
+    return [{k: p.get(k) for k in keep} for p in posts
+            if p.get("audience") == "everyone" and p.get("body_html") and p.get("is_published", True)]
 
 
 class Clean(HTMLParser):
@@ -642,14 +644,17 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", required=True)
     ap.add_argument("--posts", help="JSON file of Substack posts; fetched and saved there if missing")
+    ap.add_argument("--refresh-posts", action="store_true", help="fetch from Substack even if --posts exists")
     ap.add_argument("--noindex", action="store_true", help="for previews")
     a = ap.parse_args()
-    if a.posts and os.path.exists(a.posts):
+    if a.posts and os.path.exists(a.posts) and not a.refresh_posts:
         posts = json.load(open(a.posts))
     else:
+        # Substack refuses GitHub's runners (403), so hq fetches and the workflow reads the saved file.
         posts = fetch_posts()
-        if a.posts:
-            json.dump(posts, open(a.posts, "w"))
+        if a.posts and len(posts) >= 50:
+            with open(a.posts, "w") as f:
+                json.dump(sorted(posts, key=lambda p: p["post_date"], reverse=True), f, indent=0, sort_keys=True)
     if len(posts) < 50:
         sys.exit(f"only {len(posts)} Substack posts fetched; refusing to build a site missing most of them")
     site = build(a.out, posts, a.noindex)
