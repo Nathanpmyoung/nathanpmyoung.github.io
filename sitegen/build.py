@@ -511,7 +511,7 @@ def shell(site, page_title, body, rel, url, desc="", canonical=None, noindex=Fal
 <link rel="stylesheet" href="{rel}style.css">{extra_head}</head><body>
 <header class="site"><a class="me" href="{rel}">{NAME}</a><a href="{rel}posts/">Posts</a><a href="{rel}notes/">Notes</a><a href="{rel}journal/">Journal</a><a href="{SUBSTACK}">Substack</a><a href="{rel}feed.xml">RSS</a></header>
 <main>{body}</main>
-<footer>Notes from Nathan's public <a href="https://logseq.com">Logseq</a> graph and posts from <a href="{SUBSTACK}">his Substack</a>. Built {site.built}.</footer>
+<footer>Notes from Nathan's public <a href="https://logseq.com">Logseq</a> graph and posts from <a href="{SUBSTACK}">his Substack</a>.{" Built " + site.built + "." if rel == "" and url == "" else ""}</footer>
 </body></html>"""
 
 
@@ -571,7 +571,7 @@ def build(out, posts, noindex=False):
         else:
             src = f'<meta name="source" content="{e(p["source"])}">' if p["source"] else '<meta name="source" content="stub">'
             meta = f'<div class="meta">{"Journal" if p["journal"] else "Note"}' + (f' · updated <time>{p["updated"][:10]}</time>' if p.get("updated") else "") + "</div>"
-            html_ = shell(site, p["title"] if p is not site.home else NAME, f'<article><h1>{e(p["title"])}</h1>{meta}{body}</article>{refs_html(p, rel)}',
+            html_ = shell(site, f'{p["title"]} · {NAME}' if p is not site.home else NAME,f'<article><h1>{e(p["title"])}</h1>{meta}{body}</article>{refs_html(p, rel)}',
                           rel, p["url"], desc, noindex=noindex, extra_head=src)
         write(p["url"] + "index.html", html_)
 
