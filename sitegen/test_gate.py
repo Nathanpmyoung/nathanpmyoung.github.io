@@ -32,7 +32,8 @@ class Gate(unittest.TestCase):
             "stub with content": {"notes/x/index.html": '<meta name="source" content="stub"><ul class="blocks"><li>x</li></ul>'},
             "stub with prose": {"notes/x/index.html": '<meta name="source" content="stub"><article><h1>x</h1><p>diary</p></article>'},
             "hidden file": {"notes/.x.html": "diary"},
-            "post without substack": {"posts/x/index.html": '<meta name="source" content="pages/AI.md">'},
+            "graph text in app dir": {"static/pages/Secret.md": "diary"},
+            "posts are gone": {"posts/x/index.html": "<meta name=\"source\" content=\"pages/AI.md\">"},
         }
         for name, files in cases.items():
             with self.subTest(name):

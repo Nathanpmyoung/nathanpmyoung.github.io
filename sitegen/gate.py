@@ -7,15 +7,18 @@ build.py on purpose; it reads the output and asks git directly.
 
 python3 sitegen/gate.py --out www [--private DIR]
 --private DIR: also fail if any line from a private Logseq export (that is not also in the
-public repo or a published Substack post) appears anywhere in the output. Used on hq; the
+public repo) appears anywhere in the output. Used on hq; the
 export never leaves the box.
 """
 import argparse, glob, html, os, re, subprocess, sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PUBLIC_REMOTE = re.compile(r"^(https://|git@|ssh://git@)github\.com[:/]nathanpmyoung/nathanpmyoung\.github\.io(\.git)?/?$", re.I)
-INDEXES = {"index.html", "posts/index.html", "notes/index.html", "journal/index.html"}
-FILES = {"style.css", "feed.xml", "sitemap.xml", "robots.txt", "llms.txt", "llms-full.txt", "CNAME", ".nojekyll"}
+INDEXES = {"notes/index.html", "journal/index.html"}
+FILES = {"notes.css", "sitemap.xml", "robots.txt", "llms.txt", "llms-full.txt", "CNAME", ".nojekyll"}
+# The Logseq app, built by logseq/publish-spa from this same repo: its data sits inside index.html.
+APP = {"index.html", "404.html"}
+APP_CODE = re.compile(r"static/(?![\w./-]*\.(md|org|edn|html?)$)[\w./-]+")  # app code and fonts, never graph text
 NOT_PUBLIC = re.compile(r"^\s*-?\s*public::\s*false", re.I | re.M)
 
 
@@ -61,7 +64,7 @@ def main():
         if os.path.islink(path):
             bad.append(f"{rel}: symlink in output")
             continue
-        if rel in INDEXES or rel in FILES:
+        if rel in INDEXES or rel in FILES or rel in APP or APP_CODE.fullmatch(rel):
             continue
         if rel.startswith("assets/"):
             if rel not in public:
@@ -69,7 +72,7 @@ def main():
             elif open(path, "rb").read() != git("show", f"origin/main:{rel}", text=False):
                 bad.append(f"{rel}: image differs from the public repo copy")
             continue
-        m = re.fullmatch(r"(posts|notes|journal)/[a-z0-9-]+/index\.html", rel)
+        m = re.fullmatch(r"(notes|journal)/[a-z0-9-]+/index\.html", rel)
         if not m:
             bad.append(f"{rel}: unexpected file")
             continue
@@ -79,10 +82,6 @@ def main():
             bad.append(f"{rel}: no single source tag")
             continue
         src = html.unescape(src[0])
-        if m.group(1) == "posts":
-            if not re.fullmatch(r"substack:[\w-]+", src):
-                bad.append(f"{rel}: post without a Substack source")
-            continue
         if src == "stub":
             own = re.search(r"<article>(.*?)</article>", page, re.S)
             if not own or flat(re.sub(r'<h1>.*?</h1>|<div class="meta">.*?</div>', "", own.group(1), flags=re.S)):
@@ -101,8 +100,6 @@ def main():
                 body = git("show", f"origin/main:{f}")
                 if not NOT_PUBLIC.search(body):
                     public_text.update(flat(re.sub(r"^[-\s]+", "", l)) for l in body.splitlines())
-        # Drafts he later published on Substack are public through the post itself.
-        posted = flat("".join(open(f, encoding="utf-8").read() for f in glob.glob(os.path.join(a.out, "posts", "*", "index.html"))))
         canaries = set()
         for f in glob.glob(os.path.join(a.private, "**", "*.md"), recursive=True):
             for l in open(f, encoding="utf-8", errors="replace"):
@@ -114,13 +111,14 @@ def main():
             for f in fs:
                 if f.endswith((".html", ".txt", ".xml")):
                     out_text += "\n" + flat(open(os.path.join(d, f), encoding="utf-8").read())
-        leaks = [c for c in canaries if c in out_text and c not in posted]
+        leaks = [c for c in canaries if c in out_text]
         if leaks:
             bad.append(f"{len(leaks)} private lines appear in the output, e.g.:\n  " + "\n  ".join(l[:90] for l in leaks[:5]))
         print(f"checked {len(canaries)} private lines against the output")
 
     if bad:
-        print("GATE FAILED: something not public would ship\n- " + "\n- ".join(bad))
+        more = f"\n- ...and {len(bad) - 20} more" if len(bad) > 20 else ""
+        print("GATE FAILED: something not public would ship\n- " + "\n- ".join(bad[:20]) + more)
         sys.exit(1)
     print("gate ok: every note is from the public repo; nothing private found")
 

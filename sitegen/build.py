@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
-"""Build nathanpmyoung.com as plain static HTML from this Logseq graph plus the Substack posts.
+"""Keep nathanpmyoung.com the Logseq app, and add a plain HTML copy of every public note for crawlers.
 
-python3 sitegen/build.py --out www                     # fetch Substack live
-python3 sitegen/build.py --out www --posts posts.json  # reuse a saved fetch
-Only reads the graph this script sits in; sitegen/gate.py checks the output.
+python3 sitegen/build.py --spa spa --out www   # spa = what logseq/publish-spa built
+Crawlers that don't run JavaScript see nothing in the Logseq app. Only reads the graph this
+script sits in; sitegen/gate.py checks the output.
 """
-import argparse, datetime as dt, html, json, os, re, shutil, subprocess, sys, urllib.parse, urllib.request
-from email.utils import format_datetime
-from html.parser import HTMLParser
+import argparse, datetime as dt, html, os, re, shutil, subprocess, sys, urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://nathanpmyoung.com"
@@ -123,94 +121,10 @@ def load_graph():
     return pages
 
 
-# ---------- Substack ----------
-
-def fetch_posts():
-    posts, cursor = [], None
-    while True:
-        u = f"{SUBSTACK}/api/v1/posts?limit=20" + (f"&cursor={urllib.parse.quote(cursor)}" if cursor else "")
-        req = urllib.request.Request(u, headers={"User-Agent": "nathanpmyoung.com site builder"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            d = json.load(r)
-        posts += d["posts"]
-        cursor = d.get("nextCursor")
-        if not cursor or not d["posts"]:
-            break
-    keep = ("slug", "title", "subtitle", "post_date", "updated_at", "canonical_url", "body_html")
-    return [{k: p.get(k) for k in keep} for p in posts
-            if p.get("audience") == "everyone" and p.get("body_html") and p.get("is_published", True)]
-
-
-class Clean(HTMLParser):
-    """Keep the prose of a Substack post; drop widgets, scripts, styles and unknown attributes."""
-    KEEP = {"p", "a", "em", "strong", "b", "i", "u", "s", "ul", "ol", "li", "blockquote", "h1", "h2", "h3", "h4", "h5",
-            "h6", "img", "figure", "figcaption", "pre", "code", "hr", "br", "table", "thead", "tbody", "tr", "th", "td",
-            "sup", "sub", "div"}
-    DROP = {"script", "style", "button", "form", "input", "svg", "iframe", "noscript", "source", "template", "select"}
-    DROP_CLASS = ("subscription-widget", "button-wrapper", "subscribe", "share", "image-link-expand", "pencraft", "tweet",
-                  "embedded-post", "poll-embed", "digest-post-embed", "install-substack")
-    VOID = {"img", "br", "hr", "source", "input"}
-
-    def __init__(self, link):
-        super().__init__(convert_charrefs=False)
-        self.out, self.skip, self.link = [], [], link
-
-    def handle_starttag(self, tag, attrs):
-        a = dict(attrs)
-        if self.skip:
-            if tag not in self.VOID:
-                self.skip.append(tag)
-            return
-        if tag in self.DROP or any(c in (a.get("class") or "") for c in self.DROP_CLASS):
-            try:
-                url = json.loads(a.get("data-attrs") or "{}").get("url") or ""
-            except (ValueError, AttributeError):
-                url = ""
-            if url.startswith("https://") and "subscribe" not in url:
-                self.out.append(f'<p><a class="media" href="{e(self.link(url))}">{e(url)}</a></p>')
-            if tag not in self.VOID:
-                self.skip.append(tag)
-            return
-        if tag not in self.KEEP:
-            return
-        keep = []
-        if tag == "a" and a.get("href", "").startswith(("http://", "https://", "mailto:", "#")):
-            keep.append(("href", self.link(a["href"])))
-        if tag == "img":
-            if not (a.get("src") or "").startswith("https://"):
-                return
-            keep += [("src", a["src"]), ("alt", a.get("alt") or ""), ("loading", "lazy")]
-        if a.get("id") and re.fullmatch(r"[\w-]+", a["id"]):
-            keep.append(("id", a["id"]))
-        if tag == "div" and "footnote" in (a.get("class") or ""):
-            keep.append(("class", "footnote"))
-        self.out.append(f"<{tag}" + "".join(f' {k}="{e(v)}"' for k, v in keep) + ">")
-
-    def handle_endtag(self, tag):
-        if self.skip:
-            if self.skip[-1] == tag:
-                self.skip.pop()
-            return
-        if tag in self.KEEP and tag not in self.VOID:
-            self.out.append(f"</{tag}>")
-
-    def handle_data(self, d):
-        if not self.skip:
-            self.out.append(e(d, quote=False))
-
-    def handle_entityref(self, n):
-        if not self.skip:
-            self.out.append(f"&{n};")
-
-    def handle_charref(self, n):
-        if not self.skip:
-            self.out.append(f"&#{n};")
-
-
 # ---------- the site ----------
 
 class Site:
-    def __init__(self, notes, posts):
+    def __init__(self, notes):
         self.pages, self.by_name, self.backlinks, self.assets, self.blocks_by_id = [], {}, {}, set(), {}
         used = set()
 
@@ -221,13 +135,6 @@ class Site:
             used.add(u)
             return u
 
-        for p in posts:
-            date = p["post_date"][:10]
-            self.add(dict(kind="post", title=p["title"], subtitle=p.get("subtitle") or "", date=date,
-                          updated=p.get("updated_at") or p["post_date"], url=claim(f"posts/{slugify(p['slug'])}/"),
-                          canonical=p.get("canonical_url") or f"{SUBSTACK}/p/{p['slug']}", raw=p["body_html"],
-                          source=f"{SUBSTACK}/p/{p['slug']}", slug=p["slug"], aliases=[]))
-        self.post_by_slug = {p["slug"]: p for p in self.pages}
         for n in notes:
             n["url"] = claim(n["url"] or f"notes/{slugify(n['title'])}/")
             self.add(n)
@@ -296,12 +203,6 @@ class Site:
         return f'<a class="{cls or "ref"}" href="{rel}{target["url"]}">{text}</a>'
 
     def ext_link(self, url, rel, label):
-        m = re.match(r"https?://(?:www\.)?nathanpmyoung\.substack\.com/p/([\w-]+)", url)
-        if m and m.group(1) in self.post_by_slug:
-            post = self.post_by_slug[m.group(1)]
-            if self.cur is not None and self.counting is None and post is not self.cur:
-                self.backlinks.setdefault(post["url"], {}).setdefault(self.cur["url"], (self.cur, []))
-            return f'<a class="ref" href="{rel}{post["url"]}">{label}</a>'
         if not re.match(r"^(https?:|mailto:)", url):
             return label
         return f'<a href="{e(url)}">{label}</a>'
@@ -458,15 +359,6 @@ class Site:
                 out.append(f"<p>{self.inline(chunk, rel).replace(chr(10), '<br>')}</p>")
         return "".join(out)
 
-    def post_link(self, href):
-        m = re.match(r"https?://(?:www\.)?nathanpmyoung\.substack\.com/p/([\w-]+)(#.*)?$", href)
-        if m and m.group(1) in self.post_by_slug:
-            p = self.post_by_slug[m.group(1)]
-            if p is not self.cur:
-                self.backlinks.setdefault(p["url"], {}).setdefault(self.cur["url"], (self.cur, []))
-            return "../../" + p["url"] + (m.group(2) or "")
-        return href
-
 
 CSS = """
 :root{--bg:#fbfaf7;--fg:#1f2328;--mute:#6a6f76;--line:#e4e1da;--link:#155e75;--ref:#7c3aed;--card:#f3f1ec}
@@ -488,34 +380,28 @@ ul.blocks li{position:relative;margin:.15rem 0}ul.blocks li::before{content:"";p
 img{max-width:100%;height:auto}pre{overflow:auto;background:var(--card);padding:.6rem;border-radius:4px;font-size:.85rem}
 code{font-size:.88em}blockquote{border-left:3px solid var(--line);margin:.5rem 0;padding-left:.9rem;color:var(--mute)}
 table{border-collapse:collapse;font-size:.9rem;margin:1rem 0;display:block;overflow:auto}td,th{border:1px solid var(--line);padding:.25rem .5rem}
-.post figure{margin:1.2rem 0}.post figcaption{color:var(--mute);font-size:.85rem}.footnote{font-size:.9rem;color:var(--mute)}
 section.refs{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem}
-section.refs h2,.cols h2{font:600 .8rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--mute)}
+section.refs h2,h2.small{font:600 .8rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--mute)}
 .ref-src{margin:.9rem 0 .2rem;font-weight:600}.ref-snip{background:var(--card);border-radius:4px;padding:.3rem .7rem;margin:.2rem 0;font-size:.95rem}
-.list{list-style:none;padding:0;margin:0}.list li{margin:.35rem 0;display:flex;gap:.8rem}.list time{color:var(--mute);font:.82rem/1.9 system-ui,sans-serif;white-space:nowrap;min-width:5.6rem}
+.list{list-style:none;padding:0;margin:0 0 2rem}.list li{margin:.35rem 0;display:flex;gap:.8rem}.list time{color:var(--mute);font:.82rem/1.9 system-ui,sans-serif;white-space:nowrap;min-width:5.6rem}
 .notes-grid{columns:15rem;column-gap:1.5rem;font-size:.95rem}.notes-grid a{display:block;break-inside:avoid;padding:.1rem 0}
-.cols{display:grid;grid-template-columns:1fr;gap:2rem;margin-top:2.2rem}@media (min-width:900px){body{max-width:62rem}.cols{grid-template-columns:3fr 2fr}}
-.kind{font:.7rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--mute)}
 footer{margin-top:3rem;color:var(--mute);font:.8rem system-ui,sans-serif}
 """
 
-LEGACY_JS = """<script>(function(){var h=location.hash.match(/^#\\/page\\/(.+)$/);if(!h)return;var m=%s;
-var k=decodeURIComponent(h[1]).toLowerCase();if(m[k])location.replace(m[k]);})();</script>"""
 
-
-def shell(site, page_title, body, rel, url, desc="", canonical=None, noindex=False, extra_head=""):
-    canon = canonical or f"{SITE}/{url}"
+def shell(page_title, body, rel, url, desc="", noindex=False, extra_head="", logseq_title=None):
+    canon = f"{SITE}/{url}"
     robots = '<meta name="robots" content="noindex">' if noindex else ""
+    live = f'<a href="{rel}#/page/{e(urllib.parse.quote(logseq_title.lower()))}">Open in Logseq view</a>' if logseq_title else ""
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(page_title)}</title><meta name="description" content="{e(desc[:200])}">
 <link rel="canonical" href="{e(canon)}">{robots}<meta name="author" content="{NAME}">
 <meta property="og:title" content="{e(page_title)}"><meta property="og:description" content="{e(desc[:200])}"><meta property="og:url" content="{e(canon)}">
-<link rel="alternate" type="application/rss+xml" title="{NAME}" href="{rel}feed.xml">
-<link rel="stylesheet" href="{rel}style.css">{extra_head}</head><body>
-<header class="site"><a class="me" href="{rel}">{NAME}</a><a href="{rel}posts/">Posts</a><a href="{rel}notes/">Notes</a><a href="{rel}journal/">Journal</a><a href="{SUBSTACK}">Substack</a><a href="{rel}feed.xml">RSS</a></header>
+<link rel="stylesheet" href="{rel}notes.css">{extra_head}</head><body>
+<header class="site"><a class="me" href="{rel}">{NAME}</a><a href="{rel}notes/">All notes</a><a href="{rel}journal/">Journal</a>{live}<a href="{SUBSTACK}">Blog</a></header>
 <main>{body}</main>
-<footer>Notes from Nathan's public <a href="https://logseq.com">Logseq</a> graph and posts from <a href="{SUBSTACK}">his Substack</a>.{" Built " + site.built + "." if rel == "" and url == "" else ""}</footer>
+<footer>A plain-text copy of a page from Nathan's public <a href="https://logseq.com">Logseq</a> graph, for readers and crawlers that don't run JavaScript.</footer>
 </body></html>"""
 
 
@@ -523,12 +409,14 @@ def plain(fragment):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", fragment))).strip()
 
 
-def build(out, posts, noindex=False):
-    site = Site(load_graph(), posts)
-    site.built = dt.date.today().isoformat()
+def build(out, spa, noindex=False):
+    """Copy the Logseq app (publish-spa output) to `out` and add one plain HTML page per public note."""
+    site = Site(load_graph())
+    if not os.path.isfile(os.path.join(spa, "index.html")):
+        sys.exit(f"{spa} has no index.html; expected the Logseq publish-spa output")
     if os.path.isdir(out):
         shutil.rmtree(out)
-    os.makedirs(out)
+    shutil.copytree(spa, out, symlinks=False, ignore=shutil.ignore_patterns(".git"))
 
     def write(rel_path, text):
         path = os.path.join(out, rel_path)
@@ -541,13 +429,7 @@ def build(out, posts, noindex=False):
     for p in site.pages:
         site.cur = p
         rel = "../" * p["url"].count("/")
-        if p["kind"] == "post":
-            c = Clean(lambda h: site.post_link(h))
-            c.feed(p["raw"])
-            c.close()
-            bodies[p["url"]] = "".join(c.out)
-        else:
-            bodies[p["url"]] = site.render_blocks(p["blocks"], rel) + (site.prose_html(p["prose"], rel) if p["prose"] else "")
+        bodies[p["url"]] = site.render_blocks(p["blocks"], rel) + (site.prose_html(p["prose"], rel) if p["prose"] else "")
     site.cur = None
 
     def refs_html(p, rel):
@@ -555,8 +437,8 @@ def build(out, posts, noindex=False):
         if not refs:
             return ""
         items = []
-        for src, snips in sorted(refs.values(), key=lambda r: (r[0]["kind"] != "post", r[0]["title"].lower())):
-            items.append(f'<div class="ref-src"><a href="{rel}{src["url"]}">{e(src["title"])}</a> <span class="kind">{"post" if src["kind"] == "post" else ""}</span></div>')
+        for src, snips in sorted(refs.values(), key=lambda r: r[0]["title"].lower()):
+            items.append(f'<div class="ref-src"><a href="{rel}{src["url"]}">{e(src["title"])}</a></div>')
             src_rel = "../" * src["url"].count("/")
             for _, snip in snips[:3]:
                 items.append(f'<div class="ref-snip">{snip.replace(f"href={chr(34)}{src_rel}", f"href={chr(34)}{rel}")}</div>')
@@ -565,76 +447,48 @@ def build(out, posts, noindex=False):
     for p in site.pages:
         rel = "../" * p["url"].count("/")
         body = bodies[p["url"]]
-        desc = plain(body)[:200]
-        if p["kind"] == "post":
-            head = f'<h1>{e(p["title"])}</h1>' + (f'<p class="sub">{e(p["subtitle"])}</p>' if p["subtitle"] else "")
-            meta = f'<div class="meta"><time datetime="{p["date"]}">{p["date"]}</time> · first published on <a href="{e(p["canonical"])}">Substack</a></div>'
-            html_ = shell(site, p["title"], f'<article class="post">{head}{meta}{body}</article>{refs_html(p, rel)}', rel, p["url"],
-                          p["subtitle"] or desc, canonical=p["canonical"], noindex=noindex,
-                          extra_head=f'<meta name="source" content="substack:{e(p["slug"])}">')
-        else:
-            src = f'<meta name="source" content="{e(p["source"])}">' if p["source"] else '<meta name="source" content="stub">'
-            meta = f'<div class="meta">{"Journal" if p["journal"] else "Note"}' + (f' · updated <time>{p["updated"][:10]}</time>' if p.get("updated") else "") + "</div>"
-            html_ = shell(site, f'{p["title"]} · {NAME}' if p is not site.home else NAME,f'<article><h1>{e(p["title"])}</h1>{meta}{body}</article>{refs_html(p, rel)}',
-                          rel, p["url"], desc, noindex=noindex, extra_head=src)
-        write(p["url"] + "index.html", html_)
+        src = f'<meta name="source" content="{e(p["source"])}">' if p["source"] else '<meta name="source" content="stub">'
+        meta = f'<div class="meta">{"Journal" if p["journal"] else "Note"}' + (f' · updated <time>{p["updated"][:10]}</time>' if p.get("updated") else "") + "</div>"
+        write(p["url"] + "index.html", shell(f'{p["title"]} · {NAME}', f'<article><h1>{e(p["title"])}</h1>{meta}{body}</article>{refs_html(p, rel)}',
+                                             rel, p["url"], plain(body)[:200], noindex, src, logseq_title=p["title"]))
 
-    posts_sorted = sorted([p for p in site.pages if p["kind"] == "post"], key=lambda p: p["date"], reverse=True)
-    notes = sorted([p for p in site.pages if p["kind"] in ("note", "stub") and not p.get("journal") and p is not site.home], key=lambda p: p["title"].lower())
+    notes = sorted([p for p in site.pages if not p.get("journal")], key=lambda p: (p is not site.home, p["title"].lower()))
     journals = sorted([p for p in site.pages if p.get("journal")], key=lambda p: p["journal"], reverse=True)
-
-    def post_list(ps, rel):
-        return '<ul class="list">' + "".join(f'<li><time>{p["date"]}</time><a href="{rel}{p["url"]}">{e(p["title"])}</a></li>' for p in ps) + "</ul>"
-
-    def note_grid(ns, rel):
-        return '<div class="notes-grid">' + "".join(f'<a href="{rel}{n["url"]}">{e(n["title"])}</a>' for n in ns) + "</div>"
-
-    redirect_map = {}
-    for p in site.pages:
-        if p["kind"] != "post":
-            for name in [p["title"]] + p["aliases"]:
-                redirect_map.setdefault(name.lower(), p["url"])
-    home_body = re.sub(r'(href|src)="\.\./\.\./', r'\1="', bodies[site.home["url"]]) if site.home else ""
-    recent_notes = sorted([n for n in notes if n.get("updated")], key=lambda n: n["updated"], reverse=True)[:12]
-    recent = "".join(f'<li><time>{n["updated"][:10]}</time><a href="{n["url"]}">{e(n["title"])}</a></li>' for n in recent_notes)
-    home = (f"<h1>{NAME}</h1>{home_body}<div class=\"cols\"><section><h2>Recent posts</h2>{post_list(posts_sorted[:15], '')}"
-            f'<p><a href="posts/">All {len(posts_sorted)} posts →</a></p></section><section><h2>Recently edited notes</h2>'
-            f'<ul class="list">{recent}</ul>'
-            f'<p><a href="notes/">All {len(notes)} notes →</a></p></section></div>')
-    write("index.html", shell(site, NAME, home, "", "", "Nathan Young's notes and essays on forecasting, AI, discourse and more.", noindex=noindex,
-                              extra_head=LEGACY_JS % json.dumps(redirect_map)))
-    write("posts/index.html", shell(site, f"Posts · {NAME}", f"<h1>Posts</h1>{post_list(posts_sorted, '../')}", "../", "posts/", noindex=noindex))
-    write("notes/index.html", shell(site, f"Notes · {NAME}", f"<h1>Notes</h1><p class=\"sub\">Pages from my public Logseq graph. Links between them work like Logseq's.</p>{note_grid(notes, '../')}", "../", "notes/", noindex=noindex))
-    write("journal/index.html", shell(site, f"Journal · {NAME}", f"<h1>Journal</h1>{note_grid(journals, '../')}", "../", "journal/", noindex=noindex))
-    write("style.css", CSS)
-    if site.assets:
-        os.makedirs(os.path.join(out, "assets"))
-        for a in sorted(site.assets):
+    grid = lambda ns, rel: '<div class="notes-grid">' + "".join(f'<a href="{rel}{n["url"]}">{e(n["title"])}</a>' for n in ns) + "</div>"
+    recent = sorted([n for n in notes if n.get("updated")], key=lambda n: n["updated"], reverse=True)[:12]
+    recent_html = '<ul class="list">' + "".join(f'<li><time>{n["updated"][:10]}</time><a href="../{n["url"]}">{e(n["title"])}</a></li>' for n in recent) + "</ul>"
+    write("notes/index.html", shell(f"Notes · {NAME}", f'<h1>Notes</h1><p class="sub">Every page of my public Logseq graph as plain text.</p>'
+                                    f'<h2 class="small">Recently edited</h2>{recent_html}<h2 class="small">All notes</h2>{grid(notes, "../")}',
+                                    "../", "notes/", "Every page of Nathan Young's public Logseq graph.", noindex))
+    write("journal/index.html", shell(f"Journal · {NAME}", f"<h1>Journal</h1>{grid(journals, '../')}", "../", "journal/", noindex=noindex))
+    write("notes.css", CSS)
+    for a in sorted(site.assets):
+        if not os.path.exists(os.path.join(out, "assets", a)):
+            os.makedirs(os.path.join(out, "assets"), exist_ok=True)
             shutil.copy2(os.path.join(ROOT, "assets", a), os.path.join(out, "assets", a))
 
-    # Crawlers: sitemap, feed, robots, llms.txt.
-    urls = [("", site.built)] + [(p["url"], (p.get("updated") or "")[:10]) for p in site.pages]
+    # The Logseq app's own page is empty without JavaScript: give it a title and links crawlers can follow.
+    index = os.path.join(out, "index.html")
+    app = open(index, encoding="utf-8").read()
+    links = "".join(f'<li><a href="{n["url"]}">{e(n["title"])}</a></li>' for n in notes + journals)
+    app = app.replace("<title></title>", f"<title>{NAME}</title>", 1)
+    app = app.replace("</body>", f'<noscript><h1>{NAME}</h1><p><a href="notes/">All notes as plain pages</a></p><ul>{links}</ul></noscript></body>', 1)
+    if noindex:
+        app = app.replace("</head>", '<meta name="robots" content="noindex"></head>', 1)
+    write("index.html", app)
+
+    urls = [("", None), ("notes/", None)] + [(p["url"], (p.get("updated") or "")[:10]) for p in site.pages]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
           "".join(f"<url><loc>{SITE}/{u}</loc>" + (f"<lastmod>{d}</lastmod>" if d else "") + "</url>\n" for u, d in urls) + "</urlset>\n")
-    items = "".join(
-        f"<item><title>{e(p['title'])}</title><link>{SITE}/{p['url']}</link><guid isPermaLink=\"false\">{e(p['canonical'])}</guid>"
-        f"<pubDate>{format_datetime(dt.datetime.fromisoformat(p['date']).replace(tzinfo=dt.timezone.utc))}</pubDate>"
-        f"<description>{e(bodies[p['url']].replace('href=\"../../', f'href=\"{SITE}/'))}</description></item>\n" for p in posts_sorted[:50])
-    write("feed.xml", f'<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>{NAME}</title><link>{SITE}/</link>'
-          f"<description>Essays and notes by {NAME}</description>\n{items}</channel></rss>\n")
     write("robots.txt", "# Crawlers, including AI crawlers, are welcome here. Please read, index and train.\n"
           "User-agent: *\nAllow: /\nContent-Signal: search=yes, ai-input=yes, ai-train=yes\n\n"
           + "".join(f"User-agent: {b}\nAllow: /\n\n" for b in ["GPTBot", "ClaudeBot", "anthropic-ai", "CCBot", "Google-Extended",
                                                                   "Applebot-Extended", "PerplexityBot", "meta-externalagent", "Bytespider"])
           + f"Sitemap: {SITE}/sitemap.xml\n")
-    llms = [f"# {NAME}\n\n> Notes (public Logseq graph) and essays (Substack) by {NAME}. Full text of everything: {SITE}/llms-full.txt\n\n## Posts\n"]
-    llms += [f"- [{p['title']}]({SITE}/{p['url']})\n" for p in posts_sorted]
-    llms += ["\n## Notes\n"] + [f"- [{n['title']}]({SITE}/{n['url']})\n" for n in notes if n["kind"] == "note"]
-    write("llms.txt", "".join(llms))
-    full = []
-    for p in posts_sorted + [n for n in notes if n["kind"] == "note"] + ([site.home] if site.home else []):
-        full.append(f"# {p['title']}\n{SITE}/{p['url']}\n\n{plain(bodies[p['url']])}\n")
-    write("llms-full.txt", "\n\n".join(full))
+    real = [n for n in notes if n["kind"] == "note"]
+    write("llms.txt", f"# {NAME}\n\n> Notes from {NAME}'s public Logseq graph. Full text of all of them: {SITE}/llms-full.txt\n\n## Notes\n"
+          + "".join(f"- [{n['title']}]({SITE}/{n['url']})\n" for n in real))
+    write("llms-full.txt", "\n\n".join(f"# {p['title']}\n{SITE}/{p['url']}\n\n{plain(bodies[p['url']])}\n" for p in real + journals))
     write("CNAME", "nathanpmyoung.com\n")
     write(".nojekyll", "")
     return site
@@ -642,22 +496,11 @@ def build(out, posts, noindex=False):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--spa", required=True, help="the Logseq publish-spa output directory")
     ap.add_argument("--out", required=True)
-    ap.add_argument("--posts", help="JSON file of Substack posts; fetched and saved there if missing")
-    ap.add_argument("--refresh-posts", action="store_true", help="fetch from Substack even if --posts exists")
     ap.add_argument("--noindex", action="store_true", help="for previews")
     a = ap.parse_args()
-    if a.posts and os.path.exists(a.posts) and not a.refresh_posts:
-        posts = json.load(open(a.posts))
-    else:
-        # Substack refuses GitHub's runners (403), so hq fetches and the workflow reads the saved file.
-        posts = fetch_posts()
-        if a.posts and len(posts) >= 50:
-            with open(a.posts, "w") as f:
-                json.dump(sorted(posts, key=lambda p: p["post_date"], reverse=True), f, indent=0, sort_keys=True)
-    if len(posts) < 50:
-        sys.exit(f"only {len(posts)} Substack posts fetched; refusing to build a site missing most of them")
-    site = build(a.out, posts, a.noindex)
+    site = build(a.out, a.spa, a.noindex)
     kinds = {}
     for p in site.pages:
         kinds[p["kind"]] = kinds.get(p["kind"], 0) + 1

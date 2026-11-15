@@ -1,6 +1,5 @@
-# Builds nathanpmyoung.com as static HTML: public Logseq pages from this repo plus Substack posts.
-# Runs on every push to main (new notes) and when hq dispatches it after saving new Substack
-# posts to the substack-data branch (Substack refuses GitHub's runners, so they can't fetch it).
+# Publishes nathanpmyoung.com: the Logseq app as before, plus a plain HTML copy of every public
+# note (sitegen/) so crawlers that don't run JavaScript can read it.
 # The privacy gate must pass or nothing deploys and the live site stays as it was.
 on:
   push:
@@ -21,20 +20,18 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - uses: logseq/publish-spa@v0.2.0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Gate tests (the gate must catch a private page)
         run: python3 sitegen/test_gate.py
-      - name: Build
-        run: |
-          git fetch -q origin substack-data
-          git show origin/substack-data:posts.json > "$RUNNER_TEMP/posts.json"
-          python3 sitegen/build.py --out www --posts "$RUNNER_TEMP/posts.json"
+      - name: Add plain HTML pages
+        run: python3 sitegen/build.py --spa www --out "$RUNNER_TEMP/site"
       - name: Privacy gate
-        run: python3 sitegen/gate.py --out www
+        run: python3 sitegen/gate.py --out "$RUNNER_TEMP/site"
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: www
+          folder: ${{ runner.temp }}/site
           branch: gh-pages
